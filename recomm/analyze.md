@@ -18,8 +18,8 @@
 
 插件市场搜索: `bvid`
 
-这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-bvid)观摩学习和标星
+> 这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-bvid)观摩学习和标星
 
 插件会检测聊天中的 BV 号或者形如 `b23.tv/xxxxx` 格式的链接，转化成 AV 号链接并且和封面一起发送
 
@@ -31,8 +31,8 @@
 
 插件市场搜索: `youtube`
 
-这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-youtube)观摩学习和标星
+> 这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-youtube)观摩学习和标星
 
 插件会解析聊天中的 Youtube 链接，发送封面、标题、频道、发布时间和标签
 
@@ -44,8 +44,8 @@
 
 插件市场搜索: `v2ex`
 
-这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-v2ex)观摩学习和标星
+> 这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-v2ex)观摩学习和标星
 
 插件会解析聊天中的 V2EX 链接，发送节点、标题和内容
 
@@ -57,8 +57,8 @@
 
 插件市场搜索: `twitter-images-videos`
 
-这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-twitter-images-videos)观摩学习和标星
+> 这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-twitter-images-videos)观摩学习和标星
 
 插件会解析聊天中的推特链接，发送其中的内容 (作者、文字、图片、视频)
 
@@ -70,7 +70,7 @@
 
 插件市场搜索: `instagram-image-video-downloader`
 
-这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-instagram-downloader)观摩学习和标星
+> 这个插件由我们的 [@tediorelee](https://github.com/tediorelee) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/tediorelee/koishi-plugin-instagram-downloader)观摩学习和标星
 
 插件会解析聊天中的 Instagram 链接，发送其中的图片 (虽然叫做 image video downloader 不过目前确实是只会发图片呢)

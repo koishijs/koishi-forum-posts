@@ -18,8 +18,8 @@
 
 插件市场搜索: `image-search`
 
-这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-image-search)观摩学习和标星
+> 这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-image-search)观摩学习和标星
 
 插件提供了 `search` 和 `saucenao` `ascii2d` `iqdb` 四个命令，可以综合或者分别使用三个引擎进行以图搜图并解析图片来源
 
@@ -31,8 +31,8 @@
 
 插件市场搜索: `music`
 
-这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-music)观摩学习和标星
+> 这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-music)观摩学习和标星
 
 插件提供了 `music` 命令和 `来一手` `点一首` `整一首` 三个别名，可以在网易云音乐或者 QQ 音乐搜索歌曲并发出
 
@@ -42,8 +42,8 @@
 
 插件市场搜索: `douban`
 
-这个插件由我们的 [@Mahoo12138](https://github.com/Mahoo12138) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/Mahoo12138/koishi-plugin-douban)观摩学习和标星
+> 这个插件由我们的 [@Mahoo12138](https://github.com/Mahoo12138) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/Mahoo12138/koishi-plugin-douban)观摩学习和标星
 
 插件提供了 `douban` 命令和 `-b` `-f` `-m` 三个选项，可以通过豆瓣搜索图书、电影和音乐，默认会搜索电影
 
@@ -53,8 +53,8 @@
 
 插件市场搜索: `weather`
 
-这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-weather)观摩学习和标星
+> 这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-weather)观摩学习和标星
 
 插件提供了 `weather` 命令，可以通过经纬度查询某地的天气
 
@@ -66,11 +66,9 @@
 
 插件市场搜索: `oeis`
 
-这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
-有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-oeis)观摩学习和标星
+> 这个插件由我们的 [@Shigma](https://github.com/shigma) 为大家实现
+> 有兴趣学习的小伙伴可以前往[源代码地址](https://github.com/koishijs/koishi-plugin-oeis)观摩学习和标星
 
 这个插件提供了一个 `oeis` 命令，可以通过 OEIS 网站搜索你想要的整数数列
 
-> 这个插件目前似乎没有在做功，有没有热心的小伙伴来帮一帮这个插件呢
-
-> 因为它不会炸掉你的机器人所以还是列在这里了
+> 请注意刷屏警告
