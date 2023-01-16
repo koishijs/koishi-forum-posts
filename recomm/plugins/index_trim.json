@@ -1,0 +1,5679 @@
+[
+  {
+    "name": "@idlist/koishi-plugin-blive",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40idlist%2Fkoishi-plugin-blive",
+      "homepage": "https://github.com/idlist/koishi-plugin-blive#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-blive",
+      "bugs": "https://github.com/idlist/koishi-plugin-blive/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ]
+  },
+  {
+    "name": "@koishijs/plugin-adapter-discord",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-discord",
+      "homepage": "https://koishi.chat/plugins/adapter/discord.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "discord",
+      "chatbot",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-adapter-feishu",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-feishu",
+      "homepage": "https://koishi.chat/plugins/adapter/feishu.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "feishu",
+      "chatbot",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-adapter-kook",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-kook",
+      "homepage": "https://koishi.chat/plugins/adapter/kook.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "kook",
+      "kaiheila",
+      "chatbot",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-adapter-onebot",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-onebot",
+      "homepage": "https://koishi.chat/plugins/adapter/onebot.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-adapter-qqguild",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-qqguild",
+      "homepage": "https://koishi.chat/plugins/adapter/qqguild.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "qqbot",
+      "qqguild",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-adapter-telegram",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-telegram",
+      "homepage": "https://koishi.chat/plugins/adapter/telegram.html",
+      "repository": "https://github.com/satorijs/satori",
+      "bugs": "https://github.com/satorijs/satori/issues"
+    },
+    "keywords": [
+      "bot",
+      "telegram",
+      "chatbot",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-admin",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-admin",
+      "homepage": "https://koishi.js.org/plugins/accessibility/admin.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "admin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-analytics",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-analytics",
+      "homepage": "https://github.com/koishijs/console#readme",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "chart",
+      "console",
+      "statistics",
+      "analytics",
+      "status"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-auth",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-auth",
+      "homepage": "https://koishi.chat/plugins/console/auth.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "auth",
+      "authentication",
+      "login",
+      "console"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-bind",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-bind",
+      "homepage": "https://koishi.js.org/plugins/accessibility/bind.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "bind"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-broadcast",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-broadcast",
+      "homepage": "https://koishi.js.org/plugins/common/broadcast.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "broadcast"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-callme",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-callme",
+      "homepage": "https://koishi.chat/plugins/accessibility/callme.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "callme"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-chat",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-chat",
+      "homepage": "https://koishi.chat/plugins/console/chat.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "chat",
+      "server"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-commands",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-commands",
+      "homepage": "https://koishi.chat/plugins/console/commands.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "command"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-console",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-console",
+      "homepage": "https://koishi.chat/plugins/console/",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "frontend",
+      "webui",
+      "console"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-database-memory",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-database-memory",
+      "homepage": "https://koishi.chat/plugins/database/memory.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "database",
+      "server",
+      "memory"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-database-mongo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-database-mongo",
+      "homepage": "https://koishi.chat/plugins/database/mongo.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "database",
+      "mongo"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-database-mysql",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-database-mysql",
+      "homepage": "https://koishi.chat/plugins/database/mysql.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "database",
+      "mysql"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-database-sqlite",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-database-sqlite",
+      "homepage": "https://koishi.chat/plugins/database/sqlite.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "database",
+      "sqlite"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-dataview",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-dataview",
+      "homepage": "https://koishi.chat/plugins/console/dataview.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "database"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-echo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-echo",
+      "homepage": "https://koishi.chat/plugins/common/echo.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "echo"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-feedback",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-feedback",
+      "homepage": "https://koishi.js.org/plugins/common/feedback.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "feedback",
+      "locale:zh"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-help",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-help",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "help"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-insight",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-insight",
+      "homepage": "https://koishi.chat/plugins/console/insight.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "insight"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-locales",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-locales",
+      "homepage": "https://koishi.chat/plugins/console/locales.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "command"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-logger",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-logger",
+      "homepage": "https://koishi.chat/plugins/console/logger.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "logs"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-market",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-market",
+      "homepage": "https://koishi.chat/plugins/console/market.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "market",
+      "manager",
+      "server"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-mock",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-mock",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "test",
+      "tester",
+      "unit",
+      "mock"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-rate-limit",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-rate-limit",
+      "homepage": "https://koishi.chat/plugins/accessibility/rate-limit.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "rate-limit"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-recall",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-recall",
+      "homepage": "https://koishi.js.org/plugins/common/recall.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "recall"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-sandbox",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-sandbox",
+      "homepage": "https://koishi.chat/plugins/console/sandbox.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "test",
+      "tester",
+      "sandbox",
+      "mock"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-schedule",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-schedule",
+      "homepage": "https://koishi.chat/plugins/accessibility/schedule.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "schedule",
+      "task"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-status",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-status",
+      "homepage": "https://koishi.chat/plugins/console/status.html",
+      "repository": "https://github.com/koishijs/console",
+      "bugs": "https://github.com/koishijs/console/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "status",
+      "server"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-sudo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-sudo",
+      "homepage": "https://koishi.js.org/plugins/accessibility/sudo.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "sudo"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-switch",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-switch",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "relay",
+      "switch"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@koishijs/plugin-verifier",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-verifier",
+      "homepage": "https://koishi.js.org/plugins/accessibility/verifier.html",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "verifier"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@myrtus/koishi-plugin-forward",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-forward",
+      "homepage": "https://github.com/idanran/myrtus#readme",
+      "repository": "https://github.com/idanran/myrtus",
+      "bugs": "https://github.com/idanran/myrtus/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@myrtus/koishi-plugin-mediawiki",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-mediawiki",
+      "homepage": "https://github.com/idanran/myrtus#readme",
+      "repository": "https://github.com/idanran/myrtus",
+      "bugs": "https://github.com/idanran/myrtus/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@myrtus/koishi-plugin-tool",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-tool",
+      "homepage": "https://github.com/idanran/myrtus#readme",
+      "repository": "https://github.com/idanran/myrtus",
+      "bugs": "https://github.com/idanran/myrtus/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-abbrreply",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-abbrreply",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_abbrreply",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_abbrreply/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "abbreviation",
+      "nbnhhsh"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-acc-calculate",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-acc-calculate",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot-plugin-acc-calculate",
+      "bugs": "https://github.com/nonebotjs/nonebot-plugin-acc-calculate/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "malody",
+      "acc",
+      "calculate",
+      "rhythm",
+      "game"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-analysis-bilibili",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-analysis-bilibili",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_analysis_bilibili",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_analysis_bilibili/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "bilibili",
+      "video",
+      "anime"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-biliav",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-biliav",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_biliav",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_biliav/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "bilibili",
+      "video"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-code",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-code",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_code",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_code/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "glot",
+      "code",
+      "eval",
+      "execute",
+      "compile",
+      "run"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-gscode",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-gscode",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot-plugin-gscode",
+      "bugs": "https://github.com/nonebotjs/nonebot-plugin-gscode/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "genshin",
+      "impact",
+      "cdkey",
+      "live",
+      "update"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-person",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-person",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot-plugin-person",
+      "bugs": "https://github.com/nonebotjs/nonebot-plugin-person/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "person",
+      "member",
+      "random",
+      "choose",
+      "pick"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-warframe",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-warframe",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot-plugin-warframe",
+      "bugs": "https://github.com/nonebotjs/nonebot-plugin-warframe/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "warframe"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-weather-lite",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-weather-lite",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_weather_lite",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_weather_lite/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "weather",
+      "wttr"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-ygo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-ygo",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_ygo",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_ygo/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "ygo",
+      "yugioh",
+      "card",
+      "game"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@nonebot/koishi-plugin-ygo-trade",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-ygo-trade",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/nonebot_plugin_ygo_trade",
+      "bugs": "https://github.com/nonebotjs/nonebot_plugin_ygo_trade/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonebot",
+      "ygo",
+      "yugioh",
+      "trade",
+      "card",
+      "game"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@tomlbz/koishi-plugin-openai",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40tomlbz%2Fkoishi-plugin-openai",
+      "homepage": "https://github.com/TomLBZ/koishi-plugin-openai#readme",
+      "repository": "https://github.com/TomLBZ/koishi-plugin-openai",
+      "bugs": "https://github.com/TomLBZ/koishi-plugin-openai/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "openai"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@winterco/koishi-plugin-seat-helper",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40winterco%2Fkoishi-plugin-seat-helper"
+    }
+  },
+  {
+    "name": "@yunkuangao/koishi-plugin-tianxing",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40yunkuangao%2Fkoishi-plugin-tianxing",
+      "homepage": "https://github.com/yunkuangao/koishi-dev"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "tianxing"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "@zerxz/koishi-plugin-gocqhttp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40zerxz%2Fkoishi-plugin-gocqhttp",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-5k",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-5k"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-60snews",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-60snews"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-abbreviation",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-abbreviation"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "abbreviation",
+      "search",
+      "word",
+      "text",
+      "nbnhhsh"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-account",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-account"
+    }
+  },
+  {
+    "name": "koishi-plugin-achievement",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-achievement",
+      "homepage": "https://github.com/koishijs/koishi-plugin-achievement",
+      "repository": "https://github.com/koishijs/koishi-plugin-achievement",
+      "bugs": "https://github.com/koishijs/koishi-plugin-achievement/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "achievement",
+      "required:database",
+      "impl:achv"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-acs",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-acs",
+      "homepage": "https://github.com/ilharp/koishi-plugin-acs",
+      "repository": "https://github.com/ilharp/koishi-plugin-acs",
+      "bugs": "https://github.com/ilharp/koishi-plugin-acs/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nlu",
+      "nlp",
+      "nlg",
+      "rasa",
+      "acs"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-action",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-action"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-adapter-matrix",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-matrix",
+      "homepage": "https://github.com/Anillc/koishi-plugin-adapter-matrix#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-adapter-matrix",
+      "bugs": "https://github.com/Anillc/koishi-plugin-adapter-matrix/issues"
+    },
+    "keywords": [
+      "bot",
+      "matrix",
+      "chatbot",
+      "koishi",
+      "impl:adapter"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-adapter-minecraft",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-minecraft",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "minecraft",
+      "mineflayer",
+      "chatbot",
+      "koishi",
+      "impl:adapter"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-adapter-wechat-official",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-wechat-official",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechat-official",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechat-official/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-adapter-wechaty",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-wechaty",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechaty",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wechaty/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "wechat",
+      "wechaty"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-adapter-wecom",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-wecom",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wecom",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-adapter-wecom/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "impl:adapter"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-addfriend",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-addfriend",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-addfriend",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-addfriend/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-advanced-forward",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-advanced-forward",
+      "homepage": "https://github.com/ConstasJ/koishi-plugin-advanced-forward#readme",
+      "repository": "https://github.com/ConstasJ/koishi-plugin-advanced-forward",
+      "bugs": "https://github.com/ConstasJ/koishi-plugin-advanced-forward/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "optional:database"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-affinity",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
+    }
+  },
+  {
+    "name": "koishi-plugin-aircon",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-aircon",
+      "homepage": "https://github.com/idlist/koishi-plugin-aircon#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-aircon",
+      "bugs": "https://github.com/idlist/koishi-plugin-aircon/issues"
+    },
+    "keywords": [
+      "koishi.js",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-alertmanager",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-alertmanager",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-alertmanager",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-alertmanager/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-alipay-voice",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-alipay-voice",
+      "homepage": "https://github.com/koishijs/koishi-plugin-alipay-voice",
+      "repository": "https://github.com/koishijs/koishi-plugin-alipay-voice",
+      "bugs": "https://github.com/koishijs/koishi-plugin-alipay-voice/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "alipay",
+      "voice"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-animal-picture",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-animal-picture",
+      "homepage": "https://github.com/idlist/koishi-plugin-animal-picture#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-animal-picture",
+      "bugs": "https://github.com/idlist/koishi-plugin-animal-picture/issues"
+    },
+    "keywords": [
+      "koishi.js",
+      "koishi"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-answer-book",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-answer-book",
+      "homepage": "https://github.com/Mahoo12138/koishi-plugin-answer-book#readme",
+      "repository": "https://github.com/Mahoo12138/koishi-plugin-answer-book",
+      "bugs": "https://github.com/Mahoo12138/koishi-plugin-answer-book/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-api",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-api",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-api",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-api/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-apisend",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-apisend",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-aria2",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-aria2"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-assets",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "assets",
+      "server"
+    ]
+  },
+  {
+    "name": "koishi-plugin-assets-git",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets-git",
+      "homepage": "https://assets.koishi.chat/plugins/git.html",
+      "repository": "https://github.com/koishijs/assets",
+      "bugs": "https://github.com/koishijs/assets/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "github",
+      "assets",
+      "git",
+      "jsdelivr",
+      "storage"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-assets-local",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets-local",
+      "homepage": "https://assets.koishi.chat/plugins/local.html",
+      "repository": "https://github.com/koishijs/assets",
+      "bugs": "https://github.com/koishijs/assets/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "assets",
+      "server",
+      "local",
+      "storage"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-assets-remote",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets-remote",
+      "homepage": "https://assets.koishi.chat/plugins/remote.html",
+      "repository": "https://github.com/koishijs/assets",
+      "bugs": "https://github.com/koishijs/assets/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "assets",
+      "client",
+      "storage"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-assets-s3",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets-s3",
+      "homepage": "https://assets.koishi.chat/plugins/s3.html",
+      "repository": "https://github.com/koishijs/assets",
+      "bugs": "https://github.com/koishijs/assets/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "assets",
+      "storage",
+      "s3",
+      "aws"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-assets-smms",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-assets-smms",
+      "homepage": "https://assets.koishi.chat/plugins/smms.html",
+      "repository": "https://github.com/koishijs/assets",
+      "bugs": "https://github.com/koishijs/assets/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "assets",
+      "smms"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-auth",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-auth"
+    }
+  },
+  {
+    "name": "koishi-plugin-auto-reply",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-auto-reply"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-autokick",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-autokick",
+      "homepage": "https://github.com/koishijs/koishi-plugin-autokick",
+      "repository": "https://github.com/koishijs/koishi-plugin-autokick",
+      "bugs": "https://github.com/koishijs/koishi-plugin-autokick/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "admin",
+      "kick",
+      "group",
+      "guild",
+      "member"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-autopic",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-autopic",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-autopic",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-autopic/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:pics"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-baidu",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-baidu",
+      "homepage": "https://github.com/koishijs/koishi-plugin-baidu",
+      "repository": "https://github.com/koishijs/koishi-plugin-baidu",
+      "bugs": "https://github.com/koishijs/koishi-plugin-baidu/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "search",
+      "baidu",
+      "baike",
+      "wiki"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-bdtrans",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-bdtrans",
+      "homepage": "https://github.com/LolitaOT/koishi-plugin-bdtrans",
+      "repository": "https://github.com/LolitaOT/koishi-plugin-bdtrans",
+      "bugs": "https://github.com/LolitaOT/koishi-plugin-bdtrans/issues"
+    },
+    "keywords": [
+      "koishi",
+      "baidu",
+      "translate"
+    ]
+  },
+  {
+    "name": "koishi-plugin-bdynamic",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-bdynamic",
+      "homepage": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic#readme",
+      "repository": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic",
+      "bugs": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-bgp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-bgp",
+      "homepage": "https://github.com/Anillc/koishi-plugin-bgp#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-bgp",
+      "bugs": "https://github.com/Anillc/koishi-plugin-bgp/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-bilibili",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-bilibili"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-binance",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-binance",
+      "homepage": "https://github.com/Spacelessd/koishi-plugin-binance#readme",
+      "repository": "https://github.com/Spacelessd/koishi-plugin-binance",
+      "bugs": "https://github.com/Spacelessd/koishi-plugin-binance/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-blame",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-blame",
+      "homepage": "https://github.com/arilychan/arilychan"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-blive",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-blive",
+      "homepage": "https://github.com/idlist/koishi-plugin-blive#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-blive",
+      "bugs": "https://github.com/idlist/koishi-plugin-blive/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-blockly",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-blockly"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-boom",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-boom",
+      "homepage": "https://github.com/ilharp/koishi-plugin-boom",
+      "repository": "https://github.com/ilharp/koishi-plugin-boom",
+      "bugs": "https://github.com/ilharp/koishi-plugin-boom/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-brainfuck",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-brainfuck",
+      "homepage": "https://github.com/koishijs/koishi-plugin-brainfuck",
+      "repository": "https://github.com/koishijs/koishi-plugin-brainfuck",
+      "bugs": "https://github.com/koishijs/koishi-plugin-brainfuck/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "brainfuck",
+      "execute",
+      "code"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-bvid",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-bvid",
+      "homepage": "https://github.com/koishijs/koishi-plugin-bvid",
+      "repository": "https://github.com/koishijs/koishi-plugin-bvid",
+      "bugs": "https://github.com/koishijs/koishi-plugin-bvid/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "bilibili",
+      "video",
+      "link",
+      "url",
+      "bvid"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-cache-aragami",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-cache-aragami",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-cache-aragami",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-cache-aragami/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-cache-memcached",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-cache-memcached",
+      "homepage": "https://github.com/koishijs/koishi-plugin-cache-memcached",
+      "repository": "https://github.com/koishijs/koishi-plugin-cache-memcached",
+      "bugs": "https://github.com/koishijs/koishi-plugin-cache-memcached/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "impl:cache",
+      "memcached",
+      "memjs"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-canvas",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-canvas",
+      "homepage": "https://github.com/idlist/koishi-plugin-canvas#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-canvas",
+      "bugs": "https://github.com/idlist/koishi-plugin-canvas/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ]
+  },
+  {
+    "name": "koishi-plugin-captcha-resolver",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-captcha-resolver"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-capture-website",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-capture-website",
+      "homepage": "https://github.com/Dup4/koishi-plugins#readme",
+      "repository": "https://github.com/Dup4/koishi-plugins",
+      "bugs": "https://github.com/Dup4/koishi-plugins/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "screenshot",
+      "capture-website"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-censor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-censor"
+    }
+  },
+  {
+    "name": "koishi-plugin-changelog",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-changelog",
+      "homepage": "https://github.com/koishijs/koishi-plugin-changelog",
+      "repository": "https://github.com/koishijs/koishi-plugin-changelog",
+      "bugs": "https://github.com/koishijs/koishi-plugin-changelog/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "console",
+      "release",
+      "update",
+      "changelog"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-chat",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-chat"
+    }
+  },
+  {
+    "name": "koishi-plugin-chatgpt",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-chatgpt",
+      "homepage": "https://chatgpt.koishi.chat/",
+      "repository": "https://github.com/koishijs/chatgpt-bot",
+      "bugs": "https://github.com/koishijs/chatgpt-bot/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "ai",
+      "chatgpt",
+      "openai",
+      "gpt",
+      "conversation",
+      "dialogue",
+      "chat"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-chess",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-chess",
+      "homepage": "https://github.com/koishijs/koishi-plugin-chess",
+      "repository": "https://github.com/koishijs/koishi-plugin-chess",
+      "bugs": "https://github.com/koishijs/koishi-plugin-chess/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "chess",
+      "game",
+      "go",
+      "gomoku",
+      "othello"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-chinfo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-chinfo"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "Koishi.js"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ci",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ci"
+    },
+    "keywords": [
+      "koishi",
+      "ci",
+      "build"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-click-colorful",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-click-colorful"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "console",
+      "release",
+      "update",
+      "click-colorful"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-color",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-color",
+      "homepage": "https://puppeteer.koishi.chat/plugins/color.html",
+      "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+      "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "color",
+      "image"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-command-webhook",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-command-webhook",
+      "size": "https://packagephobia.com/result?p=koishi-plugin-command-webhook"
+    },
+    "keywords": [
+      "bot",
+      "koishi",
+      "plugin",
+      "webhook"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-commands",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-commands"
+    }
+  },
+  {
+    "name": "koishi-plugin-common",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-common",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-console",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-console"
+    }
+  },
+  {
+    "name": "koishi-plugin-console-update-tips",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-console-update-tips"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-couplet",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-couplet"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-crazy-thursday",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-crazy-thursday",
+      "homepage": "https://github.com/koishijs/koishi-plugin-crazy-thursday",
+      "repository": "https://github.com/koishijs/koishi-plugin-crazy-thursday",
+      "bugs": "https://github.com/koishijs/koishi-plugin-crazy-thursday/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "meme",
+      "kfc",
+      "crazy-thursday"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-cron",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-cron"
+    }
+  },
+  {
+    "name": "koishi-plugin-crypto",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-crypto",
+      "homepage": "https://github.com/koishijs/koishi-plugin-crypto",
+      "repository": "https://github.com/koishijs/koishi-plugin-crypto",
+      "bugs": "https://github.com/koishijs/koishi-plugin-crypto/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "crypto",
+      "encrypt",
+      "decrypt",
+      "algorithm"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-cryptocurrency",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-cryptocurrency",
+      "homepage": "https://github.com/koishijs/plugin-cryptocurrency#readme",
+      "repository": "https://github.com/koishijs/plugin-cryptocurrency",
+      "bugs": "https://github.com/koishijs/plugin-cryptocurrency/issues"
+    },
+    "keywords": [
+      "koishi",
+      "plugin",
+      "crypto",
+      "currency",
+      "market",
+      "price"
+    ]
+  },
+  {
+    "name": "koishi-plugin-currency",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-currency"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "service",
+      "currency"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-currency-command",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-currency-command"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dailygames",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dailygames"
+    },
+    "keywords": [
+      "game",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dataview",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dataview"
+    }
+  },
+  {
+    "name": "koishi-plugin-davinci-003",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-davinci-003"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dcqq-relay",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dcqq-relay",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dcqq-relay#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dcqq-relay",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dcqq-relay/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-deep-danbooru",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-deep-danbooru",
+      "homepage": "https://github.com/wibus-wee/koishi-plugin-deep-danbooru#readme",
+      "repository": "https://github.com/wibus-wee/koishi-plugin-deep-danbooru",
+      "bugs": "https://github.com/wibus-wee/koishi-plugin-deep-danbooru/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "novelai",
+      "ai",
+      "paint",
+      "image",
+      "generate",
+      "deep-danbooru"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-demo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-demo"
+    },
+    "keywords": [
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-desktop",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-desktop",
+      "homepage": "https://koishi.chat",
+      "repository": "https://github.com/koishijs/koishi-desktop",
+      "bugs": "https://github.com/koishijs/koishi-desktop/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "desktop"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-develop",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-develop"
+    }
+  },
+  {
+    "name": "koishi-plugin-devplugin",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-devplugin"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "test",
+      "dev"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-author",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-author",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-console",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-console"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-context",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-context",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-flow",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-flow",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-rate-limit",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-rate-limit",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dialogue-time",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dialogue-time",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dialogue#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-dialogue",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dialogue/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dice",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dice",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dice",
+      "repository": "https://github.com/koishijs/koishi-plugin-dice",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dice/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "dice"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dice-killer",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dice-killer",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-dice-killer",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-dice-killer/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-dicex",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dicex",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-dicex",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-dicex/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "dice",
+      "dicebot",
+      "optional:database"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-diffsinger-huggingface",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-diffsinger-huggingface"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dispose",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dispose",
+      "homepage": "https://github.com/koishijs/koishi-plugin-dispose",
+      "repository": "https://github.com/koishijs/koishi-plugin-dispose",
+      "bugs": "https://github.com/koishijs/koishi-plugin-dispose/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-dns",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-dns",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-dns",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-dns/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-douban",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-douban",
+      "homepage": "https://github.com/Mahoo12138/koishi-plugin-douban",
+      "repository": "https://github.com/Mahoo12138/koishi-plugin-douban",
+      "bugs": "https://github.com/Mahoo12138/koishi-plugin-douban/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "douban"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-draw",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-draw",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-draw",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-draw/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-duplicate-checker",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-duplicate-checker",
+      "homepage": "https://github.com/idlist/koishi-plugin-duplicate-checker#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-duplicate-checker",
+      "bugs": "https://github.com/idlist/koishi-plugin-duplicate-checker/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-economy",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-economy"
+    }
+  },
+  {
+    "name": "koishi-plugin-ekwing-fucker",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ekwing-fucker"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-elasticsearch",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-elasticsearch",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-elasticsearch",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-elasticsearch/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "impl:elasticsearch"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-emojimix",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-emojimix",
+      "homepage": "https://github.com/univeous/koishi-plugin-emojimix",
+      "repository": "https://github.com/univeous/koishi-plugin-emojimix",
+      "bugs": "https://github.com/univeous/koishi-plugin-emojimix/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-envinfo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-envinfo",
+      "homepage": "https://github.com/koishijs/koishi-plugin-envinfo",
+      "repository": "https://github.com/koishijs/koishi-plugin-envinfo",
+      "bugs": "https://github.com/koishijs/koishi-plugin-envinfo/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "console",
+      "environment",
+      "information"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-epic-get-free-game",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-epic-get-free-game"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-eula",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eula",
+      "bugs": "https://github.com/Lipraty/koishi-plugin-eula/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-eval",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eval",
+      "homepage": "https://eval.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "eval",
+      "runner",
+      "code"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-eval-addons",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-addons",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "addon",
+      "runner",
+      "code"
+    ]
+  },
+  {
+    "name": "koishi-plugin-eval-enhance",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-enhance",
+      "homepage": "https://github.com/Anillc/koishi-plugin-eval-enhance#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-eval-enhance",
+      "bugs": "https://github.com/Anillc/koishi-plugin-eval-enhance/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-eval-purs-loader",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-purs-loader"
+    }
+  },
+  {
+    "name": "koishi-plugin-eval-react-jsx",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-react-jsx",
+      "homepage": "https://github.com/koishijs/koishi-plugin-eval-react-jsx",
+      "repository": "https://github.com/koishijs/koishi-plugin-eval-react-jsx",
+      "bugs": "https://github.com/koishijs/koishi-plugin-eval-react-jsx/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "eval",
+      "react",
+      "jsx",
+      "required:worker",
+      "required:puppeteer"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-exec",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-exec",
+      "homepage": "https://github.com/koishijs/plugins#readme",
+      "repository": "https://github.com/koishijs/plugins",
+      "bugs": "https://github.com/koishijs/plugins/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "exec",
+      "shell"
+    ]
+  },
+  {
+    "name": "koishi-plugin-explorer",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-explorer"
+    }
+  },
+  {
+    "name": "koishi-plugin-express",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-express",
+      "homepage": "https://github.com/ArilyChan/arilychan#readme",
+      "repository": "https://github.com/ArilyChan/arilychan",
+      "bugs": "https://github.com/ArilyChan/arilychan/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-facercg",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-facercg",
+      "homepage": "https://github.com/initialencounter/koishi-plugin-facercg#readme",
+      "repository": "https://github.com/initialencounter/koishi-plugin-facercg",
+      "bugs": "https://github.com/initialencounter/koishi-plugin-facercg/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "Face-recognition"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-favor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-favor",
+      "homepage": "https://github.com/yashinatsu/koishi-plugin-favor",
+      "repository": "https://github.com/yashinatsu/koishi-plugin-favor",
+      "bugs": "https://github.com/yashinatsu/koishi-plugin-favor/issues"
+    },
+    "keywords": [
+      "koishi",
+      "bot",
+      "required:database"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ffxiv",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ffxiv",
+      "homepage": "https://github.com/ReiKohaku/koishi-plugin-ffxiv#readme",
+      "repository": "https://github.com/ReiKohaku/koishi-plugin-ffxiv",
+      "bugs": "https://github.com/ReiKohaku/koishi-plugin-ffxiv/issues"
+    },
+    "keywords": [
+      "ffxiv",
+      "bot",
+      "koishi"
+    ]
+  },
+  {
+    "name": "koishi-plugin-ffxiv-eorzea",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ffxiv-eorzea",
+      "homepage": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea",
+      "repository": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea",
+      "bugs": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "chatbot",
+      "plugin",
+      "koishi",
+      "koishijs",
+      "ffxiv",
+      "eorzea"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ffxiv-lodestone",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ffxiv-lodestone",
+      "homepage": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone",
+      "repository": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone",
+      "bugs": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone/issues"
+    },
+    "keywords": [
+      "ffxiv",
+      "final-fantasy-xiv",
+      "lodestone",
+      "koishi",
+      "koishijs",
+      "bot",
+      "qqbot"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ffxiv-macrodict",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ffxiv-macrodict",
+      "homepage": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict",
+      "repository": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict",
+      "bugs": "https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict/issues"
+    },
+    "keywords": [
+      "ffxiv",
+      "final-fantasy-xiv",
+      "macro",
+      "koishi",
+      "koishijs",
+      "bot",
+      "qqbot"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-footer",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-footer",
+      "homepage": "https://github.com/koishijs/koishi-plugin-footer",
+      "repository": "https://github.com/koishijs/koishi-plugin-footer",
+      "bugs": "https://github.com/koishijs/koishi-plugin-footer/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "footer",
+      "console",
+      "status",
+      "beian",
+      "info"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-fortune",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-fortune",
+      "homepage": "https://github.com/koishijs/koishi-plugin-fortune",
+      "repository": "https://github.com/koishijs/koishi-plugin-fortune",
+      "bugs": "https://github.com/koishijs/koishi-plugin-fortune/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-forward",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-forward",
+      "homepage": "https://forward.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi-plugin-forward",
+      "bugs": "https://github.com/koishijs/koishi-plugin-forward/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "relay",
+      "forward"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-freegames-subscribe",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-freegames-subscribe"
+    },
+    "keywords": [
+      "koishi",
+      "plugin",
+      "steam",
+      "game",
+      "PlayStation",
+      "xbox",
+      "subscribe",
+      "epic"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gameinfo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gameinfo"
+    },
+    "keywords": [
+      "koishi",
+      "plugin",
+      "steam",
+      "game",
+      "image"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gamenews",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gamenews"
+    },
+    "keywords": [
+      "gamenews",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gameserver",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gameserver"
+    },
+    "keywords": [
+      "gameserver"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-genshin",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin",
+      "homepage": "https://github.com/Dragon-Fish/koishi-plugin-genshin#readme",
+      "repository": "https://github.com/Dragon-Fish/koishi-plugin-genshin",
+      "bugs": "https://github.com/Dragon-Fish/koishi-plugin-genshin/issues"
+    },
+    "keywords": [
+      "genshin",
+      "genshin-impact",
+      "genshin-api",
+      "hoyolab",
+      "koishi",
+      "mihoyo",
+      "qqbot"
+    ]
+  },
+  {
+    "name": "koishi-plugin-genshin-gacha",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-gacha"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-genshin-resin",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-resin",
+      "homepage": "https://github.com/Lipraty/koishi-plugin-genshin-resin#readme",
+      "repository": "https://github.com/Lipraty/koishi-plugin-genshin-resin",
+      "bugs": "https://github.com/Lipraty/koishi-plugin-genshin-resin/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "genshin",
+      "yuanshen"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-genshin-toolkit",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-toolkit"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-genshin-voice",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-voice"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "voice",
+      "genshin",
+      "character",
+      "speech",
+      "synthesis",
+      "voice",
+      "generator",
+      "mihoyo",
+      "sound",
+      "audio",
+      "tts",
+      "vits"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-genshinvoice-plus",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-genshinvoice-plus"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gfm",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gfm"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-github",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-github",
+      "homepage": "https://github.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi-plugin-github",
+      "bugs": "https://github.com/koishijs/koishi-plugin-github/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "github",
+      "webhook"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-github-webhook",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-github-webhook",
+      "homepage": "https://github.com/koishijs/plugin-github-webhook#readme",
+      "repository": "https://github.com/koishijs/plugin-github-webhook",
+      "bugs": "https://github.com/koishijs/plugin-github-webhook/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "github",
+      "webhook"
+    ]
+  },
+  {
+    "name": "koishi-plugin-gitlab-webhook",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gitlab-webhook",
+      "homepage": "https://github.com/koishijs/plugin-gitlab-webhook#readme",
+      "repository": "https://github.com/koishijs/plugin-gitlab-webhook",
+      "bugs": "https://github.com/koishijs/plugin-gitlab-webhook/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "gitlab",
+      "webhook"
+    ]
+  },
+  {
+    "name": "koishi-plugin-glot",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-glot",
+      "homepage": "https://github.com/koishijs/koishi-plugin-glot",
+      "repository": "https://github.com/koishijs/koishi-plugin-glot",
+      "bugs": "https://github.com/koishijs/koishi-plugin-glot/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "glot",
+      "code",
+      "execute",
+      "compile",
+      "run",
+      "evaluate"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gocqhttp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gocqhttp",
+      "homepage": "https://github.com/koishijs/koishi-plugin-gocqhttp",
+      "repository": "https://github.com/koishijs/koishi-plugin-gocqhttp",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "gocqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "launcher",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-gosen-choyen",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-gosen-choyen",
+      "homepage": "https://github.com/idlist/koishi-plugin-gosen-choyen#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-gosen-choyen",
+      "bugs": "https://github.com/idlist/koishi-plugin-gosen-choyen/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ]
+  },
+  {
+    "name": "koishi-plugin-guess-number",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-guess-number",
+      "homepage": "https://github.com/koishijs/koishi-plugin-guess-number",
+      "repository": "https://github.com/koishijs/koishi-plugin-guess-number",
+      "bugs": "https://github.com/koishijs/koishi-plugin-guess-number/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "number",
+      "guess",
+      "game",
+      "inference"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-guild-verifier",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-guild-verifier",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-guild-verifier",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-guild-verifier/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-hangman",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-hangman",
+      "homepage": "https://github.com/koishijs/koishi-plugin-hangman",
+      "repository": "https://github.com/koishijs/koishi-plugin-hangman",
+      "bugs": "https://github.com/koishijs/koishi-plugin-hangman/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "game",
+      "hangman",
+      "word",
+      "guess"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-hitokoto",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-hitokoto",
+      "homepage": "https://github.com/AwesomeHamster/koishi-plugin-hitokoto",
+      "repository": "https://github.com/AwesomeHamster/koishi-plugin-hitokoto",
+      "bugs": "https://github.com/AwesomeHamster/koishi-plugin-hitokoto/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "chatbot",
+      "plugin",
+      "koishi",
+      "koishijs",
+      "hitokoto",
+      "chinese"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-hlai-ocr",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-ocr"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-hlai-painter",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-painter"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-holiday",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-holiday",
+      "homepage": "https://github.com/LolitaOT/koishi-plugin-holiday#readme",
+      "repository": "https://github.com/LolitaOT/koishi-plugin-holiday",
+      "bugs": "https://github.com/LolitaOT/koishi-plugin-holiday/issues"
+    },
+    "keywords": [
+      "koishi",
+      "holiday"
+    ]
+  },
+  {
+    "name": "koishi-plugin-httpcat",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-httpcat",
+      "homepage": "https://github.com/koishijs/koishi-plugin-httpcat",
+      "repository": "https://github.com/koishijs/koishi-plugin-httpcat",
+      "bugs": "https://github.com/koishijs/koishi-plugin-httpcat/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "cat",
+      "image",
+      "picture",
+      "http",
+      "status",
+      "code"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-image-search",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-image-search",
+      "homepage": "https://github.com/koishijs/koishi-plugin-image-search",
+      "repository": "https://github.com/koishijs/koishi-plugin-image-search",
+      "bugs": "https://github.com/koishijs/koishi-plugin-image-search/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "image",
+      "search",
+      "sausenao",
+      "whatanime",
+      "ascii2d",
+      "danbooru",
+      "konachan",
+      "nhentai",
+      "pixiv"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-imagine",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-imagine"
+    }
+  },
+  {
+    "name": "koishi-plugin-img2cmd",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-img2cmd"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-influxdb",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-influxdb",
+      "homepage": "https://github.com/Anillc/koishi-plugin-influxdb#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-influxdb",
+      "bugs": "https://github.com/Anillc/koishi-plugin-influxdb/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-influxdb-collect",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-influxdb-collect",
+      "homepage": "https://github.com/Anillc/koishi-plugin-influxdb-collect#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-influxdb-collect",
+      "bugs": "https://github.com/Anillc/koishi-plugin-influxdb-collect/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ink",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ink",
+      "homepage": "https://github.com/idlist/koishi-plugin-ink#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-ink",
+      "bugs": "https://github.com/idlist/koishi-plugin-ink/issues"
+    },
+    "keywords": [
+      "koishi",
+      "koishi.js"
+    ]
+  },
+  {
+    "name": "koishi-plugin-insight",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-insight"
+    }
+  },
+  {
+    "name": "koishi-plugin-inspect",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-inspect",
+      "homepage": "https://github.com/koishijs/koishi-plugin-inspect",
+      "repository": "https://github.com/koishijs/koishi-plugin-inspect",
+      "bugs": "https://github.com/koishijs/koishi-plugin-inspect/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "inspect",
+      "debug",
+      "info",
+      "context",
+      "channel",
+      "user",
+      "message"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-instagram-image-video-downloader",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-instagram-image-video-downloader",
+      "homepage": "https://github.com/tediorelee/koishi-plugin-instagram-downloader#readme",
+      "repository": "https://github.com/tediorelee/koishi-plugin-instagram-downloader",
+      "bugs": "https://github.com/tediorelee/koishi-plugin-instagram-downloader/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-inventory",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-inventory"
+    }
+  },
+  {
+    "name": "koishi-plugin-javbus",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-javbus",
+      "homepage": "https://github.com/tediorelee/koishi-plugin-javbus#readme",
+      "repository": "https://github.com/tediorelee/koishi-plugin-javbus",
+      "bugs": "https://github.com/tediorelee/koishi-plugin-javbus/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-jrrp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-jrrp",
+      "homepage": "https://github.com/idlist/koishi-plugin-jrrp#readme",
+      "repository": "https://github.com/idlist/koishi-plugin-jrrp",
+      "bugs": "https://github.com/idlist/koishi-plugin-jrrp/issues"
+    },
+    "keywords": [
+      "koishi.js",
+      "koishi"
+    ]
+  },
+  {
+    "name": "koishi-plugin-latex",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-latex",
+      "homepage": "https://github.com/koishijs/plugins#readme",
+      "repository": "https://github.com/koishijs/plugins",
+      "bugs": "https://github.com/koishijs/plugins/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "latex",
+      "render",
+      "zhihu"
+    ]
+  },
+  {
+    "name": "koishi-plugin-libvirt",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-libvirt",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-libvirt",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-libvirt/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-logger",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-logger"
+    }
+  },
+  {
+    "name": "koishi-plugin-magi",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-magi",
+      "homepage": "https://github.com/koishijs/koishi-plugin-magi",
+      "repository": "https://github.com/koishijs/koishi-plugin-magi",
+      "bugs": "https://github.com/koishijs/koishi-plugin-magi/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-maimai",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-maimai"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "maimai"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-maimai-potato",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-maimai-potato"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-manager",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-manager"
+    },
+    "keywords": [
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-mark",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mark"
+    },
+    "keywords": [
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-markdown",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-markdown",
+      "homepage": "https://markdown.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi-plugin-markdown",
+      "bugs": "https://github.com/koishijs/koishi-plugin-markdown/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "markdown",
+      "component",
+      "element",
+      "render",
+      "parser"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-market",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-market"
+    }
+  },
+  {
+    "name": "koishi-plugin-market-info",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-market-info",
+      "homepage": "https://github.com/koishijs/koishi-plugin-market-info#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-market-info",
+      "bugs": "https://github.com/koishijs/koishi-plugin-market-info/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "market",
+      "info",
+      "subscribe",
+      "update",
+      "registry",
+      "manager"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-marry",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-marry",
+      "homepage": "https://github.com/koishijs/koishi-plugin-marry",
+      "repository": "https://github.com/koishijs/koishi-plugin-marry",
+      "bugs": "https://github.com/koishijs/koishi-plugin-marry/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "marry"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-maya",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-maya",
+      "homepage": "https://github.com/koishijs/koishi-plugin-maya",
+      "repository": "https://github.com/koishijs/koishi-plugin-maya",
+      "bugs": "https://github.com/koishijs/koishi-plugin-maya/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "maya",
+      "date",
+      "calendar"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mcinfo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mcinfo",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-mcinfo",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-mcinfo/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-mcping",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mcping",
+      "homepage": "https://github.com/koishijs/koishi-plugin-mcping",
+      "repository": "https://github.com/koishijs/koishi-plugin-mcping",
+      "bugs": "https://github.com/koishijs/koishi-plugin-mcping/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "minecraft",
+      "ping",
+      "status"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mediawiki",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mediawiki",
+      "homepage": "https://github.com/koishijs/koishi-plugin-mediawiki#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-mediawiki",
+      "bugs": "https://github.com/koishijs/koishi-plugin-mediawiki/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-meme",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-meme",
+      "homepage": "https://github.com/ONI-Wiki-zh/koishi-plugin-meme#readme",
+      "repository": "https://github.com/ONI-Wiki-zh/koishi-plugin-meme",
+      "bugs": "https://github.com/ONI-Wiki-zh/koishi-plugin-meme/issues"
+    },
+    "keywords": [
+      "GIMP",
+      "meme",
+      "generator",
+      "koishi",
+      "koishi.js",
+      "onebot",
+      "cqhttp",
+      "qqbot",
+      "optional:console",
+      "optional:database"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-migration",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-migration",
+      "homepage": "https://github.com/koishijs/koishi-plugin-migration",
+      "repository": "https://github.com/koishijs/koishi-plugin-migration",
+      "bugs": "https://github.com/koishijs/koishi-plugin-migration/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "console",
+      "release",
+      "update",
+      "migration"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mikan",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mikan"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mltd",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mltd",
+      "homepage": "https://github.com/LolitaOT/koishi-plugin-mltd#readme",
+      "repository": "https://github.com/LolitaOT/koishi-plugin-mltd",
+      "bugs": "https://github.com/LolitaOT/koishi-plugin-mltd/issues"
+    },
+    "keywords": [
+      "koishi",
+      "mltd",
+      "imas",
+      "idolmaster"
+    ]
+  },
+  {
+    "name": "koishi-plugin-mollyai",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mollyai",
+      "homepage": "https://github.com/YehowahLiu/koishi-plugin-mollyai#readme",
+      "repository": "https://github.com/YehowahLiu/koishi-plugin-mollyai",
+      "bugs": "https://github.com/YehowahLiu/koishi-plugin-mollyai/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "molly"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-monetary",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-monetary"
+    }
+  },
+  {
+    "name": "koishi-plugin-money",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-money"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mongo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mongo",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "database",
+      "mysql"
+    ]
+  },
+  {
+    "name": "koishi-plugin-monitor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-monitor",
+      "homepage": "https://github.com/koishijs/koishi-plugin-monitor#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-monitor",
+      "bugs": "https://github.com/koishijs/koishi-plugin-monitor/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-mowned",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mowned"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "mowned"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-moyu",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-moyu"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-music",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-music",
+      "homepage": "https://github.com/koishijs/koishi-plugin-music",
+      "repository": "https://github.com/koishijs/koishi-plugin-music",
+      "bugs": "https://github.com/koishijs/koishi-plugin-music/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "music",
+      "share",
+      "search",
+      "netease",
+      "qq"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-mysql",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-mysql",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "database",
+      "mysql"
+    ]
+  },
+  {
+    "name": "koishi-plugin-nbnhhsh",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-nbnhhsh",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-nbnhhsh",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-nbnhhsh/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-never-gonna-give-you-up",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-never-gonna-give-you-up"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-nlp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-nlp",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nlp",
+      "jieba"
+    ]
+  },
+  {
+    "name": "koishi-plugin-nonebot",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-nonebot",
+      "homepage": "https://nonebot.koishi.chat/",
+      "repository": "https://github.com/nonebotjs/koishi-plugin-nonebot",
+      "bugs": "https://github.com/nonebotjs/koishi-plugin-nonebot/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "runtime",
+      "nonebot",
+      "python"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-nonsense",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-nonsense",
+      "homepage": "https://github.com/koishijs/koishi-plugin-nonsense",
+      "repository": "https://github.com/koishijs/koishi-plugin-nonsense",
+      "bugs": "https://github.com/koishijs/koishi-plugin-nonsense/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nonsense"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-notion",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-notion"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-novel-ai-api",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-novel-ai-api",
+      "homepage": "https://github.com/wibus-wee/koishi-plugin-novel-ai-api#readme",
+      "repository": "https://github.com/wibus-wee/koishi-plugin-novel-ai-api",
+      "bugs": "https://github.com/wibus-wee/koishi-plugin-novel-ai-api/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "novelai",
+      "ai",
+      "paint",
+      "image",
+      "generate"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-novelai",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-novelai",
+      "homepage": "https://bot.novelai.dev/",
+      "repository": "https://github.com/koishijs/koishi-plugin-novelai",
+      "bugs": "https://github.com/koishijs/koishi-plugin-novelai/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "novelai",
+      "ai",
+      "paint",
+      "image",
+      "generate"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-nyan",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-nyan",
+      "homepage": "https://github.com/ArilyChan/arilychan#readme",
+      "repository": "https://github.com/ArilyChan/arilychan",
+      "bugs": "https://github.com/ArilyChan/arilychan/issues"
+    },
+    "keywords": [
+      "koishi",
+      "plugin",
+      "nyan",
+      "cat",
+      "moe",
+      "nya"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-oeis",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-oeis",
+      "homepage": "https://github.com/koishijs/koishi-plugin-oeis",
+      "repository": "https://github.com/koishijs/koishi-plugin-oeis",
+      "bugs": "https://github.com/koishijs/koishi-plugin-oeis/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "oeis",
+      "sequence",
+      "search",
+      "number",
+      "math"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-openchat",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-openchat",
+      "homepage": "https://forum.koishi.xyz/t/topic/59"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "gpt",
+      "rr"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-pack-my-message",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-pack-my-message"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-paimon",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-paimon",
+      "homepage": "https://github.com/Lipraty/koishi-plugin-paimon#readme",
+      "repository": "https://github.com/Lipraty/koishi-plugin-paimon",
+      "bugs": "https://github.com/Lipraty/koishi-plugin-paimon/issues"
+    },
+    "keywords": [
+      "koishi",
+      "chatbot",
+      "plugin",
+      "mihoyo",
+      "hoyolab",
+      "genshin",
+      "genshin-impact",
+      "genshin-api"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-pay",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-pay"
+    }
+  },
+  {
+    "name": "koishi-plugin-payment",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-payment"
+    }
+  },
+  {
+    "name": "koishi-plugin-petpet",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-petpet",
+      "homepage": "https://github.com/univeous/koishi-plugin-petpet",
+      "repository": "https://github.com/univeous/koishi-plugin-petpet",
+      "bugs": "https://github.com/univeous/koishi-plugin-petpet/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-phlogo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-phlogo",
+      "homepage": "https://github.com/koishijs/koishi-plugin-puppeteer#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+      "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "logo",
+      "image",
+      "meme",
+      "pornhub"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-picapi",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picapi",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-picapi",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-picapi/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-pics",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-pics",
+      "homepage": "https://github.com/koishijs/koishi-plugin-pics",
+      "repository": "https://github.com/koishijs/koishi-plugin-pics",
+      "bugs": "https://github.com/koishijs/koishi-plugin-pics/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-localfs",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-localfs",
+      "homepage": "https://github.com/koishijs/koishi-plugin-picsource-localfs",
+      "repository": "https://github.com/koishijs/koishi-plugin-picsource-localfs",
+      "bugs": "https://github.com/koishijs/koishi-plugin-picsource-localfs/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:pics"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-lolicon",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-lolicon",
+      "homepage": "https://github.com/koishijs/koishi-plugin-picsource-lolicon",
+      "repository": "https://github.com/koishijs/koishi-plugin-picsource-lolicon",
+      "bugs": "https://github.com/koishijs/koishi-plugin-picsource-lolicon/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:pics"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-miraikoi",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-miraikoi",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-miraikoi",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-miraikoi/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:pics"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-sina",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-sina",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-sina",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-sina/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-twitter",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-twitter",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-twitter",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-twitter/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-picsource-yande",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-picsource-yande",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-yande",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-picsource-yande/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:pics"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-plp",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-plp"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-pointfree",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-pointfree",
+      "homepage": "https://github.com/Anillc/koishi-plugin-pointfree#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-pointfree",
+      "bugs": "https://github.com/Anillc/koishi-plugin-pointfree/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-pterodactyl",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-pterodactyl"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-puppeteer",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-puppeteer",
+      "homepage": "https://puppeteer.koishi.chat/plugins/puppeteer.html",
+      "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+      "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "screenshot",
+      "browser",
+      "headless",
+      "service",
+      "render",
+      "puppeteer"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-python",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-python"
+    }
+  },
+  {
+    "name": "koishi-plugin-qingyunke-free",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-qingyunke-free"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-qrcode",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-qrcode",
+      "homepage": "https://github.com/koishijs/koishi-plugin-qrcode",
+      "repository": "https://github.com/koishijs/koishi-plugin-qrcode",
+      "bugs": "https://github.com/koishijs/koishi-plugin-qrcode/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "qrcode",
+      "generate",
+      "locale:zh"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-random-dog",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-random-dog",
+      "homepage": "https://github.com/CN-traveler/koishi-plugin-random-dog#readme",
+      "repository": "https://github.com/CN-traveler/koishi-plugin-random-dog",
+      "bugs": "https://github.com/CN-traveler/koishi-plugin-random-dog/issues"
+    },
+    "keywords": [
+      "bot",
+      "dog",
+      "koishi",
+      "plugin",
+      "random"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-random-number",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-random-number"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rank",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rank"
+    }
+  },
+  {
+    "name": "koishi-plugin-rasa-nlg-dict",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rasa-nlg-dict",
+      "homepage": "https://github.com/ilharp/koishi-plugin-rasa-nlg-dict",
+      "repository": "https://github.com/ilharp/koishi-plugin-rasa-nlg-dict",
+      "bugs": "https://github.com/ilharp/koishi-plugin-rasa-nlg-dict/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nlu",
+      "nlp",
+      "nlg",
+      "rasa"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rasa-nlu",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rasa-nlu",
+      "homepage": "https://github.com/ilharp/koishi-plugin-rasa-nlu",
+      "repository": "https://github.com/ilharp/koishi-plugin-rasa-nlu",
+      "bugs": "https://github.com/ilharp/koishi-plugin-rasa-nlu/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "nlu",
+      "nlp",
+      "nlg",
+      "rasa"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-recorder",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-recorder",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "record",
+      "recorder"
+    ]
+  },
+  {
+    "name": "koishi-plugin-redis",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-redis"
+    }
+  },
+  {
+    "name": "koishi-plugin-relay",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-relay",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-relay",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-relay/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-repeater",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-repeater",
+      "homepage": "https://repeater.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi-plugin-repeater",
+      "bugs": "https://github.com/koishijs/koishi-plugin-repeater/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "repeat",
+      "repeater"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-respondent",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-respondent"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "respondent",
+      "matcher",
+      "rule",
+      "dialogue",
+      "shortcut"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-responder2",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-responder2",
+      "homepage": "https://github.com/arilychan/arilychan"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-roll",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-roll",
+      "homepage": "https://github.com/koishijs/plugins#readme",
+      "repository": "https://github.com/koishijs/plugins",
+      "bugs": "https://github.com/koishijs/plugins/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "roll",
+      "dice"
+    ]
+  },
+  {
+    "name": "koishi-plugin-rpc",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rpc",
+      "homepage": "https://github.com/Anillc/koishi-plugin-rpc#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-rpc",
+      "bugs": "https://github.com/Anillc/koishi-plugin-rpc/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-rr-image-censor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rr-image-censor",
+      "homepage": "https://forum.koishi.xyz/t/topic/117"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rr-st",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rr-st",
+      "homepage": "https://forum.koishi.xyz/t/topic/112"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rr-translator",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rr-translator",
+      "homepage": "https://forum.koishi.xyz/t/topic/106"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "translation",
+      "翻译"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rr-welcome",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rr-welcome",
+      "homepage": "https://forum.koishi.xyz/t/topic/109",
+      "bugs": "https://forum.koishi.xyz/t/topic/109"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rryth",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rryth",
+      "homepage": "https://github.com/MirrorCY/rryth#readme",
+      "repository": "https://github.com/MirrorCY/rryth",
+      "bugs": "https://github.com/MirrorCY/rryth/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "stablehorde",
+      "ai",
+      "paint",
+      "image",
+      "generate"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rss",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rss",
+      "homepage": "https://github.com/koishijs/koishi-plugin-rss",
+      "repository": "https://github.com/koishijs/koishi-plugin-rss",
+      "bugs": "https://github.com/koishijs/koishi-plugin-rss/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "rss",
+      "required:database"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-rsshub",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-rsshub",
+      "homepage": "https://github.com/9cats/koishi-plugin-rsshub",
+      "repository": "https://github.com/9cats/koishi-plugin-rsshub",
+      "bugs": "https://github.com/9cats/koishi-plugin-rsshub/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "rsshub",
+      "service"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sandbox",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sandbox"
+    }
+  },
+  {
+    "name": "koishi-plugin-scene-training",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-scene-training"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "required:database",
+      "optional:console"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-schedule",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-schedule",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "schedule",
+      "task"
+    ]
+  },
+  {
+    "name": "koishi-plugin-schema-guide",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-schema-guide"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "console",
+      "guide",
+      "schema",
+      "config",
+      "tutorial"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-screenshot",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-screenshot",
+      "homepage": "https://puppeteer.koishi.chat/plugins/screenshot.html",
+      "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+      "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "screenshot",
+      "browser",
+      "headless",
+      "service",
+      "render",
+      "puppeteer"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sd-extra",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sd-extra",
+      "homepage": "https://github.com/MirrorCY/sd-extra",
+      "repository": "https://github.com/MirrorCY/sd-extra",
+      "bugs": "https://github.com/MirrorCY/sd-extra/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "ai",
+      "paint",
+      "image",
+      "super-resolution"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sd-interroage",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sd-interroage"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sd-switch",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sd-switch",
+      "homepage": "https://forum.koishi.xyz/t/topic/57"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "novelai"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sd-taylor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sd-taylor"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-search-bing",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-search-bing"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sentry",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sentry",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-sentry",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-sentry/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-shadowban",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-shadowban",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-shadowban",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-shadowban/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-shell",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-shell",
+      "homepage": "https://github.com/koishijs/plugin-shell#readme",
+      "repository": "https://github.com/koishijs/plugin-shell",
+      "bugs": "https://github.com/koishijs/plugin-shell/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-shorturl",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-shorturl",
+      "homepage": "https://github.com/koishijs/koishi-plugin-shorturl",
+      "repository": "https://github.com/koishijs/koishi-plugin-shorturl",
+      "bugs": "https://github.com/koishijs/koishi-plugin-shorturl/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "url",
+      "short-url",
+      "shortener"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-shutdown",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-shutdown",
+      "homepage": "https://github.com/ilharp/koishi-plugin-shutdown",
+      "repository": "https://github.com/ilharp/koishi-plugin-shutdown",
+      "bugs": "https://github.com/ilharp/koishi-plugin-shutdown/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-simple-welcome",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-simple-welcome"
+    },
+    "keywords": [
+      "welcome",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-sleep-manage",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-sleep-manage",
+      "homepage": "https://github.com/Lipraty/koishi-plugin-sleep-manage#readme",
+      "repository": "https://github.com/Lipraty/koishi-plugin-sleep-manage",
+      "bugs": "https://github.com/Lipraty/koishi-plugin-sleep-manage/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-spawn",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-spawn",
+      "homepage": "https://spawn.koishi.chat/",
+      "repository": "https://github.com/koishijs/koishi-plugin-spawn",
+      "bugs": "https://github.com/koishijs/koishi-plugin-spawn/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "spawn",
+      "exec",
+      "process",
+      "shell"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-splatoon",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-splatoon"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-srvpro-roomlist",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-srvpro-roomlist",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-srvpro-roomlist",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-srvpro-roomlist/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "ygo",
+      "yugioh",
+      "ygopro"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-star-history",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-star-history",
+      "homepage": "https://github.com/Anillc/koishi-plugin-star-history#readme",
+      "repository": "https://github.com/Anillc/koishi-plugin-star-history",
+      "bugs": "https://github.com/Anillc/koishi-plugin-star-history/issues"
+    },
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-status",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-status"
+    }
+  },
+  {
+    "name": "koishi-plugin-steam-status-subscribe",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-steam-status-subscribe"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "steam"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-steaminfo",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-steaminfo"
+    },
+    "keywords": [
+      "koishi",
+      "plugin",
+      "steam",
+      "game",
+      "image"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-stnb",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-stnb"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-storage",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-storage"
+    }
+  },
+  {
+    "name": "koishi-plugin-tabulate",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-tabulate",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-tabulate",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-tabulate/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "ygo",
+      "yugioh",
+      "ygopro",
+      "required:cache-aragami"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-teach",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-teach",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "teach",
+      "dialogue",
+      "conversation"
+    ]
+  },
+  {
+    "name": "koishi-plugin-tex",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-tex",
+      "homepage": "https://github.com/koishijs/koishi-plugin-tex",
+      "repository": "https://github.com/koishijs/koishi-plugin-tex",
+      "bugs": "https://github.com/koishijs/koishi-plugin-tex/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "katex",
+      "tex",
+      "math",
+      "render"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-text-censor",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-text-censor",
+      "homepage": "https://censor.koishi.chat/plugins/text.html",
+      "repository": "https://github.com/koishijs/censor",
+      "bugs": "https://github.com/koishijs/censor/issues"
+    },
+    "keywords": [
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "censor",
+      "filter",
+      "security",
+      "text"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-text-dialogue",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-text-dialogue"
+    },
+    "keywords": [
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "bot",
+      "chatbot",
+      "koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-tgsticker",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-tgsticker"
+    }
+  },
+  {
+    "name": "koishi-plugin-thesaurus",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-thesaurus",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-thesaurus",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-thesaurus/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "required:cache-aragami"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-token",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-token"
+    }
+  },
+  {
+    "name": "koishi-plugin-translator-baidu",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-translator-baidu",
+      "homepage": "https://translator.koishi.chat/plugins/baidu.html",
+      "repository": "https://github.com/koishijs/translator",
+      "bugs": "https://github.com/koishijs/translator/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "baidu",
+      "translation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-translator-bing",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-translator-bing"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "translation",
+      "翻译",
+      "bing"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-translator-youdao",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-translator-youdao",
+      "homepage": "https://translator.koishi.chat/plugins/youdao.html",
+      "repository": "https://github.com/koishijs/translator",
+      "bugs": "https://github.com/koishijs/translator/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "youdao",
+      "translation"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-trigger",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-trigger"
+    }
+  },
+  {
+    "name": "koishi-plugin-twdne",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-twdne",
+      "homepage": "https://github.com/koishijs/koishi-plugin-twdne",
+      "repository": "https://github.com/koishijs/koishi-plugin-twdne",
+      "bugs": "https://github.com/koishijs/koishi-plugin-twdne/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "twdne",
+      "waifu",
+      "anime",
+      "avatar",
+      "generate",
+      "image",
+      "GPT-3",
+      "AI",
+      "learning"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-twitter-images-videos",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-twitter-images-videos",
+      "homepage": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos#readme",
+      "repository": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos",
+      "bugs": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-typeorm",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-typeorm",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-typeorm",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-typeorm/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "typeorm",
+      "sql",
+      "postgres",
+      "pg",
+      "impl:typeorm"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-v2ex",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-v2ex",
+      "homepage": "https://github.com/tediorelee/koishi-plugin-v2ex#readme",
+      "repository": "https://github.com/tediorelee/koishi-plugin-v2ex",
+      "bugs": "https://github.com/tediorelee/koishi-plugin-v2ex/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-video-parser",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-video-parser"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-vm",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-vm",
+      "homepage": "https://github.com/koishijs/plugins#readme",
+      "repository": "https://github.com/koishijs/plugins",
+      "bugs": "https://github.com/koishijs/plugins/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "vm",
+      "runner",
+      "code"
+    ]
+  },
+  {
+    "name": "koishi-plugin-weather",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-weather",
+      "homepage": "https://github.com/koishijs/koishi-plugin-weather",
+      "repository": "https://github.com/koishijs/koishi-plugin-weather",
+      "bugs": "https://github.com/koishijs/koishi-plugin-weather/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "weather",
+      "7timer"
+    ],
+    "portable": true,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-webui",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-webui",
+      "homepage": "https://github.com/koishijs/koishi#readme",
+      "repository": "https://github.com/koishijs/koishi",
+      "bugs": "https://github.com/koishijs/koishi/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "webui"
+    ]
+  },
+  {
+    "name": "koishi-plugin-welcome",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-welcome",
+      "homepage": "https://github.com/koishijs/koishi-plugin-welcome#readme",
+      "repository": "https://github.com/koishijs/koishi-plugin-welcome",
+      "bugs": "https://github.com/koishijs/koishi-plugin-welcome/issues"
+    }
+  },
+  {
+    "name": "koishi-plugin-who-at-me",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-who-at-me"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-wolfram-alpha",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-wolfram-alpha",
+      "homepage": "https://github.com/koishijs/koishi-plugin-wolfram-alpha",
+      "repository": "https://github.com/koishijs/koishi-plugin-wolfram-alpha",
+      "bugs": "https://github.com/koishijs/koishi-plugin-wolfram-alpha/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-work",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-work",
+      "homepage": "https://github.com/NWYLZW/koishi-plugin-work#readme",
+      "repository": "https://github.com/NWYLZW/koishi-plugin-work",
+      "bugs": "https://github.com/NWYLZW/koishi-plugin-work/issues"
+    },
+    "keywords": [
+      "bot",
+      "qqbot",
+      "cqhttp",
+      "coolq",
+      "chatbot",
+      "koishi",
+      "plugin",
+      "work"
+    ]
+  },
+  {
+    "name": "koishi-plugin-wyblacklist",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-wyblacklist",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-wyblacklist",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-wyblacklist/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-xff",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-xff",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-xff",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-xff/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-xff2",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-xff2",
+      "homepage": "https://github.com/koishijs/koishi-plugin-xff2",
+      "repository": "https://github.com/koishijs/koishi-plugin-xff2",
+      "bugs": "https://github.com/koishijs/koishi-plugin-xff2/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "xff",
+      "forward",
+      "network",
+      "proxy",
+      "security",
+      "server"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-xiaoai-morningnews",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-xiaoai-morningnews"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin",
+      "morning",
+      "xiaoai"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-ygocard",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ygocard",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-ygocard",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-ygocard/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-ygotournament",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-ygotournament",
+      "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-ygotournament",
+      "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-ygotournament/issues"
+    },
+    "keywords": [
+      "Koishi.js",
+      "qqbot",
+      "cqhttp",
+      "onebot",
+      "ygo",
+      "yugioh",
+      "ygopro",
+      "required:cache-aragami"
+    ],
+    "portable": false,
+    "insecure": true
+  },
+  {
+    "name": "koishi-plugin-youtube",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-youtube",
+      "homepage": "https://github.com/tediorelee/koishi-plugin-youtube#readme",
+      "repository": "https://github.com/tediorelee/koishi-plugin-youtube",
+      "bugs": "https://github.com/tediorelee/koishi-plugin-youtube/issues"
+    },
+    "keywords": [
+      "chatbot",
+      "koishi",
+      "plugin"
+    ],
+    "portable": false,
+    "insecure": false
+  },
+  {
+    "name": "koishi-plugin-yuque",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-yuque"
+    },
+    "keywords": [
+      "Koishi.js",
+      "chatbot",
+      "Koishi",
+      "plugin"
+    ]
+  },
+  {
+    "name": "koishi-plugin-zerobot",
+    "links": {
+      "npm": "https://www.npmjs.com/package/koishi-plugin-zerobot"
+    }
+  }
+]
