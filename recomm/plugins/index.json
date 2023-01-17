@@ -45,7 +45,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000027237256,
+      "searchScore": 0.000027157046,
       "downloads": {
         "lastMonth": 345
       },
@@ -95,14 +95,14 @@
         ]
       },
       "score": {
-        "final": 0.3377372199504072,
+        "final": 0.33773670383369825,
         "detail": {
-          "quality": 0.7328057573788576,
-          "popularity": 0.004358425171172012,
-          "maintenance": 0.3324858397909705
+          "quality": 0.7328031639290222,
+          "popularity": 0.004358638609368518,
+          "maintenance": 0.33248637469060743
         }
       },
-      "searchScore": 0.000025908637,
+      "searchScore": 0.00002582016,
       "ignored": true
     },
     {
@@ -153,7 +153,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.000008250293,
+      "searchScore": 0.00000822506,
       "downloads": {
         "lastMonth": 505
       },
@@ -210,7 +210,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000073091173,
+      "searchScore": 0.0000072869793,
       "downloads": {
         "lastMonth": 200
       },
@@ -266,7 +266,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000072317735,
+      "searchScore": 0.0000072094595,
       "downloads": {
         "lastMonth": 157
       },
@@ -320,7 +320,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000068691743,
+      "searchScore": 0.00000685184,
       "verified": true,
       "downloads": {
         "lastMonth": 18
@@ -374,7 +374,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000066021457,
+      "searchScore": 0.000006580748,
       "verified": true,
       "downloads": {
         "lastMonth": 126
@@ -431,7 +431,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000065683225,
+      "searchScore": 0.0000065481404,
       "downloads": {
         "lastMonth": 33
       },
@@ -486,7 +486,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000065005183,
+      "searchScore": 0.0000064831647,
       "downloads": {
         "lastMonth": 138
       },
@@ -539,7 +539,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000062759354,
+      "searchScore": 0.0000062587146,
       "downloads": {
         "lastMonth": 22
       },
@@ -591,7 +591,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000062654244,
+      "searchScore": 0.000006248269,
       "downloads": {
         "lastMonth": 20
       },
@@ -649,7 +649,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000005888307,
+      "searchScore": 0.000005873371,
       "downloads": {
         "lastMonth": 77
       },
@@ -704,7 +704,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000052736286,
+      "searchScore": 0.000005259492,
       "downloads": {
         "lastMonth": 11
       },
@@ -763,7 +763,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.00000524145,
+      "searchScore": 0.0000052252494,
       "downloads": {
         "lastMonth": 378
       },
@@ -820,7 +820,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000050737667,
+      "searchScore": 0.0000050603962,
       "downloads": {
         "lastMonth": 15
       },
@@ -874,7 +874,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000050486874,
+      "searchScore": 0.0000050319754,
       "downloads": {
         "lastMonth": 46
       },
@@ -928,7 +928,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000004853855,
+      "searchScore": 0.000004840208,
       "downloads": {
         "lastMonth": 77
       },
@@ -981,7 +981,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000048128663,
+      "searchScore": 0.0000047980343,
       "downloads": {
         "lastMonth": 362
       },
@@ -1035,7 +1035,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000047422855,
+      "searchScore": 0.0000047258795,
       "verified": true,
       "downloads": {
         "lastMonth": 57
@@ -1091,7 +1091,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000046743226,
+      "searchScore": 0.0000046622663,
       "downloads": {
         "lastMonth": 133
       },
@@ -1147,7 +1147,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000040726404,
+      "searchScore": 0.000004060423,
       "downloads": {
         "lastMonth": 230
       },
@@ -1200,7 +1200,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000035722123,
+      "searchScore": 0.0000035627947,
       "downloads": {
         "lastMonth": 597
       },
@@ -1211,7 +1211,7 @@
       "package": {
         "name": "koishi-plugin-puppeteer",
         "scope": "unscoped",
-        "version": "3.3.2",
+        "version": "3.3.3",
         "description": "Browser API service for Koishi",
         "keywords": [
           "bot",
@@ -1225,7 +1225,7 @@
           "render",
           "puppeteer"
         ],
-        "date": "2023-01-11T17:25:51.722Z",
+        "date": "2023-01-16T16:03:38.721Z",
         "links": {
           "npm": "https://www.npmjs.com/package/koishi-plugin-puppeteer",
           "homepage": "https://puppeteer.koishi.chat/plugins/puppeteer.html",
@@ -1251,20 +1251,20 @@
         "insecure": false
       },
       "score": {
-        "final": 0.7323140949286921,
+        "final": 0.7551647564813222,
         "detail": {
-          "quality": 0.26794471689299393,
-          "popularity": 0.8798266996519848,
+          "quality": 0.2679444489484111,
+          "popularity": 0.9369535544919972,
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000031728991,
+      "searchScore": 0.0000033139886,
       "verified": true,
       "downloads": {
-        "lastMonth": 550
+        "lastMonth": 685
       },
-      "installSize": 13169746,
-      "publishSize": 13182
+      "installSize": 13169756,
+      "publishSize": 13438
     },
     {
       "package": {
@@ -1314,7 +1314,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.000003091004,
+      "searchScore": 0.00000308149,
       "downloads": {
         "lastMonth": 809
       },
@@ -1367,118 +1367,12 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000026328282,
+      "searchScore": 0.00000262509,
       "downloads": {
         "lastMonth": 183
       },
       "installSize": 71653,
       "publishSize": 23576
-    },
-    {
-      "package": {
-        "name": "@koishijs/plugin-logger",
-        "scope": "koishijs",
-        "version": "2.2.0",
-        "description": "Dump log files for Koishi",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "logs"
-        ],
-        "date": "2022-12-22T17:38:58.440Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-logger",
-          "homepage": "https://koishi.chat/plugins/console/logger.html",
-          "repository": "https://github.com/koishijs/console",
-          "bugs": "https://github.com/koishijs/console/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.8193629002377949,
-        "detail": {
-          "quality": 0.9963722960751202,
-          "popularity": 0.5511280285381469,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 0.0000023758394,
-      "downloads": {
-        "lastMonth": 248
-      },
-      "installSize": 36343,
-      "publishSize": 36343
-    },
-    {
-      "package": {
-        "name": "@koishijs/plugin-dataview",
-        "scope": "koishijs",
-        "version": "2.2.0",
-        "description": "View Database in Koishi Console",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "database"
-        ],
-        "date": "2022-12-22T17:38:45.734Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-dataview",
-          "homepage": "https://koishi.chat/plugins/console/dataview.html",
-          "repository": "https://github.com/koishijs/console",
-          "bugs": "https://github.com/koishijs/console/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": true,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.8624319683590917,
-        "detail": {
-          "quality": 0.9950092951578433,
-          "popularity": 0.6598229495293471,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 0.0000023736623,
-      "downloads": {
-        "lastMonth": 317
-      },
-      "installSize": 50032,
-      "publishSize": 50032
     },
     {
       "package": {
@@ -1525,7 +1419,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000023702946,
+      "searchScore": 0.0000023635603,
       "downloads": {
         "lastMonth": 716
       },
@@ -1578,7 +1472,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000023263492,
+      "searchScore": 0.0000023200055,
       "downloads": {
         "lastMonth": 141
       },
@@ -1631,12 +1525,172 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000022931902,
+      "searchScore": 0.000002286727,
       "downloads": {
         "lastMonth": 326
       },
       "installSize": 399717,
       "publishSize": 3144
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-dataview",
+        "scope": "koishijs",
+        "version": "2.2.0",
+        "description": "View Database in Koishi Console",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "database"
+        ],
+        "date": "2022-12-22T17:38:45.734Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-dataview",
+          "homepage": "https://koishi.chat/plugins/console/dataview.html",
+          "repository": "https://github.com/koishijs/console",
+          "bugs": "https://github.com/koishijs/console/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": true,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.8624319683590917,
+        "detail": {
+          "quality": 0.9950092951578433,
+          "popularity": 0.6598229495293471,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.000002236955,
+      "downloads": {
+        "lastMonth": 317
+      },
+      "installSize": 50032,
+      "publishSize": 50032
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-logger",
+        "scope": "koishijs",
+        "version": "2.2.0",
+        "description": "Dump log files for Koishi",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "logs"
+        ],
+        "date": "2022-12-22T17:38:58.440Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-logger",
+          "homepage": "https://koishi.chat/plugins/console/logger.html",
+          "repository": "https://github.com/koishijs/console",
+          "bugs": "https://github.com/koishijs/console/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.8193629002377949,
+        "detail": {
+          "quality": 0.9963722960751202,
+          "popularity": 0.5511280285381469,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.0000022276552,
+      "downloads": {
+        "lastMonth": 248
+      },
+      "installSize": 36343,
+      "publishSize": 36343
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-status",
+        "scope": "koishijs",
+        "version": "7.0.1",
+        "description": "Status view for Koishi",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "status",
+          "server"
+        ],
+        "date": "2023-01-10T08:57:37.250Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-status",
+          "homepage": "https://koishi.chat/plugins/console/status.html",
+          "repository": "https://github.com/koishijs/console",
+          "bugs": "https://github.com/koishijs/console/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.9173178291961062,
+        "detail": {
+          "quality": 0.9964409484913684,
+          "popularity": 0.795963861621739,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.0000022236443,
+      "downloads": {
+        "lastMonth": 435
+      },
+      "installSize": 35654,
+      "publishSize": 35654
     },
     {
       "package": {
@@ -1684,12 +1738,65 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000002238161,
+      "searchScore": 0.0000021967526,
       "downloads": {
         "lastMonth": 28
       },
       "installSize": 6442,
       "publishSize": 6442
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-bind",
+        "scope": "koishijs",
+        "version": "1.3.1",
+        "description": "Bind User Accounts Across Platforms in Koishi",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "bind"
+        ],
+        "date": "2022-08-18T17:34:47.795Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-bind",
+          "homepage": "https://koishi.js.org/plugins/accessibility/bind.html",
+          "repository": "https://github.com/koishijs/koishi",
+          "bugs": "https://github.com/koishijs/koishi/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.7368469101037395,
+        "detail": {
+          "quality": 0.9988096090780494,
+          "popularity": 0.3430100684508116,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.0000021619878,
+      "downloads": {
+        "lastMonth": 143
+      },
+      "installSize": 11911,
+      "publishSize": 11911
     },
     {
       "package": {
@@ -1740,7 +1847,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000022377858,
+      "searchScore": 0.000002134426,
       "downloads": {
         "lastMonth": 307
       },
@@ -1749,76 +1856,26 @@
     },
     {
       "package": {
-        "name": "@koishijs/plugin-status",
-        "scope": "koishijs",
-        "version": "7.0.1",
-        "description": "Status view for Koishi",
+        "name": "koishi-plugin-gocqhttp",
+        "scope": "unscoped",
+        "version": "3.3.0",
+        "description": "go-cqhttp launcher for Koishi",
         "keywords": [
           "bot",
+          "qqbot",
+          "cqhttp",
+          "gocqhttp",
+          "coolq",
           "chatbot",
           "koishi",
-          "plugin",
-          "status",
-          "server"
+          "launcher",
+          "plugin"
         ],
-        "date": "2023-01-10T08:57:37.250Z",
+        "date": "2023-01-16T16:58:29.386Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-status",
-          "homepage": "https://koishi.chat/plugins/console/status.html",
-          "repository": "https://github.com/koishijs/console",
-          "bugs": "https://github.com/koishijs/console/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.9173178291961062,
-        "detail": {
-          "quality": 0.9964409484913684,
-          "popularity": 0.795963861621739,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 0.0000022300703,
-      "downloads": {
-        "lastMonth": 435
-      },
-      "installSize": 35654,
-      "publishSize": 35654
-    },
-    {
-      "package": {
-        "name": "@koishijs/plugin-bind",
-        "scope": "koishijs",
-        "version": "1.3.1",
-        "description": "Bind User Accounts Across Platforms in Koishi",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "bind"
-        ],
-        "date": "2022-08-18T17:34:47.795Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-bind",
-          "homepage": "https://koishi.js.org/plugins/accessibility/bind.html",
-          "repository": "https://github.com/koishijs/koishi",
+          "npm": "https://www.npmjs.com/package/koishi-plugin-gocqhttp",
+          "homepage": "https://github.com/koishijs/koishi-plugin-gocqhttp",
+          "repository": "https://github.com/koishijs/koishi-plugin-gocqhttp",
           "bugs": "https://github.com/koishijs/koishi/issues"
         },
         "author": {
@@ -1840,19 +1897,20 @@
         "insecure": false
       },
       "score": {
-        "final": 0.7368469101037395,
+        "final": 0.6975794552913174,
         "detail": {
-          "quality": 0.9988096090780494,
-          "popularity": 0.3430100684508116,
+          "quality": 0.23714365078706948,
+          "popularity": 0.8160909001379912,
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021682556,
+      "searchScore": 0.0000021324213,
+      "verified": true,
       "downloads": {
-        "lastMonth": 143
+        "lastMonth": 458
       },
-      "installSize": 11911,
-      "publishSize": 11911
+      "installSize": 14390892,
+      "publishSize": 77186
     },
     {
       "package": {
@@ -1899,7 +1957,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000002135865,
+      "searchScore": 0.0000021289857,
       "downloads": {
         "lastMonth": 473
       },
@@ -1955,7 +2013,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021337887,
+      "searchScore": 0.0000021276023,
       "downloads": {
         "lastMonth": 695
       },
@@ -2011,7 +2069,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021251174,
+      "searchScore": 0.0000021210446,
       "downloads": {
         "lastMonth": 724
       },
@@ -2065,7 +2123,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021087947,
+      "searchScore": 0.0000021073072,
       "downloads": {
         "lastMonth": 173
       },
@@ -2121,7 +2179,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000020748726,
+      "searchScore": 0.0000020681223,
       "downloads": {
         "lastMonth": 79
       },
@@ -2173,7 +2231,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000002006309,
+      "searchScore": 0.0000020004084,
       "downloads": {
         "lastMonth": 55
       },
@@ -2226,7 +2284,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000019903894,
+      "searchScore": 0.0000019846225,
       "downloads": {
         "lastMonth": 26
       },
@@ -2237,7 +2295,7 @@
       "package": {
         "name": "@koishijs/plugin-console",
         "scope": "koishijs",
-        "version": "5.1.9",
+        "version": "5.1.10",
         "description": "Web User Interface for Koishi",
         "keywords": [
           "bot",
@@ -2248,7 +2306,7 @@
           "webui",
           "console"
         ],
-        "date": "2023-01-16T06:29:59.755Z",
+        "date": "2023-01-16T08:55:49.957Z",
         "links": {
           "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-console",
           "homepage": "https://koishi.chat/plugins/console/",
@@ -2274,19 +2332,19 @@
         "insecure": false
       },
       "score": {
-        "final": 0.9475716883652776,
+        "final": 0.9475760983501228,
         "detail": {
-          "quality": 0.8258325086946523,
+          "quality": 0.8258472086441363,
           "popularity": 0.9995548393922047,
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000019370086,
+      "searchScore": 0.0000019319916,
       "downloads": {
         "lastMonth": 1682
       },
-      "installSize": 1913633,
-      "publishSize": 1603524
+      "installSize": 1913455,
+      "publishSize": 1603346
     },
     {
       "package": {
@@ -2332,7 +2390,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000019358577,
+      "searchScore": 0.000001930247,
       "downloads": {
         "lastMonth": 392
       },
@@ -2387,7 +2445,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018995715,
+      "searchScore": 0.0000018933958,
       "downloads": {
         "lastMonth": 166
       },
@@ -2437,7 +2495,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018980442,
+      "searchScore": 0.0000018922084,
       "downloads": {
         "lastMonth": 855
       },
@@ -2480,7 +2538,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018957071,
+      "searchScore": 0.0000018898844,
       "downloads": {
         "lastMonth": 621
       },
@@ -2531,7 +2589,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000018858412,
+      "searchScore": 0.0000018803418,
       "downloads": {
         "lastMonth": 511
       },
@@ -2581,7 +2639,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018796605,
+      "searchScore": 0.0000018739344,
       "downloads": {
         "lastMonth": 488
       },
@@ -2634,7 +2692,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018400402,
+      "searchScore": 0.0000018344468,
       "downloads": {
         "lastMonth": 556
       },
@@ -2686,7 +2744,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001834399,
+      "searchScore": 0.0000018289028,
       "downloads": {
         "lastMonth": 65
       },
@@ -2738,7 +2796,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018309082,
+      "searchScore": 0.0000018253016,
       "downloads": {
         "lastMonth": 294
       },
@@ -2792,7 +2850,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018266715,
+      "searchScore": 0.0000018212467,
       "downloads": {
         "lastMonth": 32
       },
@@ -2847,7 +2905,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018163573,
+      "searchScore": 0.000001810812,
       "downloads": {
         "lastMonth": 336
       },
@@ -2899,7 +2957,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000018143141,
+      "searchScore": 0.0000018087525,
       "downloads": {
         "lastMonth": 389
       },
@@ -2949,7 +3007,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018087424,
+      "searchScore": 0.0000018034988,
       "downloads": {
         "lastMonth": 29
       },
@@ -3000,118 +3058,12 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000018047073,
+      "searchScore": 0.0000017995651,
       "downloads": {
         "lastMonth": 209
       },
       "installSize": 10734262,
       "publishSize": 21045
-    },
-    {
-      "package": {
-        "name": "@koishijs/plugin-commands",
-        "scope": "koishijs",
-        "version": "2.3.0",
-        "description": "Override Command Config for Koishi",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "command"
-        ],
-        "date": "2022-12-22T17:38:35.923Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-commands",
-          "homepage": "https://koishi.chat/plugins/console/commands.html",
-          "repository": "https://github.com/koishijs/console",
-          "bugs": "https://github.com/koishijs/console/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.8466748997691084,
-        "detail": {
-          "quality": 0.9914958664672132,
-          "popularity": 0.6230653495723611,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 0.0000017811072,
-      "downloads": {
-        "lastMonth": 292
-      },
-      "installSize": 85405,
-      "publishSize": 17271
-    },
-    {
-      "package": {
-        "name": "@koishijs/plugin-insight",
-        "scope": "koishijs",
-        "version": "3.2.0",
-        "description": "Show plugin dependency graph for Koishi",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "insight"
-        ],
-        "date": "2022-12-22T17:38:50.136Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-insight",
-          "homepage": "https://koishi.chat/plugins/console/insight.html",
-          "repository": "https://github.com/koishijs/console",
-          "bugs": "https://github.com/koishijs/console/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": true,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.81856870366589,
-        "detail": {
-          "quality": 0.9708365077463388,
-          "popularity": 0.5682943783549709,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 0.0000017589427,
-      "downloads": {
-        "lastMonth": 258
-      },
-      "installSize": 295972,
-      "publishSize": 60887
     },
     {
       "package": {
@@ -3158,7 +3110,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017471884,
+      "searchScore": 0.000001743329,
       "downloads": {
         "lastMonth": 470
       },
@@ -3210,7 +3162,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017470952,
+      "searchScore": 0.0000017422509,
       "downloads": {
         "lastMonth": 384
       },
@@ -3263,12 +3215,65 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000017431347,
+      "searchScore": 0.0000017386403,
       "downloads": {
         "lastMonth": 340
       },
       "installSize": 663770,
       "publishSize": 19325
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-insight",
+        "scope": "koishijs",
+        "version": "3.2.0",
+        "description": "Show plugin dependency graph for Koishi",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "insight"
+        ],
+        "date": "2022-12-22T17:38:50.136Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-insight",
+          "homepage": "https://koishi.chat/plugins/console/insight.html",
+          "repository": "https://github.com/koishijs/console",
+          "bugs": "https://github.com/koishijs/console/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": true,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.81856870366589,
+        "detail": {
+          "quality": 0.9708365077463388,
+          "popularity": 0.5682943783549709,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.0000017346617,
+      "downloads": {
+        "lastMonth": 258
+      },
+      "installSize": 295972,
+      "publishSize": 60887
     },
     {
       "package": {
@@ -3306,12 +3311,65 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000017335349,
+      "searchScore": 0.0000017284721,
       "downloads": {
         "lastMonth": 264
       },
       "installSize": 4379,
       "publishSize": 4379
+    },
+    {
+      "package": {
+        "name": "@koishijs/plugin-commands",
+        "scope": "koishijs",
+        "version": "2.3.0",
+        "description": "Override Command Config for Koishi",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "command"
+        ],
+        "date": "2022-12-22T17:38:35.923Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-commands",
+          "homepage": "https://koishi.chat/plugins/console/commands.html",
+          "repository": "https://github.com/koishijs/console",
+          "bugs": "https://github.com/koishijs/console/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.8466748997691084,
+        "detail": {
+          "quality": 0.9914958664672132,
+          "popularity": 0.6230653495723611,
+          "maintenance": 1
+        }
+      },
+      "searchScore": 0.0000017264422,
+      "downloads": {
+        "lastMonth": 292
+      },
+      "installSize": 85405,
+      "publishSize": 17271
     },
     {
       "package": {
@@ -3362,7 +3420,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017115002,
+      "searchScore": 0.0000017059816,
       "downloads": {
         "lastMonth": 473
       },
@@ -3405,7 +3463,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000017057467,
+      "searchScore": 0.0000017011583,
       "downloads": {
         "lastMonth": 307
       },
@@ -3456,7 +3514,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017005551,
+      "searchScore": 0.00000169607,
       "downloads": {
         "lastMonth": 248
       },
@@ -3508,7 +3566,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000016896211,
+      "searchScore": 0.0000016847392,
       "downloads": {
         "lastMonth": 277
       },
@@ -3563,7 +3621,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000016876542,
+      "searchScore": 0.000001683053,
       "downloads": {
         "lastMonth": 34
       },
@@ -3615,7 +3673,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016828556,
+      "searchScore": 0.0000016785598,
       "downloads": {
         "lastMonth": 369
       },
@@ -3670,7 +3728,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000016804966,
+      "searchScore": 0.0000016760322,
       "verified": true,
       "downloads": {
         "lastMonth": 97
@@ -3722,7 +3780,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016801921,
+      "searchScore": 0.0000016753108,
       "downloads": {
         "lastMonth": 346
       },
@@ -3779,7 +3837,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000016652964,
+      "searchScore": 0.0000016595842,
       "downloads": {
         "lastMonth": 114
       },
@@ -3831,7 +3889,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016395375,
+      "searchScore": 0.000001635223,
       "downloads": {
         "lastMonth": 388
       },
@@ -3882,7 +3940,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016374503,
+      "searchScore": 0.000001632782,
       "downloads": {
         "lastMonth": 434
       },
@@ -3925,7 +3983,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000016358542,
+      "searchScore": 0.0000016309752,
       "downloads": {
         "lastMonth": 321
       },
@@ -3981,7 +4039,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000016294833,
+      "searchScore": 0.0000016238808,
       "downloads": {
         "lastMonth": 70
       },
@@ -4026,7 +4084,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000016119601,
+      "searchScore": 0.0000016073371,
       "downloads": {
         "lastMonth": 33
       },
@@ -4077,7 +4135,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016037998,
+      "searchScore": 0.0000015997497,
       "downloads": {
         "lastMonth": 338
       }
@@ -4128,12 +4186,69 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016036599,
+      "searchScore": 0.0000015993307,
       "downloads": {
         "lastMonth": 674
       },
       "installSize": 10290282,
       "publishSize": 215451
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-footer",
+        "scope": "unscoped",
+        "version": "1.1.0",
+        "description": "Extend the status bar at the bottom of the web console",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "footer",
+          "console",
+          "status",
+          "beian",
+          "info"
+        ],
+        "date": "2022-12-22T18:45:10.658Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-footer",
+          "homepage": "https://github.com/koishijs/koishi-plugin-footer",
+          "repository": "https://github.com/koishijs/koishi-plugin-footer",
+          "bugs": "https://github.com/koishijs/koishi-plugin-footer/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5268060993668657,
+        "detail": {
+          "quality": 0.9960582890175094,
+          "popularity": 0.19497153165403222,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000015904723,
+      "downloads": {
+        "lastMonth": 79
+      },
+      "installSize": 39495,
+      "publishSize": 39495
     },
     {
       "package": {
@@ -4182,7 +4297,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015862929,
+      "searchScore": 0.0000015808417,
       "downloads": {
         "lastMonth": 44
       },
@@ -4236,7 +4351,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015805585,
+      "searchScore": 0.0000015749794,
       "downloads": {
         "lastMonth": 29
       },
@@ -4297,7 +4412,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015765077,
+      "searchScore": 0.0000015721928,
       "downloads": {
         "lastMonth": 132
       },
@@ -4343,14 +4458,14 @@
         ]
       },
       "score": {
-        "final": 0.27269965313071454,
+        "final": 0.27270120442911594,
         "detail": {
-          "quality": 0.5219196531905999,
-          "popularity": 0.005702237907629115,
-          "maintenance": 0.3260799254453268
+          "quality": 0.5219184669124456,
+          "popularity": 0.00570240197437763,
+          "maintenance": 0.3260852104695718
         }
       },
-      "searchScore": 0.0000015764416,
+      "searchScore": 0.000001571289,
       "ignored": true
     },
     {
@@ -4404,7 +4519,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015731991,
+      "searchScore": 0.0000015688213,
       "downloads": {
         "lastMonth": 132
       },
@@ -4454,12 +4569,63 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000015705875,
+      "searchScore": 0.0000015660944,
       "downloads": {
         "lastMonth": 194
       },
       "installSize": 10348,
       "publishSize": 4651
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-emojimix",
+        "scope": "unscoped",
+        "version": "1.3.0",
+        "description": "Emojimix Plugin for Koishi",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2022-05-29T06:36:59.713Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-emojimix",
+          "homepage": "https://github.com/univeous/koishi-plugin-emojimix",
+          "repository": "https://github.com/univeous/koishi-plugin-emojimix",
+          "bugs": "https://github.com/univeous/koishi-plugin-emojimix/issues"
+        },
+        "author": {
+          "name": "Univeous",
+          "email": "univeous@gmail.com",
+          "username": "univeous"
+        },
+        "publisher": {
+          "username": "univeous",
+          "email": "univeous@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "univeous",
+            "email": "univeous@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.4583292690782618,
+        "detail": {
+          "quality": 0.9977692917359267,
+          "popularity": 0.02249620389370964,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000015642918,
+      "downloads": {
+        "lastMonth": 9
+      },
+      "installSize": 22332,
+      "publishSize": 22332
     },
     {
       "package": {
@@ -4508,122 +4674,12 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015696185,
+      "searchScore": 0.00000156423,
       "downloads": {
         "lastMonth": 36
       },
       "installSize": 7492,
       "publishSize": 7492
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-emojimix",
-        "scope": "unscoped",
-        "version": "1.3.0",
-        "description": "Emojimix Plugin for Koishi",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2022-05-29T06:36:59.713Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-emojimix",
-          "homepage": "https://github.com/univeous/koishi-plugin-emojimix",
-          "repository": "https://github.com/univeous/koishi-plugin-emojimix",
-          "bugs": "https://github.com/univeous/koishi-plugin-emojimix/issues"
-        },
-        "author": {
-          "name": "Univeous",
-          "email": "univeous@gmail.com",
-          "username": "univeous"
-        },
-        "publisher": {
-          "username": "univeous",
-          "email": "univeous@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "univeous",
-            "email": "univeous@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.4583292690782618,
-        "detail": {
-          "quality": 0.9977692917359267,
-          "popularity": 0.02249620389370964,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000015693882,
-      "downloads": {
-        "lastMonth": 9
-      },
-      "installSize": 22332,
-      "publishSize": 22332
-    },
-    {
-      "package": {
-        "name": "@nonebot/koishi-plugin-abbrreply",
-        "scope": "nonebot",
-        "version": "1.0.1",
-        "description": "缩写查询器",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "nonebot",
-          "abbreviation",
-          "nbnhhsh"
-        ],
-        "date": "2022-12-28T01:13:47.682Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-abbrreply",
-          "homepage": "https://nonebot.koishi.chat/",
-          "repository": "https://github.com/nonebotjs/nonebot_plugin_abbrreply",
-          "bugs": "https://github.com/nonebotjs/nonebot_plugin_abbrreply/issues"
-        },
-        "author": {
-          "name": "NoneBot.js",
-          "email": "nonebot@proton.me",
-          "username": "nonebotjs"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "nonebotjs",
-            "email": "nonebot@proton.me"
-          },
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.5772978411053442,
-        "detail": {
-          "quality": 0.9996317678141194,
-          "popularity": 0.3185207769027709,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000015652397,
-      "downloads": {
-        "lastMonth": 132
-      },
-      "installSize": 3683,
-      "publishSize": 3683
     },
     {
       "package": {
@@ -4677,12 +4733,71 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015652397,
+      "searchScore": 0.000001560877,
       "downloads": {
         "lastMonth": 134
       },
       "installSize": 7442,
       "publishSize": 7442
+    },
+    {
+      "package": {
+        "name": "@nonebot/koishi-plugin-abbrreply",
+        "scope": "nonebot",
+        "version": "1.0.1",
+        "description": "缩写查询器",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "nonebot",
+          "abbreviation",
+          "nbnhhsh"
+        ],
+        "date": "2022-12-28T01:13:47.682Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-abbrreply",
+          "homepage": "https://nonebot.koishi.chat/",
+          "repository": "https://github.com/nonebotjs/nonebot_plugin_abbrreply",
+          "bugs": "https://github.com/nonebotjs/nonebot_plugin_abbrreply/issues"
+        },
+        "author": {
+          "name": "NoneBot.js",
+          "email": "nonebot@proton.me",
+          "username": "nonebotjs"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "nonebotjs",
+            "email": "nonebot@proton.me"
+          },
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5772978411053442,
+        "detail": {
+          "quality": 0.9996317678141194,
+          "popularity": 0.3185207769027709,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.000001560877,
+      "downloads": {
+        "lastMonth": 132
+      },
+      "installSize": 3683,
+      "publishSize": 3683
     },
     {
       "package": {
@@ -4735,7 +4850,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015627476,
+      "searchScore": 0.0000015587632,
       "downloads": {
         "lastMonth": 21
       },
@@ -4787,7 +4902,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015602437,
+      "searchScore": 0.0000015550404,
       "downloads": {
         "lastMonth": 12
       },
@@ -4837,7 +4952,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001556579,
+      "searchScore": 0.0000015515906,
       "downloads": {
         "lastMonth": 36
       },
@@ -4889,7 +5004,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015471638,
+      "searchScore": 0.0000015427687,
       "downloads": {
         "lastMonth": 324
       },
@@ -4940,7 +5055,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015335339,
+      "searchScore": 0.0000015293084,
       "downloads": {
         "lastMonth": 171
       },
@@ -5002,7 +5117,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015314304,
+      "searchScore": 0.0000015272047,
       "downloads": {
         "lastMonth": 133
       },
@@ -5064,7 +5179,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001528798,
+      "searchScore": 0.00000152459,
       "downloads": {
         "lastMonth": 135
       },
@@ -5119,7 +5234,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015264126,
+      "searchScore": 0.0000015222946,
       "downloads": {
         "lastMonth": 28
       },
@@ -5182,7 +5297,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015257365,
+      "searchScore": 0.0000015215252,
       "downloads": {
         "lastMonth": 134
       },
@@ -5238,7 +5353,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015246349,
+      "searchScore": 0.0000015194422,
       "downloads": {
         "lastMonth": 28
       },
@@ -5295,7 +5410,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015225685,
+      "searchScore": 0.0000015173879,
       "downloads": {
         "lastMonth": 137
       },
@@ -5348,7 +5463,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015146574,
+      "searchScore": 0.0000015108623,
       "downloads": {
         "lastMonth": 567
       },
@@ -5399,7 +5514,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015046844,
+      "searchScore": 0.0000015003397,
       "downloads": {
         "lastMonth": 24
       },
@@ -5454,7 +5569,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014989639,
+      "searchScore": 0.0000014952399,
       "downloads": {
         "lastMonth": 131
       },
@@ -5505,7 +5620,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014906601,
+      "searchScore": 0.0000014866031,
       "downloads": {
         "lastMonth": 179
       },
@@ -5556,7 +5671,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014747409,
+      "searchScore": 0.0000014712124,
       "downloads": {
         "lastMonth": 26
       },
@@ -5613,7 +5728,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001467661,
+      "searchScore": 0.0000014639081,
       "downloads": {
         "lastMonth": 24
       },
@@ -5664,7 +5779,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014598451,
+      "searchScore": 0.0000014559038,
       "downloads": {
         "lastMonth": 925
       },
@@ -5718,7 +5833,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014508024,
+      "searchScore": 0.0000014467688,
       "downloads": {
         "lastMonth": 260
       },
@@ -5780,69 +5895,12 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001449405,
+      "searchScore": 0.0000014454225,
       "downloads": {
         "lastMonth": 140
       },
       "installSize": 10746,
       "publishSize": 10746
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-footer",
-        "scope": "unscoped",
-        "version": "1.1.0",
-        "description": "Extend the status bar at the bottom of the web console",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "footer",
-          "console",
-          "status",
-          "beian",
-          "info"
-        ],
-        "date": "2022-12-22T18:45:10.658Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-footer",
-          "homepage": "https://github.com/koishijs/koishi-plugin-footer",
-          "repository": "https://github.com/koishijs/koishi-plugin-footer",
-          "bugs": "https://github.com/koishijs/koishi-plugin-footer/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.5268060993668657,
-        "detail": {
-          "quality": 0.9960582890175094,
-          "popularity": 0.19497153165403222,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000014486699,
-      "downloads": {
-        "lastMonth": 79
-      },
-      "installSize": 39495,
-      "publishSize": 39495
     },
     {
       "package": {
@@ -5899,7 +5957,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014446737,
+      "searchScore": 0.0000014407225,
       "downloads": {
         "lastMonth": 132
       },
@@ -5958,7 +6016,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000014437155,
+      "searchScore": 0.0000014389553,
       "downloads": {
         "lastMonth": 89
       },
@@ -6009,7 +6067,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001442001,
+      "searchScore": 0.0000014376224,
       "downloads": {
         "lastMonth": 434
       },
@@ -6052,7 +6110,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000014405022,
+      "searchScore": 0.0000014368553,
       "downloads": {
         "lastMonth": 17
       },
@@ -6111,7 +6169,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014354875,
+      "searchScore": 0.0000014315225,
       "downloads": {
         "lastMonth": 131
       },
@@ -6165,7 +6223,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014345077,
+      "searchScore": 0.0000014296704,
       "downloads": {
         "lastMonth": 89
       },
@@ -6225,7 +6283,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014335754,
+      "searchScore": 0.0000014295896,
       "downloads": {
         "lastMonth": 137
       },
@@ -6277,7 +6335,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014326249,
+      "searchScore": 0.0000014286616,
       "downloads": {
         "lastMonth": 230
       },
@@ -6331,7 +6389,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001430045,
+      "searchScore": 0.0000014251524,
       "downloads": {
         "lastMonth": 15
       },
@@ -6385,7 +6443,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014179191,
+      "searchScore": 0.000001413161,
       "downloads": {
         "lastMonth": 409
       },
@@ -6440,7 +6498,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014157073,
+      "searchScore": 0.0000014117563,
       "downloads": {
         "lastMonth": 480
       },
@@ -6493,7 +6551,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000014152677,
+      "searchScore": 0.0000014114006,
       "downloads": {
         "lastMonth": 105
       },
@@ -6545,7 +6603,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000014125608,
+      "searchScore": 0.0000014087817,
       "downloads": {
         "lastMonth": 315
       },
@@ -6598,7 +6656,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014087217,
+      "searchScore": 0.0000014042525,
       "downloads": {
         "lastMonth": 537
       },
@@ -6650,7 +6708,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014036125,
+      "searchScore": 0.0000013998133,
       "downloads": {
         "lastMonth": 196
       },
@@ -6701,7 +6759,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001401529,
+      "searchScore": 0.00000139774,
       "downloads": {
         "lastMonth": 258
       },
@@ -6752,7 +6810,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014013317,
+      "searchScore": 0.0000013968472,
       "downloads": {
         "lastMonth": 462
       },
@@ -6803,7 +6861,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013885767,
+      "searchScore": 0.0000013847421,
       "downloads": {
         "lastMonth": 324
       },
@@ -6854,7 +6912,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013808009,
+      "searchScore": 0.0000013765457,
       "downloads": {
         "lastMonth": 336
       },
@@ -6908,7 +6966,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000013752774,
+      "searchScore": 0.0000013715834,
       "downloads": {
         "lastMonth": 20
       },
@@ -6960,7 +7018,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013749377,
+      "searchScore": 0.0000013711121,
       "downloads": {
         "lastMonth": 225
       },
@@ -7011,7 +7069,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000001373397,
+      "searchScore": 0.0000013695538,
       "downloads": {
         "lastMonth": 272
       },
@@ -7062,7 +7120,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013558383,
+      "searchScore": 0.0000013516601,
       "downloads": {
         "lastMonth": 292
       },
@@ -7115,7 +7173,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000013462338,
+      "searchScore": 0.0000013416153,
       "downloads": {
         "lastMonth": 19
       },
@@ -7156,65 +7214,15 @@
         ]
       },
       "score": {
-        "final": 0.27120393778771557,
+        "final": 0.27123190757989163,
         "detail": {
-          "quality": 0.6751865893453781,
-          "popularity": 0.0019994237994931364,
-          "maintenance": 0.19413760758365584
+          "quality": 0.6751827379783883,
+          "popularity": 0.001999848168006421,
+          "maintenance": 0.19422039807877967
         }
       },
-      "searchScore": 0.0000013396324,
+      "searchScore": 0.000001336984,
       "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-bdynamic",
-        "scope": "unscoped",
-        "version": "1.0.4",
-        "description": "Koishi B站动态推送插件",
-        "keywords": [
-          "koishi",
-          "koishi.js"
-        ],
-        "date": "2022-04-17T03:59:50.725Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-bdynamic",
-          "homepage": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic#readme",
-          "repository": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic",
-          "bugs": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic/issues"
-        },
-        "author": {
-          "name": "DDElephant",
-          "email": "andy-ding@outlook.com",
-          "username": "ddelephant"
-        },
-        "publisher": {
-          "username": "ddelephant",
-          "email": "andy-ding@outlook.com"
-        },
-        "maintainers": [
-          {
-            "username": "ddelephant",
-            "email": "andy-ding@outlook.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.4664479470929845,
-        "detail": {
-          "quality": 0.9516995430925936,
-          "popularity": 0.07734521041301598,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000013197836,
-      "downloads": {
-        "lastMonth": 31
-      },
-      "installSize": 495059,
-      "publishSize": 33988
     },
     {
       "package": {
@@ -7260,12 +7268,62 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013194921,
+      "searchScore": 0.000001315922,
       "downloads": {
         "lastMonth": 251
       },
       "installSize": 9294273,
       "publishSize": 11713
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-bdynamic",
+        "scope": "unscoped",
+        "version": "1.0.4",
+        "description": "Koishi B站动态推送插件",
+        "keywords": [
+          "koishi",
+          "koishi.js"
+        ],
+        "date": "2022-04-17T03:59:50.725Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-bdynamic",
+          "homepage": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic#readme",
+          "repository": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic",
+          "bugs": "https://github.com/ONI-Wiki-zh/koishi-plugin-bdynamic/issues"
+        },
+        "author": {
+          "name": "DDElephant",
+          "email": "andy-ding@outlook.com",
+          "username": "ddelephant"
+        },
+        "publisher": {
+          "username": "ddelephant",
+          "email": "andy-ding@outlook.com"
+        },
+        "maintainers": [
+          {
+            "username": "ddelephant",
+            "email": "andy-ding@outlook.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.4664479470929845,
+        "detail": {
+          "quality": 0.9516995430925936,
+          "popularity": 0.07734521041301598,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.000001315123,
+      "downloads": {
+        "lastMonth": 31
+      },
+      "installSize": 495059,
+      "publishSize": 33988
     },
     {
       "package": {
@@ -7311,7 +7369,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013184793,
+      "searchScore": 0.0000013148224,
       "downloads": {
         "lastMonth": 270
       },
@@ -7366,7 +7424,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000013147002,
+      "searchScore": 0.0000013108829,
       "downloads": {
         "lastMonth": 720
       },
@@ -7419,7 +7477,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012969011,
+      "searchScore": 0.0000012931258,
       "downloads": {
         "lastMonth": 91
       },
@@ -7472,7 +7530,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000001296607,
+      "searchScore": 0.0000012928509,
       "downloads": {
         "lastMonth": 22
       },
@@ -7513,14 +7571,14 @@
         ]
       },
       "score": {
-        "final": 0.27245669353624014,
+        "final": 0.2724593939961249,
         "detail": {
-          "quality": 0.5288822248721756,
-          "popularity": 0.00252267450095359,
-          "maintenance": 0.3225973999978677
+          "quality": 0.5288813540889816,
+          "popularity": 0.0025230262705807603,
+          "maintenance": 0.3226055102135062
         }
       },
-      "searchScore": 0.0000012902667,
+      "searchScore": 0.0000012858808,
       "ignored": true
     },
     {
@@ -7572,7 +7630,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000012896406,
+      "searchScore": 0.0000012854956,
       "downloads": {
         "lastMonth": 24
       },
@@ -7625,7 +7683,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012632319,
+      "searchScore": 0.0000012592494,
       "downloads": {
         "lastMonth": 167
       },
@@ -7678,7 +7736,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012604502,
+      "searchScore": 0.000001256787,
       "downloads": {
         "lastMonth": 10
       },
@@ -7733,7 +7791,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000012450992,
+      "searchScore": 0.0000012410761,
       "downloads": {
         "lastMonth": 24
       },
@@ -7785,7 +7843,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001224973,
+      "searchScore": 0.0000012212413,
       "downloads": {
         "lastMonth": 52
       },
@@ -7829,7 +7887,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000012112731,
+      "searchScore": 0.0000012074771,
       "downloads": {
         "lastMonth": 7
       },
@@ -7872,7 +7930,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000012071354,
+      "searchScore": 0.0000012040364,
       "downloads": {
         "lastMonth": 14
       },
@@ -7915,7 +7973,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000012052167,
+      "searchScore": 0.0000012014787,
       "downloads": {
         "lastMonth": 688
       },
@@ -7962,14 +8020,14 @@
         ]
       },
       "score": {
-        "final": 0.26836890788959467,
+        "final": 0.26837355239026717,
         "detail": {
-          "quality": 0.5219196531905999,
-          "popularity": 0.0037922038189112323,
-          "maintenance": 0.31561640170227384
+          "quality": 0.5219184669124456,
+          "popularity": 0.003792447526066192,
+          "maintenance": 0.3156304448068866
         }
       },
-      "searchScore": 0.0000011875761,
+      "searchScore": 0.000001183658,
       "ignored": true
     },
     {
@@ -8025,7 +8083,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011834419,
+      "searchScore": 0.0000011803915,
       "downloads": {
         "lastMonth": 83
       },
@@ -8079,7 +8137,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.00000117624,
+      "searchScore": 0.0000011722052,
       "downloads": {
         "lastMonth": 25
       },
@@ -8131,7 +8189,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000011633512,
+      "searchScore": 0.0000011605737,
       "downloads": {
         "lastMonth": 485
       },
@@ -8174,7 +8232,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000011542414,
+      "searchScore": 0.0000011504773,
       "downloads": {
         "lastMonth": 54
       },
@@ -8231,7 +8289,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011531268,
+      "searchScore": 0.0000011498385,
       "downloads": {
         "lastMonth": 349
       },
@@ -8279,7 +8337,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000011445409,
+      "searchScore": 0.000001141377,
       "downloads": {
         "lastMonth": 123
       },
@@ -8330,7 +8388,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000011336965,
+      "searchScore": 0.000001130101,
       "downloads": {
         "lastMonth": 37
       },
@@ -8390,7 +8448,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011204058,
+      "searchScore": 0.0000011166352,
       "downloads": {
         "lastMonth": 21
       },
@@ -8442,7 +8500,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001119307,
+      "searchScore": 0.0000011159376,
       "downloads": {
         "lastMonth": 80
       },
@@ -8485,12 +8543,55 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010834074,
+      "searchScore": 0.0000010801182,
       "downloads": {
         "lastMonth": 523
       },
       "installSize": 2792718,
       "publishSize": 7487
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-blacklist",
+        "scope": "unscoped",
+        "version": "1.2.0",
+        "description": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T09:44:05.334Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-blacklist"
+        },
+        "publisher": {
+          "username": "initencounter",
+          "email": "2911583893@qq.com"
+        },
+        "maintainers": [
+          {
+            "username": "initencounter",
+            "email": "2911583893@qq.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.49581695056598496,
+        "detail": {
+          "quality": 0.9991101961104721,
+          "popularity": 0.30270972933210843,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 0.0000010793038,
+      "downloads": {
+        "lastMonth": 125
+      },
+      "installSize": 8902,
+      "publishSize": 8902
     },
     {
       "package": {
@@ -8546,7 +8647,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010806629,
+      "searchScore": 0.0000010771672,
       "downloads": {
         "lastMonth": 103
       },
@@ -8597,7 +8698,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001075787,
+      "searchScore": 0.0000010725746,
       "downloads": {
         "lastMonth": 194
       },
@@ -8645,163 +8746,12 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.000001069521,
+      "searchScore": 0.0000010664161,
       "downloads": {
         "lastMonth": 222
       },
       "installSize": 8188,
       "publishSize": 8188
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-responder2",
-        "scope": "unscoped",
-        "version": "1.1.2",
-        "description": "最新应答机！你可以在conf里写函数！",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2022-09-24T15:13:21.055Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-responder2",
-          "homepage": "https://github.com/arilychan/arilychan"
-        },
-        "author": {
-          "name": "arily",
-          "email": "arily@arily.moe"
-        },
-        "publisher": {
-          "username": "exsper",
-          "email": "starlightexsper@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "exsper",
-            "email": "starlightexsper@foxmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.3765513646937868,
-        "detail": {
-          "quality": 0.9585235952022502,
-          "popularity": 0.03498571533277942,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 0.0000010642428,
-      "downloads": {
-        "lastMonth": 14
-      },
-      "installSize": 423611,
-      "publishSize": 28354
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-twitter-images-videos",
-        "scope": "unscoped",
-        "version": "1.0.8",
-        "description": "get twitter images and videos",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2022-12-14T15:16:08.922Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-twitter-images-videos",
-          "homepage": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos#readme",
-          "repository": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos",
-          "bugs": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos/issues"
-        },
-        "author": {
-          "name": "TEDIORELEE",
-          "email": "tediorelee@gmail.com",
-          "url": "https://github.com/tediorelee",
-          "username": "tediorelee"
-        },
-        "publisher": {
-          "username": "tediorelee",
-          "email": "tediorelee@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "tediorelee",
-            "email": "tediorelee@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.5210793262858985,
-        "detail": {
-          "quality": 0.9994899301298883,
-          "popularity": 0.17808086811733023,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.000001063872,
-      "downloads": {
-        "lastMonth": 72
-      },
-      "installSize": 5102,
-      "publishSize": 5102
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-mollyai",
-        "scope": "unscoped",
-        "version": "1.0.1",
-        "description": "Calls molly robot API for koishi",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin",
-          "molly"
-        ],
-        "date": "2022-12-12T15:38:38.769Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-mollyai",
-          "homepage": "https://github.com/YehowahLiu/koishi-plugin-mollyai#readme",
-          "repository": "https://github.com/YehowahLiu/koishi-plugin-mollyai",
-          "bugs": "https://github.com/YehowahLiu/koishi-plugin-mollyai/issues"
-        },
-        "author": {
-          "name": "YehowahLiu",
-          "email": "yewhoahliu@4o1.to"
-        },
-        "publisher": {
-          "username": "yehowahliu",
-          "email": "redme@live.cn"
-        },
-        "maintainers": [
-          {
-            "username": "yehowahliu",
-            "email": "redme@live.cn"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.4718013753976748,
-        "detail": {
-          "quality": 0.9994117730733328,
-          "popularity": 0.054944608689187435,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000010638176,
-      "downloads": {
-        "lastMonth": 22
-      },
-      "installSize": 5884,
-      "publishSize": 5884
     },
     {
       "package": {
@@ -8854,12 +8804,219 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010634179,
+      "searchScore": 0.0000010608005,
       "downloads": {
         "lastMonth": 81
       },
       "installSize": 5498,
       "publishSize": 5498
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-mollyai",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "Calls molly robot API for koishi",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin",
+          "molly"
+        ],
+        "date": "2022-12-12T15:38:38.769Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-mollyai",
+          "homepage": "https://github.com/YehowahLiu/koishi-plugin-mollyai#readme",
+          "repository": "https://github.com/YehowahLiu/koishi-plugin-mollyai",
+          "bugs": "https://github.com/YehowahLiu/koishi-plugin-mollyai/issues"
+        },
+        "author": {
+          "name": "YehowahLiu",
+          "email": "yewhoahliu@4o1.to"
+        },
+        "publisher": {
+          "username": "yehowahliu",
+          "email": "redme@live.cn"
+        },
+        "maintainers": [
+          {
+            "username": "yehowahliu",
+            "email": "redme@live.cn"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.4718013753976748,
+        "detail": {
+          "quality": 0.9994117730733328,
+          "popularity": 0.054944608689187435,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000010607366,
+      "downloads": {
+        "lastMonth": 22
+      },
+      "installSize": 5884,
+      "publishSize": 5884
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-twitter-images-videos",
+        "scope": "unscoped",
+        "version": "1.0.8",
+        "description": "get twitter images and videos",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2022-12-14T15:16:08.922Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-twitter-images-videos",
+          "homepage": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos#readme",
+          "repository": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos",
+          "bugs": "https://github.com/tediorelee/koishi-plugin-twitter-images-videos/issues"
+        },
+        "author": {
+          "name": "TEDIORELEE",
+          "email": "tediorelee@gmail.com",
+          "url": "https://github.com/tediorelee",
+          "username": "tediorelee"
+        },
+        "publisher": {
+          "username": "tediorelee",
+          "email": "tediorelee@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "tediorelee",
+            "email": "tediorelee@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5210793262858985,
+        "detail": {
+          "quality": 0.9994899301298883,
+          "popularity": 0.17808086811733023,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000010606637,
+      "downloads": {
+        "lastMonth": 72
+      },
+      "installSize": 5102,
+      "publishSize": 5102
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-responder2",
+        "scope": "unscoped",
+        "version": "1.1.2",
+        "description": "最新应答机！你可以在conf里写函数！",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2022-09-24T15:13:21.055Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-responder2",
+          "homepage": "https://github.com/arilychan/arilychan"
+        },
+        "author": {
+          "name": "arily",
+          "email": "arily@arily.moe"
+        },
+        "publisher": {
+          "username": "exsper",
+          "email": "starlightexsper@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "exsper",
+            "email": "starlightexsper@foxmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3765513646937868,
+        "detail": {
+          "quality": 0.9585235952022502,
+          "popularity": 0.03498571533277942,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 0.0000010606605,
+      "downloads": {
+        "lastMonth": 14
+      },
+      "installSize": 423611,
+      "publishSize": 28354
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-changelog",
+        "scope": "unscoped",
+        "version": "2.1.0",
+        "description": "Show changelog in Koishi Console",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "console",
+          "release",
+          "update",
+          "changelog"
+        ],
+        "date": "2022-12-22T18:45:06.156Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-changelog",
+          "homepage": "https://github.com/koishijs/koishi-plugin-changelog",
+          "repository": "https://github.com/koishijs/koishi-plugin-changelog",
+          "bugs": "https://github.com/koishijs/koishi-plugin-changelog/issues"
+        },
+        "author": {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com",
+          "username": "shigma"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.552316734310998,
+        "detail": {
+          "quality": 0.9957674824569405,
+          "popularity": 0.2589662239347898,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000010591704,
+      "downloads": {
+        "lastMonth": 106
+      },
+      "installSize": 42415,
+      "publishSize": 42415
     },
     {
       "package": {
@@ -8906,7 +9063,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010412633,
+      "searchScore": 0.0000010382176,
       "downloads": {
         "lastMonth": 205
       },
@@ -8958,7 +9115,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010366887,
+      "searchScore": 0.0000010335557,
       "downloads": {
         "lastMonth": 62
       },
@@ -9005,63 +9162,12 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010258411,
+      "searchScore": 0.0000010229193,
       "downloads": {
         "lastMonth": 143
       },
       "installSize": 7337,
       "publishSize": 7337
-    },
-    {
-      "package": {
-        "name": "@myrtus/koishi-plugin-forward",
-        "scope": "myrtus",
-        "version": "2.1.7",
-        "description": "群组互联",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2022-12-17T06:53:08.910Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-forward",
-          "homepage": "https://github.com/idanran/myrtus#readme",
-          "repository": "https://github.com/idanran/myrtus",
-          "bugs": "https://github.com/idanran/myrtus/issues"
-        },
-        "author": {
-          "name": "idanran",
-          "email": "idanran@outlook.com",
-          "username": "idanran"
-        },
-        "publisher": {
-          "username": "idanran",
-          "email": "idanran@outlook.com"
-        },
-        "maintainers": [
-          {
-            "username": "idanran",
-            "email": "idanran@outlook.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.6483968060881936,
-        "detail": {
-          "quality": 0.9989714293418075,
-          "popularity": 0.49676344321412846,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000010218434,
-      "downloads": {
-        "lastMonth": 218
-      },
-      "installSize": 10291,
-      "publishSize": 10291
     },
     {
       "package": {
@@ -9099,7 +9205,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010175262,
+      "searchScore": 0.0000010144638,
       "downloads": {
         "lastMonth": 463
       },
@@ -9150,7 +9256,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000010110126,
+      "searchScore": 0.0000010083535,
       "downloads": {
         "lastMonth": 297
       },
@@ -9196,7 +9302,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010098294,
+      "searchScore": 0.0000010066501,
       "downloads": {
         "lastMonth": 6
       },
@@ -9239,7 +9345,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010034147,
+      "searchScore": 0.0000010003714,
       "downloads": {
         "lastMonth": 389
       },
@@ -9293,7 +9399,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000010022363,
+      "searchScore": 9.990556e-7,
       "downloads": {
         "lastMonth": 342
       },
@@ -9336,68 +9442,12 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.962621e-7,
+      "searchScore": 9.935135e-7,
       "downloads": {
         "lastMonth": 139
       },
       "installSize": 8225,
       "publishSize": 8225
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-changelog",
-        "scope": "unscoped",
-        "version": "2.1.0",
-        "description": "Show changelog in Koishi Console",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "console",
-          "release",
-          "update",
-          "changelog"
-        ],
-        "date": "2022-12-22T18:45:06.156Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-changelog",
-          "homepage": "https://github.com/koishijs/koishi-plugin-changelog",
-          "repository": "https://github.com/koishijs/koishi-plugin-changelog",
-          "bugs": "https://github.com/koishijs/koishi-plugin-changelog/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.552316734310998,
-        "detail": {
-          "quality": 0.9957674824569405,
-          "popularity": 0.2589662239347898,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 9.960837e-7,
-      "downloads": {
-        "lastMonth": 106
-      },
-      "installSize": 42415,
-      "publishSize": 42415
     },
     {
       "package": {
@@ -9448,12 +9498,113 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.948161e-7,
+      "searchScore": 9.914228e-7,
       "downloads": {
         "lastMonth": 14
       },
       "installSize": 5196,
       "publishSize": 5196
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-devplugin",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "description": "在内测期间控制信息以及相应的进出",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin",
+          "test",
+          "dev"
+        ],
+        "date": "2022-10-30T01:32:15.742Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-devplugin"
+        },
+        "author": {
+          "name": "ocero",
+          "email": "metalstudio@126.com",
+          "username": "ocero"
+        },
+        "publisher": {
+          "username": "ocero",
+          "email": "metalstudio@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "ocero",
+            "email": "metalstudio@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.38593579421291047,
+        "detail": {
+          "quality": 0.9997952209700884,
+          "popularity": 0.027493069804709887,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 9.71075e-7,
+      "downloads": {
+        "lastMonth": 11
+      },
+      "installSize": 2048,
+      "publishSize": 2048
+    },
+    {
+      "package": {
+        "name": "@myrtus/koishi-plugin-forward",
+        "scope": "myrtus",
+        "version": "2.2.0",
+        "description": "群组互联",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T06:41:22.765Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-forward",
+          "homepage": "https://github.com/idanran/myrtus#readme",
+          "repository": "https://github.com/idanran/myrtus",
+          "bugs": "https://github.com/idanran/myrtus/issues"
+        },
+        "author": {
+          "name": "idanran",
+          "email": "idanran@outlook.com",
+          "username": "idanran"
+        },
+        "publisher": {
+          "username": "idanran",
+          "email": "idanran@outlook.com"
+        },
+        "maintainers": [
+          {
+            "username": "idanran",
+            "email": "idanran@outlook.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5588338618492518,
+        "detail": {
+          "quality": 0.9989060987466624,
+          "popularity": 0.27290508056313273,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 9.688675e-7,
+      "downloads": {
+        "lastMonth": 112
+      },
+      "installSize": 10945,
+      "publishSize": 10945
     },
     {
       "package": {
@@ -9504,62 +9655,12 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.805145e-7,
+      "searchScore": 9.686904e-7,
       "downloads": {
         "lastMonth": 11
       },
       "installSize": 4082,
       "publishSize": 4082
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-devplugin",
-        "scope": "unscoped",
-        "version": "1.0.0",
-        "description": "在内测期间控制信息以及相应的进出",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin",
-          "test",
-          "dev"
-        ],
-        "date": "2022-10-30T01:32:15.742Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-devplugin"
-        },
-        "author": {
-          "name": "ocero",
-          "email": "metalstudio@126.com",
-          "username": "ocero"
-        },
-        "publisher": {
-          "username": "ocero",
-          "email": "metalstudio@126.com"
-        },
-        "maintainers": [
-          {
-            "username": "ocero",
-            "email": "metalstudio@126.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.38593579421291047,
-        "detail": {
-          "quality": 0.9997952209700884,
-          "popularity": 0.027493069804709887,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 9.735181e-7,
-      "downloads": {
-        "lastMonth": 11
-      },
-      "installSize": 2048,
-      "publishSize": 2048
     },
     {
       "package": {
@@ -9607,7 +9708,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.624472e-7,
+      "searchScore": 9.595672e-7,
       "downloads": {
         "lastMonth": 467
       },
@@ -9655,7 +9756,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.609495e-7,
+      "searchScore": 9.581775e-7,
       "downloads": {
         "lastMonth": 189
       },
@@ -9704,7 +9805,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.5318774e-7,
+      "searchScore": 9.504395e-7,
       "downloads": {
         "lastMonth": 200
       },
@@ -9757,7 +9858,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.51264e-7,
+      "searchScore": 9.4787396e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -9810,7 +9911,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 9.434607e-7,
+      "searchScore": 9.4093656e-7,
       "downloads": {
         "lastMonth": 25
       },
@@ -9860,7 +9961,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.4255677e-7,
+      "searchScore": 9.4016434e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -9903,7 +10004,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.405578e-7,
+      "searchScore": 9.379615e-7,
       "downloads": {
         "lastMonth": 152
       },
@@ -9953,70 +10054,12 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.3715755e-7,
+      "searchScore": 9.3249076e-7,
       "downloads": {
         "lastMonth": 17
       },
       "installSize": 12077,
       "publishSize": 12077
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-gocqhttp",
-        "scope": "unscoped",
-        "version": "3.2.1",
-        "description": "go-cqhttp launcher for Koishi",
-        "keywords": [
-          "bot",
-          "qqbot",
-          "cqhttp",
-          "gocqhttp",
-          "coolq",
-          "chatbot",
-          "koishi",
-          "launcher",
-          "plugin"
-        ],
-        "date": "2023-01-10T16:24:18.758Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-gocqhttp",
-          "homepage": "https://github.com/koishijs/koishi-plugin-gocqhttp",
-          "repository": "https://github.com/koishijs/koishi-plugin-gocqhttp",
-          "bugs": "https://github.com/koishijs/koishi/issues"
-        },
-        "author": {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com",
-          "username": "shigma"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.7081688026825691,
-        "detail": {
-          "quality": 0.24102377473606315,
-          "popularity": 0.8396541756543754,
-          "maintenance": 1
-        }
-      },
-      "searchScore": 9.327925e-7,
-      "verified": true,
-      "downloads": {
-        "lastMonth": 488
-      },
-      "installSize": 14228597,
-      "publishSize": 71854
     },
     {
       "package": {
@@ -10065,7 +10108,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.2508844e-7,
+      "searchScore": 9.220026e-7,
       "downloads": {
         "lastMonth": 21
       }
@@ -10111,7 +10154,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.126694e-7,
+      "searchScore": 9.103483e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -10162,7 +10205,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.9896184e-7,
+      "searchScore": 8.9642026e-7,
       "downloads": {
         "lastMonth": 32
       },
@@ -10215,7 +10258,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 8.9644357e-7,
+      "searchScore": 8.9345997e-7,
       "downloads": {
         "lastMonth": 16
       },
@@ -10270,7 +10313,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.624328e-7,
+      "searchScore": 8.5944896e-7,
       "downloads": {
         "lastMonth": 45
       },
@@ -10313,7 +10356,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 8.4725656e-7,
+      "searchScore": 8.4430434e-7,
       "downloads": {
         "lastMonth": 384
       },
@@ -10359,7 +10402,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 8.088904e-7,
+      "searchScore": 8.0695224e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -10414,7 +10457,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 7.811955e-7,
+      "searchScore": 7.793136e-7,
       "downloads": {
         "lastMonth": 1556
       },
@@ -10464,7 +10507,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.738936e-7,
+      "searchScore": 7.750914e-7,
       "downloads": {
         "lastMonth": 24
       },
@@ -10505,14 +10548,14 @@
         ]
       },
       "score": {
-        "final": 0.26030080033869146,
+        "final": 0.260312044265554,
         "detail": {
-          "quality": 0.5219196531905999,
-          "popularity": 0.0019166327577284578,
-          "maintenance": 0.29444023690373305
+          "quality": 0.5219184669124456,
+          "popularity": 0.0019170708233387426,
+          "maintenance": 0.2944729411532907
         }
       },
-      "searchScore": 7.7053727e-7,
+      "searchScore": 7.682613e-7,
       "ignored": true
     },
     {
@@ -10561,7 +10604,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 6.582773e-7,
+      "searchScore": 6.566829e-7,
       "downloads": {
         "lastMonth": 831
       },
@@ -10613,7 +10656,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.388192e-7,
+      "searchScore": 6.369175e-7,
       "downloads": {
         "lastMonth": 17
       },
@@ -10662,14 +10705,14 @@
         ]
       },
       "score": {
-        "final": 0.2538182354661117,
+        "final": 0.25382043214216404,
         "detail": {
-          "quality": 0.4643926825983201,
-          "popularity": 0.0056935685308650815,
-          "maintenance": 0.3214505191451796
+          "quality": 0.46438923852207137,
+          "popularity": 0.0056937328456916755,
+          "maintenance": 0.32145958311300166
         }
       },
-      "searchScore": 5.924534e-7,
+      "searchScore": 5.9059727e-7,
       "ignored": true
     },
     {
@@ -10723,7 +10766,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.6517075e-7,
+      "searchScore": 5.632089e-7,
       "downloads": {
         "lastMonth": 50
       },
@@ -10766,7 +10809,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.2792984e-7,
+      "searchScore": 5.261163e-7,
       "downloads": {
         "lastMonth": 131
       },
@@ -10818,7 +10861,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.258076e-7,
+      "searchScore": 5.242375e-7,
       "downloads": {
         "lastMonth": 841
       },
@@ -10870,7 +10913,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.1722844e-7,
+      "searchScore": 5.155147e-7,
       "downloads": {
         "lastMonth": 888
       },
@@ -10916,7 +10959,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.0985983e-7,
+      "searchScore": 5.084011e-7,
       "downloads": {
         "lastMonth": 20
       },
@@ -10964,14 +11007,14 @@
         ]
       },
       "score": {
-        "final": 0.2507285688180662,
+        "final": 0.2507403867557161,
         "detail": {
-          "quality": 0.49106313663849704,
-          "popularity": 0.0050455886866420845,
-          "maintenance": 0.2904104908176925
+          "quality": 0.49106009441690757,
+          "popularity": 0.005045773811529357,
+          "maintenance": 0.29044667884745307
         }
       },
-      "searchScore": 4.9076544e-7,
+      "searchScore": 4.893877e-7,
       "ignored": true
     },
     {
@@ -11019,7 +11062,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.897492e-7,
+      "searchScore": 4.882615e-7,
       "downloads": {
         "lastMonth": 644
       },
@@ -11074,7 +11117,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.86832e-7,
+      "searchScore": 4.852539e-7,
       "downloads": {
         "lastMonth": 435
       },
@@ -11126,7 +11169,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.83429e-7,
+      "searchScore": 4.819316e-7,
       "downloads": {
         "lastMonth": 333
       },
@@ -11168,14 +11211,14 @@
         ]
       },
       "score": {
-        "final": 0.2504064699511899,
+        "final": 0.2504061496431756,
         "detail": {
-          "quality": 0.44193052174049474,
-          "popularity": 0.0033161336067853322,
+          "quality": 0.44192913192197564,
+          "popularity": 0.0033164097140463457,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 4.7517733e-7,
+      "searchScore": 4.7354297e-7,
       "ignored": true
     },
     {
@@ -11222,7 +11265,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.5631975e-7,
+      "searchScore": 4.551422e-7,
       "downloads": {
         "lastMonth": 383
       },
@@ -11272,7 +11315,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 4.4880807e-7,
+      "searchScore": 4.4769075e-7,
       "downloads": {
         "lastMonth": 8
       },
@@ -11326,7 +11369,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 4.466606e-7,
+      "searchScore": 4.4537688e-7,
       "downloads": {
         "lastMonth": 27
       },
@@ -11372,7 +11415,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.347256e-7,
+      "searchScore": 4.333412e-7,
       "downloads": {
         "lastMonth": 102
       },
@@ -11418,7 +11461,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2839284e-7,
+      "searchScore": 4.272721e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -11469,7 +11512,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.048774e-7,
+      "searchScore": 4.0376685e-7,
       "downloads": {
         "lastMonth": 215
       },
@@ -11515,68 +11558,15 @@
         ]
       },
       "score": {
-        "final": 0.24419962141120083,
+        "final": 0.24420964089402292,
         "detail": {
-          "quality": 0.44193052174049474,
-          "popularity": 0.020831040433854503,
-          "maintenance": 0.29808457353486667
+          "quality": 0.44192913192197564,
+          "popularity": 0.020831345936437227,
+          "maintenance": 0.2981140863990777
         }
       },
-      "searchScore": 3.8798115e-7,
+      "searchScore": 3.868186e-7,
       "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-currency",
-        "scope": "unscoped",
-        "version": "0.1.3-alpha",
-        "description": "A currency plugin for koishi framework",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "service",
-          "currency"
-        ],
-        "date": "2023-01-15T17:09:14.817Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-currency"
-        },
-        "author": {
-          "name": "TimeBather",
-          "email": "open-source@timebather.cn"
-        },
-        "publisher": {
-          "username": "xieyi1393",
-          "email": "2387911242@qq.com"
-        },
-        "maintainers": [
-          {
-            "username": "xieyi1393",
-            "email": "2387911242@qq.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.5123109954346619,
-        "detail": {
-          "quality": 0.9974179392681788,
-          "popularity": 0.3452140341355208,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 3.8435238e-7,
-      "downloads": {
-        "lastMonth": 144
-      },
-      "installSize": 25854,
-      "publishSize": 25854
     },
     {
       "package": {
@@ -11626,12 +11616,65 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.8418239e-7,
+      "searchScore": 3.8326743e-7,
       "downloads": {
         "lastMonth": 18
       },
       "installSize": 23034,
       "publishSize": 23034
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-currency",
+        "scope": "unscoped",
+        "version": "0.1.3-alpha",
+        "description": "A currency plugin for koishi framework",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "service",
+          "currency"
+        ],
+        "date": "2023-01-15T17:09:14.817Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-currency"
+        },
+        "author": {
+          "name": "TimeBather",
+          "email": "open-source@timebather.cn"
+        },
+        "publisher": {
+          "username": "xieyi1393",
+          "email": "2387911242@qq.com"
+        },
+        "maintainers": [
+          {
+            "username": "xieyi1393",
+            "email": "2387911242@qq.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.5123109954346619,
+        "detail": {
+          "quality": 0.9974179392681788,
+          "popularity": 0.3452140341355208,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.832522e-7,
+      "downloads": {
+        "lastMonth": 144
+      },
+      "installSize": 25854,
+      "publishSize": 25854
     },
     {
       "package": {
@@ -11681,7 +11724,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.7814291e-7,
+      "searchScore": 3.772522e-7,
       "downloads": {
         "lastMonth": 23
       },
@@ -11736,7 +11779,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.728605e-7,
+      "searchScore": 3.719858e-7,
       "downloads": {
         "lastMonth": 15
       },
@@ -11791,12 +11834,55 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.7162536e-7,
+      "searchScore": 3.7075253e-7,
       "downloads": {
         "lastMonth": 14
       },
       "installSize": 20135,
       "publishSize": 20135
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-moyu",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "description": "摸鱼人日历",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2022-11-01T11:16:14.687Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-moyu"
+        },
+        "publisher": {
+          "username": "jerryhm11",
+          "email": "1299640312@qq.com"
+        },
+        "maintainers": [
+          {
+            "username": "jerryhm11",
+            "email": "1299640312@qq.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.38395747436038963,
+        "detail": {
+          "quality": 0.9998633093430193,
+          "popularity": 0.02249620389370964,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.668295e-7,
+      "downloads": {
+        "lastMonth": 9
+      },
+      "installSize": 1367,
+      "publishSize": 1367
     },
     {
       "package": {
@@ -11847,55 +11933,12 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.6795282e-7,
+      "searchScore": 3.6682476e-7,
       "downloads": {
         "lastMonth": 152
       },
       "installSize": 6022,
       "publishSize": 6022
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-moyu",
-        "scope": "unscoped",
-        "version": "1.0.0",
-        "description": "摸鱼人日历",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2022-11-01T11:16:14.687Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-moyu"
-        },
-        "publisher": {
-          "username": "jerryhm11",
-          "email": "1299640312@qq.com"
-        },
-        "maintainers": [
-          {
-            "username": "jerryhm11",
-            "email": "1299640312@qq.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.38395747436038963,
-        "detail": {
-          "quality": 0.9998633093430193,
-          "popularity": 0.02249620389370964,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 3.6776598e-7,
-      "downloads": {
-        "lastMonth": 9
-      },
-      "installSize": 1367,
-      "publishSize": 1367
     },
     {
       "package": {
@@ -11945,7 +11988,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.4413563e-7,
+      "searchScore": 3.433328e-7,
       "downloads": {
         "lastMonth": 18
       },
@@ -11998,7 +12041,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 3.3634987e-7,
+      "searchScore": 3.3535866e-7,
       "downloads": {
         "lastMonth": 415
       }
@@ -12040,14 +12083,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24249047785853556,
+        "final": 0.242495616684695,
         "detail": {
-          "quality": 0.42541203138693445,
-          "popularity": 0.01866219040107485,
-          "maintenance": 0.30952886229165444
+          "quality": 0.4254058938836501,
+          "popularity": 0.018662750966351886,
+          "maintenance": 0.3095482448039338
         }
       },
-      "searchScore": 3.3587634e-7,
+      "searchScore": 3.3478634e-7,
       "ignored": true
     },
     {
@@ -12104,7 +12147,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.3522986e-7,
+      "searchScore": 3.342775e-7,
       "downloads": {
         "lastMonth": 135
       },
@@ -12158,7 +12201,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.320576e-7,
+      "searchScore": 3.312637e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12205,14 +12248,14 @@
         ]
       },
       "score": {
-        "final": 0.24432072590055637,
+        "final": 0.24432054402258713,
         "detail": {
-          "quality": 0.42979726550586095,
-          "popularity": 0.0032062205503260734,
-          "maintenance": 0.3264553401605257
+          "quality": 0.42979050767699023,
+          "popularity": 0.0032065052993316572,
+          "maintenance": 0.3264603281849257
         }
       },
-      "searchScore": 3.261934e-7,
+      "searchScore": 3.250745e-7,
       "ignored": true
     },
     {
@@ -12265,7 +12308,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 3.258927e-7,
+      "searchScore": 3.2502385e-7,
       "downloads": {
         "lastMonth": 49
       },
@@ -12317,7 +12360,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.2573124e-7,
+      "searchScore": 3.2468063e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -12360,14 +12403,14 @@
         ]
       },
       "score": {
-        "final": 0.2378539777338904,
+        "final": 0.23787627042109333,
         "detail": {
-          "quality": 0.6509790160759545,
-          "popularity": 0.0009857078582706797,
-          "maintenance": 0.12061507188774083
+          "quality": 0.6509749433791553,
+          "popularity": 0.0009863311639206503,
+          "maintenance": 0.12068163285707012
         }
       },
-      "searchScore": 2.9674712e-7,
+      "searchScore": 2.961593e-7,
       "ignored": true
     },
     {
@@ -12419,7 +12462,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 2.9615032e-7,
+      "searchScore": 2.9558132e-7,
       "downloads": {
         "lastMonth": 322
       },
@@ -12462,7 +12505,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.745473e-7,
+      "searchScore": 2.7389558e-7,
       "downloads": {
         "lastMonth": 12
       }
@@ -12518,7 +12561,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.7072238e-7,
+      "searchScore": 2.699598e-7,
       "downloads": {
         "lastMonth": 208
       },
@@ -12570,7 +12613,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.6884092e-7,
+      "searchScore": 2.6811222e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -12616,7 +12659,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.5288347e-7,
+      "searchScore": 2.5228658e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12662,14 +12705,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2401217111824438,
+        "final": 0.2401198952049292,
         "detail": {
-          "quality": 0.40980590583088794,
-          "popularity": 0.0018270987621794171,
-          "maintenance": 0.3329727281897561
+          "quality": 0.40979906689558976,
+          "popularity": 0.0018275523917739944,
+          "maintenance": 0.33297294799751825
         }
       },
-      "searchScore": 2.492257e-7,
+      "searchScore": 2.4833068e-7,
       "ignored": true
     },
     {
@@ -12705,14 +12748,14 @@
         ]
       },
       "score": {
-        "final": 0.23922455111161683,
+        "final": 0.23922258492840315,
         "detail": {
-          "quality": 0.4055896922364374,
-          "popularity": 0.002543490792846729,
-          "maintenance": 0.3333069190376836
+          "quality": 0.4055827130777572,
+          "popularity": 0.002543840115011905,
+          "maintenance": 0.3333069341852053
         }
       },
-      "searchScore": 2.4506076e-7,
+      "searchScore": 2.4419546e-7,
       "ignored": true
     },
     {
@@ -12752,7 +12795,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.9776054e-7,
+      "searchScore": 1.9729966e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12798,7 +12841,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.9398108e-7,
+      "searchScore": 1.9341942e-7,
       "downloads": {
         "lastMonth": 261
       },
@@ -12846,12 +12889,65 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.8743239e-7,
+      "searchScore": 1.8685796e-7,
       "downloads": {
         "lastMonth": 108
       },
       "installSize": 757414,
       "publishSize": 44962
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-eula",
+        "scope": "unscoped",
+        "version": "0.1.1",
+        "description": "EULA(End-user licence agreement) for your koishi bot.",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T17:09:16.738Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-eula",
+          "homepage": "https://github.com/Lipraty/koishi-plugin-eula#readme",
+          "repository": "https://github.com/Lipraty/koishi-plugin-eula",
+          "bugs": "https://github.com/Lipraty/koishi-plugin-eula/issues"
+        },
+        "author": {
+          "name": "Lipraty",
+          "email": "i@lonay.me"
+        },
+        "publisher": {
+          "username": "lipraty",
+          "email": "sis1943@outlook.com"
+        },
+        "maintainers": [
+          {
+            "username": "lipraty",
+            "email": "sis1943@outlook.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.7577489495111678,
+        "detail": {
+          "quality": 0.9993411171586926,
+          "popularity": 0.7698665359089003,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 1.8453714e-7,
+      "downloads": {
+        "lastMonth": 408
+      },
+      "installSize": 6591,
+      "publishSize": 6591
     },
     {
       "package": {
@@ -12887,66 +12983,15 @@
         ]
       },
       "score": {
-        "final": 0.23305623308600185,
+        "final": 0.23307931162769532,
         "detail": {
-          "quality": 0.4856384543965051,
-          "popularity": 0.0022564148014213334,
-          "maintenance": 0.2473570045330082
+          "quality": 0.4856364210460008,
+          "popularity": 0.0022568006842460923,
+          "maintenance": 0.247424300212597
         }
       },
-      "searchScore": 1.8098955e-7,
+      "searchScore": 1.8053615e-7,
       "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-eula",
-        "scope": "unscoped",
-        "version": "0.1.0",
-        "description": "EULA(End-user licence agreement) for your koishi bot.",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2023-01-15T14:08:19.797Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-eula",
-          "bugs": "https://github.com/Lipraty/koishi-plugin-eula/issues"
-        },
-        "author": {
-          "name": "Lipraty",
-          "email": "i@lonay.me"
-        },
-        "publisher": {
-          "username": "lipraty",
-          "email": "sis1943@outlook.com"
-        },
-        "maintainers": [
-          {
-            "username": "lipraty",
-            "email": "sis1943@outlook.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.5596504272437056,
-        "detail": {
-          "quality": 0.9993452144656725,
-          "popularity": 0.46211715726000974,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 1.7355896e-7,
-      "downloads": {
-        "lastMonth": 200
-      },
-      "installSize": 6550,
-      "publishSize": 6550
     },
     {
       "package": {
@@ -12996,7 +13041,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7241929e-7,
+      "searchScore": 1.718046e-7,
       "downloads": {
         "lastMonth": 14
       },
@@ -13049,7 +13094,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7210337e-7,
+      "searchScore": 1.7163356e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -13100,7 +13145,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.6693005e-7,
+      "searchScore": 1.6653625e-7,
       "downloads": {
         "lastMonth": 15
       },
@@ -13156,7 +13201,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 1.6426004e-7,
+      "searchScore": 1.6388215e-7,
       "verified": true,
       "downloads": {
         "lastMonth": 14
@@ -13207,7 +13252,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.6074291e-7,
+      "searchScore": 1.6027634e-7,
       "downloads": {
         "lastMonth": 59
       },
@@ -13266,7 +13311,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 1.5793735e-7,
+      "searchScore": 1.5744966e-7,
       "verified": true,
       "downloads": {
         "lastMonth": 122
@@ -13323,7 +13368,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.4948176e-7,
+      "searchScore": 1.4899354e-7,
       "downloads": {
         "lastMonth": 387
       },
@@ -13376,7 +13421,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.4730222e-7,
+      "searchScore": 1.4682436e-7,
       "downloads": {
         "lastMonth": 276
       },
@@ -13431,7 +13476,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.377342e-7,
+      "searchScore": 1.3732159e-7,
       "downloads": {
         "lastMonth": 71
       },
@@ -13477,7 +13522,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.3346202e-7,
+      "searchScore": 1.330816e-7,
       "downloads": {
         "lastMonth": 99
       },
@@ -13521,14 +13566,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23046985814174104,
+        "final": 0.230474478006708,
         "detail": {
-          "quality": 0.404524781200299,
-          "popularity": 0.0016437793564219388,
-          "maintenance": 0.3101060028768677
+          "quality": 0.4045175934097579,
+          "popularity": 0.0016442673077121002,
+          "maintenance": 0.3101248755030897
         }
       },
-      "searchScore": 1.3181214e-7,
+      "searchScore": 1.3137732e-7,
       "ignored": true
     },
     {
@@ -13568,7 +13613,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.2040688e-7,
+      "searchScore": 1.201527e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -13625,7 +13670,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.08611566e-7,
+      "searchScore": 1.08313905e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -13675,7 +13720,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.615963e-8,
+      "searchScore": 9.596168e-8,
       "downloads": {
         "lastMonth": 10
       },
@@ -13719,7 +13764,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.0125474e-8,
+      "searchScore": 8.000261e-8,
       "downloads": {
         "lastMonth": 9
       },
@@ -13764,7 +13809,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.236878e-8,
+      "searchScore": 7.2247914e-8,
       "downloads": {
         "lastMonth": 14
       },
@@ -13819,7 +13864,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.0843264e-8,
+      "searchScore": 7.070161e-8,
       "downloads": {
         "lastMonth": 28
       },
@@ -13862,14 +13907,14 @@
         ]
       },
       "score": {
-        "final": 0.21315052852769484,
+        "final": 0.2131791953508499,
         "detail": {
-          "quality": 0.4977120799211763,
-          "popularity": 0.001499645934645651,
-          "maintenance": 0.18089150992633138
+          "quality": 0.49771067231321253,
+          "popularity": 0.001500163049897792,
+          "maintenance": 0.18097410454120544
         }
       },
-      "searchScore": 6.096183e-8,
+      "searchScore": 6.085975e-8,
       "ignored": true
     },
     {
@@ -13925,7 +13970,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.834463e-8,
+      "searchScore": 5.816995e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -13971,7 +14016,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.7399102e-8,
+      "searchScore": 5.723322e-8,
       "downloads": {
         "lastMonth": 153
       },
@@ -14019,14 +14064,14 @@
         ]
       },
       "score": {
-        "final": 0.21036075826401485,
+        "final": 0.2103773528284595,
         "detail": {
-          "quality": 0.595197457895273,
-          "popularity": 0.0035776320631754504,
-          "maintenance": 0.08728385620949015
+          "quality": 0.5951934029879185,
+          "popularity": 0.0035778894463585798,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 5.6261644e-8,
+      "searchScore": 5.6113706e-8,
       "ignored": true
     },
     {
@@ -14070,14 +14115,14 @@
         ]
       },
       "score": {
-        "final": 0.21061180396731524,
+        "final": 0.21062838421350846,
         "detail": {
-          "quality": 0.595197457895273,
-          "popularity": 0.004294905501176599,
-          "maintenance": 0.08728385620949015
+          "quality": 0.5951934029879185,
+          "popularity": 0.004295121975069855,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 5.6252777e-8,
+      "searchScore": 5.6103268e-8,
       "ignored": true
     },
     {
@@ -14124,7 +14169,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.53793e-8,
+      "searchScore": 5.5268877e-8,
       "downloads": {
         "lastMonth": 11
       },
@@ -14170,7 +14215,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.43146e-8,
+      "searchScore": 5.4206673e-8,
       "downloads": {
         "lastMonth": 103
       },
@@ -14229,7 +14274,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.334499e-8,
+      "searchScore": 5.3185456e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -14288,7 +14333,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 4.933127e-8,
+      "searchScore": 4.918349e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -14323,14 +14368,14 @@
         ]
       },
       "score": {
-        "final": 0.2102826088389291,
+        "final": 0.2103095991636422,
         "detail": {
-          "quality": 0.5219196531905999,
-          "popularity": 0.0013895982688335617,
-          "maintenance": 0.15205815282187832
+          "quality": 0.5219184669124456,
+          "popularity": 0.0013901386782953736,
+          "maintenance": 0.15213574443572903
         }
       },
-      "searchScore": 4.3172406e-8,
+      "searchScore": 4.3097476e-8,
       "ignored": true
     },
     {
@@ -14365,14 +14410,14 @@
         ]
       },
       "score": {
-        "final": 0.20509870030205785,
+        "final": 0.20512572111551594,
         "detail": {
-          "quality": 0.5046746516027522,
-          "popularity": 0.0013598609530708196,
-          "maintenance": 0.15205815282187832
+          "quality": 0.5046735594897485,
+          "popularity": 0.0013604077602464234,
+          "maintenance": 0.15213574443572903
         }
       },
-      "searchScore": 3.399451e-8,
+      "searchScore": 3.392453e-8,
       "ignored": true
     },
     {
@@ -14409,14 +14454,14 @@
         ]
       },
       "score": {
-        "final": 0.2048103349124304,
+        "final": 0.20483565604475154,
         "detail": {
-          "quality": 0.5219196531905999,
-          "popularity": 0.0011937088242019184,
-          "maintenance": 0.13661897390508512
+          "quality": 0.5219184669124456,
+          "popularity": 0.001194291443290637,
+          "maintenance": 0.13669175418818905
         }
       },
-      "searchScore": 3.34865e-8,
+      "searchScore": 3.3420886e-8,
       "ignored": true
     },
     {
@@ -14471,7 +14516,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.348177e-8,
+      "searchScore": 3.3368128e-8,
       "downloads": {
         "lastMonth": 23
       },
@@ -14520,14 +14565,14 @@
         ]
       },
       "score": {
-        "final": 0.20272641968683924,
+        "final": 0.20275098432245275,
         "detail": {
-          "quality": 0.4055896922364374,
-          "popularity": 0.0028902408562254066,
-          "maintenance": 0.22867979347494036
+          "quality": 0.4055827130777572,
+          "popularity": 0.002890553444548475,
+          "maintenance": 0.22875564769581044
         }
       },
-      "searchScore": 2.5288347e-8,
+      "searchScore": 2.5235275e-8,
       "ignored": true
     },
     {
@@ -14566,14 +14611,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2039096088857942,
+        "final": 0.20391816365928467,
         "detail": {
-          "quality": 0.3294218743182432,
-          "popularity": 0.0012971968747759156,
-          "maintenance": 0.29894007909757053
+          "quality": 0.32941618383728166,
+          "popularity": 0.0012977572312159401,
+          "maintenance": 0.2989688385062132
         }
       },
-      "searchScore": 2.3728655e-8,
+      "searchScore": 2.365878e-8,
       "ignored": true
     },
     {
@@ -14622,7 +14667,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.3216291e-8,
+      "searchScore": 2.317225e-8,
       "downloads": {
         "lastMonth": 6
       },
@@ -14680,7 +14725,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 2.0941117e-8,
+      "searchScore": 2.088164e-8,
       "downloads": {
         "lastMonth": 29
       },
@@ -14715,14 +14760,14 @@
         ]
       },
       "score": {
-        "final": 0.19752115353840538,
+        "final": 0.19754641387810232,
         "detail": {
-          "quality": 0.4977120799211763,
-          "popularity": 0.0011168248436363905,
-          "maintenance": 0.13661897390508512
+          "quality": 0.49771067231321253,
+          "popularity": 0.0011174234807783234,
+          "maintenance": 0.13669175418818905
         }
       },
-      "searchScore": 1.8647205e-8,
+      "searchScore": 1.8614731e-8,
       "ignored": true
     },
     {
@@ -14765,14 +14810,14 @@
         ]
       },
       "score": {
-        "final": 0.19354923420460032,
+        "final": 0.19357740794702222,
         "detail": {
-          "quality": 0.4488930934220706,
-          "popularity": 0.0013895982688335617,
-          "maintenance": 0.16684270509682117
+          "quality": 0.4488920190985116,
+          "popularity": 0.0013901386782953736,
+          "maintenance": 0.1669235819430439
         }
       },
-      "searchScore": 1.6468594e-8,
+      "searchScore": 1.6442169e-8,
       "ignored": true
     },
     {
@@ -14803,14 +14848,14 @@
         ]
       },
       "score": {
-        "final": 0.19641606107349036,
+        "final": 0.19644473323347883,
         "detail": {
-          "quality": 0.44193052174049474,
-          "popularity": 0.001499645934645651,
-          "maintenance": 0.18089150992633138
+          "quality": 0.44192913192197564,
+          "popularity": 0.001500163049897792,
+          "maintenance": 0.18097410454120544
         }
       },
-      "searchScore": 1.434066e-8,
+      "searchScore": 1.4319149e-8,
       "ignored": true
     },
     {
@@ -14838,14 +14883,14 @@
         ]
       },
       "score": {
-        "final": 0.1918383786432835,
+        "final": 0.19186147599898987,
         "detail": {
-          "quality": 0.4977120799211763,
-          "popularity": 0.0008842271606324757,
-          "maintenance": 0.12061507188774083
+          "quality": 0.49771067231321253,
+          "popularity": 0.0008848651572901947,
+          "maintenance": 0.12068163285707012
         }
       },
-      "searchScore": 1.1880633e-8,
+      "searchScore": 1.1860858e-8,
       "ignored": true
     },
     {
@@ -14869,14 +14914,14 @@
         ]
       },
       "score": {
-        "final": 0.19310976778508304,
+        "final": 0.19313293754680672,
         "detail": {
-          "quality": 0.3628001662992041,
-          "popularity": 0.0023313131913002033,
-          "maintenance": 0.23843930936676214
+          "quality": 0.362793188725671,
+          "popularity": 0.0023316889258478937,
+          "maintenance": 0.23851111372873904
         }
       },
-      "searchScore": 9.695245e-9,
+      "searchScore": 9.6776285e-9,
       "ignored": true
     },
     {
@@ -14925,7 +14970,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.788943e-9,
+      "searchScore": 6.7749046e-9,
       "downloads": {
         "lastMonth": 6
       },
@@ -14986,7 +15031,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.2757595e-9,
+      "searchScore": 6.2648904e-9,
       "downloads": {
         "lastMonth": 8
       },
@@ -15031,14 +15076,14 @@
         ]
       },
       "score": {
-        "final": 0.18055821384891038,
+        "final": 0.18058461614079588,
         "detail": {
-          "quality": 0.4055896922364374,
-          "popularity": 0.0013895982688335617,
-          "maintenance": 0.16684270509682117
+          "quality": 0.4055827130777572,
+          "popularity": 0.0013901386782953736,
+          "maintenance": 0.1669235819430439
         }
       },
-      "searchScore": 5.9933574e-9,
+      "searchScore": 5.982788e-9,
       "ignored": true
     },
     {
@@ -15073,14 +15118,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18381506878708187,
+        "final": 0.18382850770908044,
         "detail": {
-          "quality": 0.27991319935285086,
-          "popularity": 0.004241176612776318,
-          "maintenance": 0.28101913476215684
+          "quality": 0.27990635554992854,
+          "popularity": 0.004241395718943186,
+          "maintenance": 0.28106317869277647
         }
       },
-      "searchScore": 5.785442e-9,
+      "searchScore": 5.7711476e-9,
       "ignored": true
     },
     {
@@ -15120,14 +15165,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17664848463101554,
+        "final": 0.17667377915858545,
         "detail": {
-          "quality": 0.40980590583088794,
-          "popularity": 0.0013895982688335617,
-          "maintenance": 0.15205815282187832
+          "quality": 0.40979906689558976,
+          "popularity": 0.0013901386782953736,
+          "maintenance": 0.15213574443572903
         }
       },
-      "searchScore": 4.020255e-9,
+      "searchScore": 4.0125134e-9,
       "ignored": true
     },
     {
@@ -15154,14 +15199,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17845695704003928,
+        "final": 0.17846443660411687,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.005115115352493257,
+          "popularity": 0.005136485535572097,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.6059975e-9,
+      "searchScore": 3.5967813e-9,
       "ignored": true
     },
     {
@@ -15188,14 +15233,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17837693892037024,
+        "final": 0.17838468925918766,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0048864921534388026,
+          "popularity": 0.004908635978631441,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5726575e-9,
+      "searchScore": 3.5636405e-9,
       "ignored": true
     },
     {
@@ -15222,14 +15267,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17831965818466936,
+        "final": 0.17832761122737556,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0047228329085791795,
+          "popularity": 0.004745555887739707,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5489665e-9,
+      "searchScore": 3.5400944e-9,
       "ignored": true
     },
     {
@@ -15256,14 +15301,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17830976480512542,
+        "final": 0.17831775361462573,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.00469456610988218,
+          "popularity": 0.0047173912798830885,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5448893e-9,
+      "searchScore": 3.5360423e-9,
       "ignored": true
     },
     {
@@ -15290,14 +15335,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17829976562829658,
+        "final": 0.17830779081372367,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0046659970332283305,
+          "popularity": 0.004688926134448599,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.540773e-9,
+      "searchScore": 3.5319516e-9,
       "ignored": true
     },
     {
@@ -15324,14 +15369,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17828965788042925,
+        "final": 0.17829772006824696,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.004637117753607386,
+          "popularity": 0.004660152575943685,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5366166e-9,
+      "searchScore": 3.527821e-9,
       "ignored": true
     },
     {
@@ -15359,14 +15404,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1776663757726707,
+        "final": 0.1776668961683604,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0048145055877204385,
-          "maintenance": 0.331375139477053
+          "popularity": 0.004814699398323384,
+          "maintenance": 0.3313764325112778
         }
       },
-      "searchScore": 3.4791097e-9,
+      "searchScore": 3.4677066e-9,
       "ignored": true
     },
     {
@@ -15394,14 +15439,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17712424906391486,
+        "final": 0.17713234051740218,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.002778781054892906,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0028009441006842063,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.3329706e-9,
+      "searchScore": 3.3250769e-9,
       "ignored": true
     },
     {
@@ -15429,14 +15474,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17732760124518115,
+        "final": 0.177339102343808,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0033597872870822737,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0033916921761294955,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.320037e-9,
+      "searchScore": 3.313426e-9,
       "ignored": true
     },
     {
@@ -15464,14 +15509,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1772963897809785,
+        "final": 0.17730759771330312,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0032706116750747354,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0033016789461154943,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.3079344e-9,
+      "searchScore": 3.3012357e-9,
       "ignored": true
     },
     {
@@ -15499,14 +15544,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1772249782132925,
+        "final": 0.1772359052799794,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0030665786245432773,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.003096843422333492,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.2803975e-9,
+      "searchScore": 3.2736494e-9,
       "ignored": true
     },
     {
@@ -15534,14 +15579,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17712007165469157,
+        "final": 0.1771281608788214,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.002766845599969186,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0027890022761677636,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.2403293e-9,
+      "searchScore": 3.2325922e-9,
       "ignored": true
     },
     {
@@ -15569,14 +15614,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1771091353273628,
+        "final": 0.17711586935468626,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0027355989504584273,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0027538836357816777,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.2361787e-9,
+      "searchScore": 3.2279388e-9,
       "ignored": true
     },
     {
@@ -15604,14 +15649,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17709277045244703,
+        "final": 0.17709949253307355,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0026888421649848547,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0027070927168882206,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.2299765e-9,
+      "searchScore": 3.2217484e-9,
       "ignored": true
     },
     {
@@ -15647,14 +15692,14 @@
         ]
       },
       "score": {
-        "final": 0.1715173417758511,
+        "final": 0.17154025160377592,
         "detail": {
-          "quality": 0.42985689621582357,
-          "popularity": 0.0009857078582706797,
-          "maintenance": 0.12061507188774083
+          "quality": 0.42985488065476396,
+          "popularity": 0.0009863311639206503,
+          "maintenance": 0.12068163285707012
         }
       },
-      "searchScore": 3.1467735e-9,
+      "searchScore": 3.1402356e-9,
       "ignored": true
     },
     {
@@ -15682,14 +15727,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1768671109242575,
+        "final": 0.1768781196700117,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.00204410065587186,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0020745988224257538,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.1455696e-9,
+      "searchScore": 3.1391414e-9,
       "ignored": true
     },
     {
@@ -15717,14 +15762,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17679335958563752,
+        "final": 0.1768034070651,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.00183338254552909,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0018611342369637207,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.1184293e-9,
+      "searchScore": 3.1117073e-9,
       "ignored": true
     },
     {
@@ -15752,14 +15797,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17676636037588914,
+        "final": 0.1767756589552364,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0017562419462479966,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0017818539230677077,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.1085479e-9,
+      "searchScore": 3.1015752e-9,
       "ignored": true
     },
     {
@@ -15787,14 +15832,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17675535249700955,
+        "final": 0.17676468617131172,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0017247908637348947,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0017505031118543886,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.1045275e-9,
+      "searchScore": 3.0975769e-9,
       "ignored": true
     },
     {
@@ -15822,49 +15867,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17675522133045574,
+        "final": 0.17676455096177252,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0017244161021525832,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0017501167988851895,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.1044796e-9,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-chat",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "description": "official reserved plugin",
-        "date": "2022-08-11T07:43:41.476Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-chat"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.17655846447574436,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0.0023789086503291763,
-          "maintenance": 0.33064527556608336
-        }
-      },
-      "searchScore": 3.089217e-9,
+      "searchScore": 3.0975276e-9,
       "ignored": true
     },
     {
@@ -15892,14 +15902,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17671263909782398,
+        "final": 0.17672093035137498,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0016027525803475591,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0016254864834637122,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.0889729e-9,
+      "searchScore": 3.0816805e-9,
       "ignored": true
     },
     {
@@ -15927,14 +15937,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17671215183177422,
+        "final": 0.17672042425150997,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0016013603916339267,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0016240404838493284,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.0887957e-9,
+      "searchScore": 3.081497e-9,
       "ignored": true
     },
     {
@@ -15962,14 +15972,49 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1767118035187375,
+        "final": 0.17672006243742258,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.001600365211529013,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.0016230067293139506,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.088669e-9,
+      "searchScore": 3.0813658e-9,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-chat",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "description": "official reserved plugin",
+        "date": "2022-08-11T07:43:41.476Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-chat"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.17655922792102438,
+        "detail": {
+          "quality": 0.2,
+          "popularity": 0.002379278167818209,
+          "maintenance": 0.33064708732082293
+        }
+      },
+      "searchScore": 3.0791572e-9,
       "ignored": true
     },
     {
@@ -15997,14 +16042,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17666665050576363,
+        "final": 0.17667353691493148,
         "detail": {
           "quality": 0.2,
-          "popularity": 0.0014713566030322772,
-          "maintenance": 0.33186193055629243
+          "popularity": 0.001490076665053689,
+          "maintenance": 0.3318628859490363
         }
       },
-      "searchScore": 3.072306e-9,
+      "searchScore": 3.0645477e-9,
       "ignored": true
     },
     {
@@ -16048,14 +16093,14 @@
         ]
       },
       "score": {
-        "final": 0.17028109267441954,
+        "final": 0.1702979996064594,
         "detail": {
-          "quality": 0.46456863140412863,
-          "popularity": 0.0010318673710268719,
-          "maintenance": 0.08728385620949015
+          "quality": 0.46456520031687043,
+          "popularity": 0.001032482530113681,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 2.8904013e-9,
+      "searchScore": 2.8840526e-9,
       "ignored": true
     },
     {
@@ -16099,14 +16144,14 @@
         ]
       },
       "score": {
-        "final": 0.16698221110677733,
+        "final": 0.16699868196656018,
         "detail": {
-          "quality": 0.4506794221157585,
-          "popularity": 0.0035115279963663705,
-          "maintenance": 0.08728385620949015
+          "quality": 0.450674949602498,
+          "popularity": 0.003511789885577979,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 2.2923414e-9,
+      "searchScore": 2.287265e-9,
       "ignored": true
     },
     {
@@ -16139,14 +16184,14 @@
         ]
       },
       "score": {
-        "final": 0.16662422714053957,
+        "final": 0.16664560544454665,
         "detail": {
-          "quality": 0.41349266133323626,
-          "popularity": 0.0010318673710268719,
-          "maintenance": 0.12061507188774083
+          "quality": 0.41348555019677435,
+          "popularity": 0.001032482530113681,
+          "maintenance": 0.12068163285707012
         }
       },
-      "searchScore": 1.8111934e-9,
+      "searchScore": 1.8079988e-9,
       "ignored": true
     },
     {
@@ -16193,12 +16238,109 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.1050901e-9,
+      "searchScore": 1.101285e-9,
       "downloads": {
         "lastMonth": 74
       },
       "installSize": 10727913,
       "publishSize": 14696
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-whoviews",
+        "scope": "unscoped",
+        "version": "1.0.7",
+        "description": "看看哪个群友在潜水。",
+        "keywords": [
+          "Koishi.js",
+          "qqbot",
+          "cqhttp",
+          "onebot"
+        ],
+        "date": "2023-01-16T15:28:53.776Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-whoviews",
+          "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-whoviews",
+          "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-whoviews/issues"
+        },
+        "author": {
+          "name": "Nanahira",
+          "email": "nanahira@momobako.com",
+          "username": "nanahira"
+        },
+        "publisher": {
+          "username": "nanahira",
+          "email": "nanahira@momobako.com"
+        },
+        "maintainers": [
+          {
+            "username": "nanahira",
+            "email": "nanahira@momobako.com"
+          }
+        ],
+        "portable": false,
+        "insecure": true
+      },
+      "score": {
+        "final": 0.10808820153010638,
+        "detail": {
+          "quality": 0.36029400510035464,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.101285e-9,
+      "installSize": 10208349,
+      "publishSize": 21714
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-puzzle",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "description": "小游戏，数字华容道",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin",
+          "puzzle"
+        ],
+        "date": "2023-01-16T12:59:12.652Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-puzzle",
+          "homepage": "https://github.com/initialencounter/mykoishi/blob/main/puzzle#readme.md",
+          "repository": "https://github.com/initialencounter/mykoishi",
+          "bugs": "https://github.com/initialencounter/mykoishi/issues"
+        },
+        "author": {
+          "name": "initencounter",
+          "email": "2911583893@qq.com",
+          "username": "initencounter"
+        },
+        "publisher": {
+          "username": "initencounter",
+          "email": "2911583893@qq.com"
+        },
+        "maintainers": [
+          {
+            "username": "initencounter",
+            "email": "2911583893@qq.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.4494985196053175,
+        "detail": {
+          "quality": 0.9983283986843916,
+          "popularity": 0,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 1.064093e-9,
+      "installSize": 16730,
+      "publishSize": 16730
     },
     {
       "package": {
@@ -16246,12 +16388,59 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.991499e-10,
+      "searchScore": 5.969837e-10,
       "downloads": {
         "lastMonth": 66
       },
       "installSize": 3880,
       "publishSize": 3880
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-bullshit-generator",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "description": "A koishi plugin that generates meaningless Chinese bullshit.",
+        "keywords": [
+          "bot",
+          "koishi",
+          "plugin",
+          "bullshit",
+          "generator"
+        ],
+        "date": "2023-01-16T16:08:01.973Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-bullshit-generator"
+        },
+        "author": {
+          "name": "cn-traveler",
+          "email": "cn-traveler@outlook.com",
+          "username": "cn-traveler"
+        },
+        "publisher": {
+          "username": "cn-traveler",
+          "email": "cn-traveler@outlook.com"
+        },
+        "maintainers": [
+          {
+            "username": "cn-traveler",
+            "email": "cn-traveler@outlook.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.29551975322386215,
+        "detail": {
+          "quality": 0.7350658440795405,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 5.9442073e-10,
+      "installSize": 3077952,
+      "publishSize": 2709
     },
     {
       "package": {
@@ -16294,7 +16483,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 5.703585e-10,
+      "searchScore": 5.6832283e-10,
       "verified": true,
       "downloads": {
         "lastMonth": 69
@@ -16338,7 +16527,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.6010685e-10,
+      "searchScore": 5.58056e-10,
       "installSize": 9974,
       "publishSize": 9974
     },
@@ -16383,14 +16572,14 @@
         ]
       },
       "score": {
-        "final": 0.14900375406200633,
+        "final": 0.1490195135799881,
         "detail": {
-          "quality": 0.3936980221276335,
-          "popularity": 0.0009857078582706797,
-          "maintenance": 0.08728385620949015
+          "quality": 0.39369075682252475,
+          "popularity": 0.0009863311639206503,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 4.883618e-10,
+      "searchScore": 4.8723753e-10,
       "ignored": true
     },
     {
@@ -16439,7 +16628,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.85321e-10,
+      "searchScore": 4.835702e-10,
       "downloads": {
         "lastMonth": 38
       },
@@ -16482,7 +16671,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.7316473e-10,
+      "searchScore": 4.714264e-10,
       "downloads": {
         "lastMonth": 68
       },
@@ -16536,12 +16725,132 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.6378276e-10,
+      "searchScore": 4.6210807e-10,
       "downloads": {
         "lastMonth": 117
       },
       "installSize": 5405,
       "publishSize": 5405
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-random-wallpaper",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "随机获取二刺螈房间壁纸",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:47:55.462Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-random-wallpaper"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37494486506705554,
+        "detail": {
+          "quality": 0.9998162168901852,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.5913737e-10,
+      "installSize": 1838,
+      "publishSize": 1838
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-anonymous-email",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "使用代发服务匿名发送邮件",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:47:44.761Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-anonymous-email"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37493985602963453,
+        "detail": {
+          "quality": 0.9997995200987817,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.5913737e-10,
+      "installSize": 2005,
+      "publishSize": 2005
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-human-sign",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "生成小人举牌图片, 可自定义文字",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:47:53.005Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-human-sign"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37495122396559905,
+        "detail": {
+          "quality": 0.9998374132186635,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.4212906e-10,
+      "installSize": 1626,
+      "publishSize": 1626
     },
     {
       "package": {
@@ -16584,14 +16893,14 @@
         ]
       },
       "score": {
-        "final": 0.14774333963270292,
+        "final": 0.1477590098094921,
         "detail": {
-          "quality": 0.38839066129134414,
-          "popularity": 0.0019336902056518077,
-          "maintenance": 0.08728385620949015
+          "quality": 0.38838331765111955,
+          "popularity": 0.0019341253951364874,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 4.4303936e-10,
+      "searchScore": 4.4201576e-10,
       "ignored": true
     },
     {
@@ -16630,12 +16939,172 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2821677e-10,
+      "searchScore": 4.2663567e-10,
       "downloads": {
         "lastMonth": 84
       },
       "installSize": 2817,
       "publishSize": 2817
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-jiutian-toolkit",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "\u0016九天毕昇工具箱",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T08:00:01.895Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-jiutian-toolkit"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37460731722408974,
+        "detail": {
+          "quality": 0.9986910574136324,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.2535211e-10,
+      "installSize": 13098,
+      "publishSize": 13098
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-4k-background",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "获取随机4k风景照",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:47:41.085Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-4k-background"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37495131395097975,
+        "detail": {
+          "quality": 0.9998377131699325,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.2331358e-10,
+      "installSize": 1623,
+      "publishSize": 1623
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-idcard-checker",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "让我测测你的身份证！",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:48:43.172Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-idcard-checker"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749459748651094,
+        "detail": {
+          "quality": 0.9998199162170314,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.229745e-10,
+      "installSize": 1801,
+      "publishSize": 1801
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-spawn-handwrite-img",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "生成手写图片",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:47:58.211Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-spawn-handwrite-img"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37495119397047816,
+        "detail": {
+          "quality": 0.9998373132349272,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.2055823e-10,
+      "installSize": 1627,
+      "publishSize": 1627
     },
     {
       "package": {
@@ -16651,8 +17120,7 @@
         ],
         "date": "2023-01-16T07:01:42.236Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-command-webhook",
-          "size": "https://packagephobia.com/result?p=koishi-plugin-command-webhook"
+          "npm": "https://www.npmjs.com/package/koishi-plugin-command-webhook"
         },
         "author": {
           "name": "cn-traveler",
@@ -16680,9 +17148,9 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.1289253e-10,
-      "publishSize": 2981,
-      "installSize": 2981
+      "searchScore": 4.1142337e-10,
+      "installSize": 2981,
+      "publishSize": 2981
     },
     {
       "package": {
@@ -16720,9 +17188,89 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.128296e-10,
+      "searchScore": 4.1131715e-10,
       "installSize": 6657,
       "publishSize": 6657
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-todaynews",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "速览今日新闻",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:48:03.885Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-todaynews"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749540135249534,
+        "detail": {
+          "quality": 0.9998467117498446,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.0911602e-10,
+      "installSize": 1533,
+      "publishSize": 1533
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-today-in-history",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "历史上的今天",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T17:15:00.469Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-today-in-history"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749232398218837,
+        "detail": {
+          "quality": 0.9997441327396123,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.0015188e-10,
+      "installSize": 2559,
+      "publishSize": 2559
     },
     {
       "package": {
@@ -16760,12 +17308,52 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.9863945e-10,
+      "searchScore": 3.9718964e-10,
       "downloads": {
         "lastMonth": 58
       },
       "installSize": 1670,
       "publishSize": 1670
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-ip-checker",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "让我测测你的ip!",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:48:11.214Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-ip-checker"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749482844580078,
+        "detail": {
+          "quality": 0.999827614860026,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.9708792e-10,
+      "installSize": 1724,
+      "publishSize": 1724
     },
     {
       "package": {
@@ -16803,12 +17391,92 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.9628265e-10,
+      "searchScore": 3.9482123e-10,
       "downloads": {
         "lastMonth": 67
       },
       "installSize": 1247,
       "publishSize": 1247
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-whois",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "查询域名WHOIS信息",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T16:48:06.528Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-whois"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37494342533515856,
+        "detail": {
+          "quality": 0.999811417783862,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.91871e-10,
+      "installSize": 1886,
+      "publishSize": 1886
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-weibo-hot",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "获取微博热搜",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-16T17:22:42.172Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-weibo-hot"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749378764331174,
+        "detail": {
+          "quality": 0.9997929214437247,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.8304357e-10,
+      "installSize": 2071,
+      "publishSize": 2071
     },
     {
       "package": {
@@ -16856,7 +17524,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.8241713e-10,
+      "searchScore": 3.81024e-10,
       "installSize": 1582,
       "publishSize": 1582
     },
@@ -16896,7 +17564,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.7523074e-10,
+      "searchScore": 3.7384787e-10,
       "downloads": {
         "lastMonth": 60
       },
@@ -16939,7 +17607,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.5683756e-10,
+      "searchScore": 3.55526e-10,
       "downloads": {
         "lastMonth": 77
       },
@@ -16982,7 +17650,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.5638342e-10,
+      "searchScore": 3.5506992e-10,
       "downloads": {
         "lastMonth": 115
       },
@@ -17025,7 +17693,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.5484268e-10,
+      "searchScore": 3.53527e-10,
       "downloads": {
         "lastMonth": 88
       },
@@ -17074,15 +17742,66 @@
         ]
       },
       "score": {
-        "final": 0.14170739094753781,
+        "final": 0.1417230242236061,
         "detail": {
-          "quality": 0.36779286335345496,
-          "popularity": 0.002343377909085057,
-          "maintenance": 0.08728385620949015
+          "quality": 0.36778546793301636,
+          "popularity": 0.0023437520509791386,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 2.5760097e-10,
+      "searchScore": 2.5702732e-10,
       "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-gamewallpaper-byripple",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "【白嫖随机游戏壁纸、根据壁纸猜游戏名】",
+        "keywords": [
+          "koishi",
+          "plugin",
+          "steam",
+          "game",
+          "PlayStation",
+          "xbox",
+          "subscribe",
+          "epic"
+        ],
+        "date": "2023-01-17T11:00:55.769Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-gamewallpaper-byripple",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-gamewallpaper-byripple"
+        },
+        "author": {
+          "name": "rippppp",
+          "email": "me@hiripple.com",
+          "username": "rippppp"
+        },
+        "publisher": {
+          "username": "rippppp",
+          "email": "me@hiripple.com"
+        },
+        "maintainers": [
+          {
+            "username": "rippppp",
+            "email": "me@hiripple.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.31127554196232887,
+        "detail": {
+          "quality": 0.7875851398744297,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 1.6688967e-10,
+      "publishSize": 3503,
+      "installSize": 2387838
     },
     {
       "package": {
@@ -17127,7 +17846,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.5230177e-10,
+      "searchScore": 1.5173068e-10,
       "downloads": {
         "lastMonth": 181
       },
@@ -17176,14 +17895,14 @@
         ]
       },
       "score": {
-        "final": 0.13650225708170413,
+        "final": 0.13651810937097442,
         "detail": {
-          "quality": 0.35174179014727835,
-          "popularity": 0.0012296296119973845,
-          "maintenance": 0.08728385620949015
+          "quality": 0.35173489050284734,
+          "popularity": 0.001230204555033494,
+          "maintenance": 0.0873344875024528
         }
       },
-      "searchScore": 1.4818745e-10,
+      "searchScore": 1.4786583e-10,
       "ignored": true
     },
     {
@@ -17225,7 +17944,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.310654e-10,
+      "searchScore": 1.305769e-10,
       "downloads": {
         "lastMonth": 85
       },
@@ -17273,14 +17992,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.13395978352025348,
+        "final": 0.13398153250163009,
         "detail": {
-          "quality": 0.30472228227298587,
-          "popularity": 0.0009366390789955043,
-          "maintenance": 0.12061507188774083
+          "quality": 0.3047163881791726,
+          "popularity": 0.000937270136867898,
+          "maintenance": 0.12068163285707012
         }
       },
-      "searchScore": 1.0881304e-10,
+      "searchScore": 1.0864273e-10,
       "ignored": true
     },
     {
@@ -17332,7 +18051,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.5062914e-11,
+      "searchScore": 7.4780356e-11,
       "downloads": {
         "lastMonth": 71
       },
@@ -17375,7 +18094,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 6.4611094e-11,
+      "searchScore": 6.437765e-11,
       "downloads": {
         "lastMonth": 151
       },
@@ -17432,7 +18151,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 5.611194e-11,
+      "searchScore": 5.5936922e-11,
       "downloads": {
         "lastMonth": 129
       },
@@ -17478,7 +18197,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7446978e-11,
+      "searchScore": 1.7383414e-11,
       "downloads": {
         "lastMonth": 124
       },
@@ -17524,7 +18243,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.5049299e-11,
+      "searchScore": 1.4992485e-11,
       "downloads": {
         "lastMonth": 130
       },
@@ -17570,7 +18289,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.4665729e-11,
+      "searchScore": 1.4609319e-11,
       "installSize": 1837,
       "publishSize": 1837
     },
@@ -17617,7 +18336,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.3785976e-11,
+      "searchScore": 1.373161e-11,
       "downloads": {
         "lastMonth": 174
       },
@@ -17663,7 +18382,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.3057578e-11,
+      "searchScore": 1.3007348e-11,
       "downloads": {
         "lastMonth": 75
       },
@@ -17709,7 +18428,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.1391448e-11,
+      "searchScore": 1.1347623e-11,
       "downloads": {
         "lastMonth": 72
       },
@@ -17761,7 +18480,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.1282652e-11,
+      "searchScore": 1.1239418e-11,
       "installSize": 5641,
       "publishSize": 5641
     },
@@ -17813,7 +18532,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7492296e-12,
+      "searchScore": 1.7423305e-12,
       "downloads": {
         "lastMonth": 73
       },
@@ -17868,7 +18587,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7403362e-12,
+      "searchScore": 1.7334918e-12,
       "downloads": {
         "lastMonth": 72
       },
@@ -17914,7 +18633,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.8287213e-13,
+      "searchScore": 5.8081204e-13,
       "downloads": {
         "lastMonth": 73
       },
@@ -17923,12 +18642,12 @@
     },
     {
       "package": {
-        "name": "koishi-plugin-affinity",
+        "name": "koishi-plugin-account",
         "scope": "unscoped",
         "version": "0.0.1",
-        "date": "2023-01-11T09:25:57.411Z",
+        "date": "2023-01-08T18:05:46.314Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
+          "npm": "https://www.npmjs.com/package/koishi-plugin-account"
         },
         "publisher": {
           "username": "shigma",
@@ -17952,7 +18671,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.19764e-15,
+      "searchScore": 2.1901214e-15,
       "ignored": true
     },
     {
@@ -17986,109 +18705,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.19764e-15,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-monetary",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "date": "2023-01-11T09:25:40.930Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-monetary"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.06,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.19764e-15,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-rank",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "date": "2023-01-11T09:25:47.633Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-rank"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.06,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.19764e-15,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-account",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "date": "2023-01-08T18:05:46.314Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-account"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.06,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.19764e-15,
+      "searchScore": 2.1901214e-15,
       "ignored": true
     },
     {
@@ -18122,11 +18739,147 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.19764e-15,
+      "searchScore": 2.1901214e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-affinity",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "date": "2023-01-11T09:25:57.411Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.06,
+        "detail": {
+          "quality": 0.2,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1901214e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-monetary",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "date": "2023-01-11T09:25:40.930Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-monetary"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.06,
+        "detail": {
+          "quality": 0.2,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1901214e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-rank",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "date": "2023-01-11T09:25:47.633Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-rank"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.06,
+        "detail": {
+          "quality": 0.2,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1901214e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-adapter-discourse",
+        "scope": "unscoped",
+        "version": "0.0.0",
+        "date": "2023-01-16T11:33:27.997Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-discourse"
+        },
+        "publisher": {
+          "username": "anillc",
+          "email": "void@anillc.cn"
+        },
+        "maintainers": [
+          {
+            "username": "anillc",
+            "email": "void@anillc.cn"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.06,
+        "detail": {
+          "quality": 0.2,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.9714186e-15,
       "ignored": true
     }
   ],
-  "time": "Mon, 16 Jan 2023 07:24:34 GMT",
+  "time": "Tue, 17 Jan 2023 11:23:05 GMT",
   "shared": [
     {
       "name": "koishi",
@@ -18407,6 +19160,6 @@
       "portable": true
     }
   ],
-  "total": 363,
+  "total": 381,
   "version": 3
 }
