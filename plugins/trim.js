@@ -10,7 +10,6 @@ let list = objects.filter((v) => {
 }).map(v => {
   let name = v.package.name.replace(/(koishi-|@koishijs\/)plugin-/, '')
   let rating = `[![评分](https://badge.koishi.chat/rating/${v.package.name})](${v.package.links.npm})`
-  rating += (v.package.name.includes('@koishijs/') || v.verified) ? ' ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png)' : ''
   return [name, rating]
 }).sort((a, b) => {
   name1 = a[0].replace(/@[\w-]+\//, '')

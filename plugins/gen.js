@@ -32,7 +32,7 @@ const categories = {
 let text = ''
 for (let [category, name] of Object.entries(categories)) {
   let { shown } = require(dir[category])
-  text += `<a name="${category}"></a>\n\n## ${name}\n\n| 插件名 | 评分 |\n`
+  text += `\n<a name="${category}"></a>\n\n## ${name}\n\n| 插件名 | 评分 |\n|-|-|\n`
   shown.sort((a, b) => {
     name1 = a.replace(/@[\w-]+\//, '')
     name2 = b.replace(/@[\w-]+\//, '')
@@ -41,6 +41,5 @@ for (let [category, name] of Object.entries(categories)) {
   for (let plugin of shown) {
     text += `| ${plugin} | ${index[plugin]} |\n`
   }
-  text += '\n'
 }
 writeFileSync('plugins/index.md', text, 'utf-8')
