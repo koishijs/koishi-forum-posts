@@ -119,8 +119,8 @@
 | ffxiv-macrodict | [![评分](https://badge.koishi.chat/rating/koishi-plugin-ffxiv-macrodict)](https://www.npmjs.com/package/koishi-plugin-ffxiv-macrodict) |
 | footer | [![评分](https://badge.koishi.chat/rating/koishi-plugin-footer)](https://www.npmjs.com/package/koishi-plugin-footer) |
 | fortune | [![评分](https://badge.koishi.chat/rating/koishi-plugin-fortune)](https://www.npmjs.com/package/koishi-plugin-fortune) |
-| forward | [![评分](https://badge.koishi.chat/rating/koishi-plugin-forward)](https://www.npmjs.com/package/koishi-plugin-forward) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | @myrtus/forward | [![评分](https://badge.koishi.chat/rating/@myrtus/koishi-plugin-forward)](https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-forward) |
+| forward | [![评分](https://badge.koishi.chat/rating/koishi-plugin-forward)](https://www.npmjs.com/package/koishi-plugin-forward) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | freegames-subscribe | [![评分](https://badge.koishi.chat/rating/koishi-plugin-freegames-subscribe)](https://www.npmjs.com/package/koishi-plugin-freegames-subscribe) |
 | gameinfo | [![评分](https://badge.koishi.chat/rating/koishi-plugin-gameinfo)](https://www.npmjs.com/package/koishi-plugin-gameinfo) |
 | gamenews | [![评分](https://badge.koishi.chat/rating/koishi-plugin-gamenews)](https://www.npmjs.com/package/koishi-plugin-gamenews) |
