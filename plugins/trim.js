@@ -20,6 +20,6 @@ let list = objects.filter((v) => {
   return {...a, [b[0]]: b[1]}
 }, {})
 
-writeFileSync('./recomm/plugins/index_trim.json', JSON.stringify(list, null, 2), 'utf-8')
-writeFileSync('./recomm/plugins/index.md',
+writeFileSync('plugins/index_trim.json', JSON.stringify(list, null, 2), 'utf-8')
+writeFileSync('plugins/index.md',
   Object.entries(list).map(v => `| ${v[0]} | ${v[1]} |`).join('\n'), 'utf-8')

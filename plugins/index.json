@@ -45,7 +45,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000027157046,
+      "searchScore": 0.000027127213,
       "downloads": {
         "lastMonth": 345
       },
@@ -95,14 +95,14 @@
         ]
       },
       "score": {
-        "final": 0.33773670383369825,
+        "final": 0.33773827493660186,
         "detail": {
-          "quality": 0.7328031639290222,
-          "popularity": 0.004358638609368518,
-          "maintenance": 0.33248637469060743
+          "quality": 0.7328080274679698,
+          "popularity": 0.004358689513270855,
+          "maintenance": 0.33248664390447463
         }
       },
-      "searchScore": 0.00002582016,
+      "searchScore": 0.000025790067,
       "ignored": true
     },
     {
@@ -153,7 +153,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.00000822506,
+      "searchScore": 0.000008215629,
       "downloads": {
         "lastMonth": 505
       },
@@ -210,7 +210,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000072869793,
+      "searchScore": 0.00000727866,
       "downloads": {
         "lastMonth": 200
       },
@@ -266,7 +266,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000072094595,
+      "searchScore": 0.0000072010353,
       "downloads": {
         "lastMonth": 157
       },
@@ -320,7 +320,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.00000685184,
+      "searchScore": 0.000006844599,
       "verified": true,
       "downloads": {
         "lastMonth": 18
@@ -374,7 +374,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000006580748,
+      "searchScore": 0.0000065731233,
       "verified": true,
       "downloads": {
         "lastMonth": 126
@@ -431,7 +431,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000065481404,
+      "searchScore": 0.000006540542,
       "downloads": {
         "lastMonth": 33
       },
@@ -486,7 +486,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000064831647,
+      "searchScore": 0.0000064760425,
       "downloads": {
         "lastMonth": 138
       },
@@ -539,7 +539,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000062587146,
+      "searchScore": 0.0000062517624,
       "downloads": {
         "lastMonth": 22
       },
@@ -591,7 +591,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000006248269,
+      "searchScore": 0.000006241334,
       "downloads": {
         "lastMonth": 20
       },
@@ -649,7 +649,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000005873371,
+      "searchScore": 0.0000058671462,
       "downloads": {
         "lastMonth": 77
       },
@@ -704,7 +704,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000005259492,
+      "searchScore": 0.0000052537603,
       "downloads": {
         "lastMonth": 11
       },
@@ -763,7 +763,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000052252494,
+      "searchScore": 0.000005219031,
       "downloads": {
         "lastMonth": 378
       },
@@ -820,7 +820,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000050603962,
+      "searchScore": 0.0000050549133,
       "downloads": {
         "lastMonth": 15
       },
@@ -874,7 +874,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000050319754,
+      "searchScore": 0.0000050261024,
       "downloads": {
         "lastMonth": 46
       },
@@ -928,7 +928,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000004840208,
+      "searchScore": 0.0000048354264,
       "downloads": {
         "lastMonth": 77
       },
@@ -981,7 +981,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000047980343,
+      "searchScore": 0.0000047928083,
       "downloads": {
         "lastMonth": 362
       },
@@ -1035,7 +1035,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000047258795,
+      "searchScore": 0.000004720001,
       "verified": true,
       "downloads": {
         "lastMonth": 57
@@ -1091,7 +1091,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000046622663,
+      "searchScore": 0.000004657344,
       "downloads": {
         "lastMonth": 133
       },
@@ -1147,7 +1147,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000004060423,
+      "searchScore": 0.000004055693,
       "downloads": {
         "lastMonth": 230
       },
@@ -1200,7 +1200,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000035627947,
+      "searchScore": 0.000003559426,
       "downloads": {
         "lastMonth": 597
       },
@@ -1258,7 +1258,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000033139886,
+      "searchScore": 0.0000033102267,
       "verified": true,
       "downloads": {
         "lastMonth": 685
@@ -1314,7 +1314,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.00000308149,
+      "searchScore": 0.0000030779506,
       "downloads": {
         "lastMonth": 809
       },
@@ -1367,7 +1367,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.00000262509,
+      "searchScore": 0.0000026225366,
       "downloads": {
         "lastMonth": 183
       },
@@ -1419,7 +1419,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000023635603,
+      "searchScore": 0.0000023611767,
       "downloads": {
         "lastMonth": 716
       },
@@ -1472,7 +1472,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000023200055,
+      "searchScore": 0.0000023178652,
       "downloads": {
         "lastMonth": 141
       },
@@ -1525,7 +1525,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000002286727,
+      "searchScore": 0.0000022844524,
       "downloads": {
         "lastMonth": 326
       },
@@ -1578,7 +1578,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000002236955,
+      "searchScore": 0.0000022347804,
       "downloads": {
         "lastMonth": 317
       },
@@ -1631,7 +1631,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000022276552,
+      "searchScore": 0.0000022254897,
       "downloads": {
         "lastMonth": 248
       },
@@ -1685,7 +1685,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000022236443,
+      "searchScore": 0.0000022215024,
       "downloads": {
         "lastMonth": 435
       },
@@ -1738,7 +1738,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021967526,
+      "searchScore": 0.0000021947246,
       "downloads": {
         "lastMonth": 28
       },
@@ -1791,7 +1791,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021619878,
+      "searchScore": 0.0000021599003,
       "downloads": {
         "lastMonth": 143
       },
@@ -1847,7 +1847,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000002134426,
+      "searchScore": 0.000002132717,
       "downloads": {
         "lastMonth": 307
       },
@@ -1904,7 +1904,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021324213,
+      "searchScore": 0.0000021298924,
       "verified": true,
       "downloads": {
         "lastMonth": 458
@@ -1957,7 +1957,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021289857,
+      "searchScore": 0.0000021267183,
       "downloads": {
         "lastMonth": 473
       },
@@ -2013,7 +2013,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021276023,
+      "searchScore": 0.0000021255576,
       "downloads": {
         "lastMonth": 695
       },
@@ -2069,7 +2069,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021210446,
+      "searchScore": 0.00000211941,
       "downloads": {
         "lastMonth": 724
       },
@@ -2123,7 +2123,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000021073072,
+      "searchScore": 0.0000021052983,
       "downloads": {
         "lastMonth": 173
       },
@@ -2179,7 +2179,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000020681223,
+      "searchScore": 0.0000020656878,
       "downloads": {
         "lastMonth": 79
       },
@@ -2231,7 +2231,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000020004084,
+      "searchScore": 0.0000019981514,
       "downloads": {
         "lastMonth": 55
       },
@@ -2284,7 +2284,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000019846225,
+      "searchScore": 0.000001982708,
       "downloads": {
         "lastMonth": 26
       },
@@ -2339,7 +2339,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000019319916,
+      "searchScore": 0.0000019301876,
       "downloads": {
         "lastMonth": 1682
       },
@@ -2390,7 +2390,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001930247,
+      "searchScore": 0.0000019280155,
       "downloads": {
         "lastMonth": 392
       },
@@ -2445,7 +2445,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018933958,
+      "searchScore": 0.0000018911563,
       "downloads": {
         "lastMonth": 166
       },
@@ -2495,7 +2495,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018922084,
+      "searchScore": 0.0000018900341,
       "downloads": {
         "lastMonth": 855
       },
@@ -2538,7 +2538,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018898844,
+      "searchScore": 0.0000018877092,
       "downloads": {
         "lastMonth": 621
       },
@@ -2589,7 +2589,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000018803418,
+      "searchScore": 0.0000018781702,
       "downloads": {
         "lastMonth": 511
       },
@@ -2639,7 +2639,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000018739344,
+      "searchScore": 0.000001871789,
       "downloads": {
         "lastMonth": 488
       },
@@ -2692,7 +2692,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018344468,
+      "searchScore": 0.0000018323486,
       "downloads": {
         "lastMonth": 556
       },
@@ -2744,7 +2744,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018289028,
+      "searchScore": 0.0000018268186,
       "downloads": {
         "lastMonth": 65
       },
@@ -2796,7 +2796,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018253016,
+      "searchScore": 0.000001823212,
       "downloads": {
         "lastMonth": 294
       },
@@ -2850,7 +2850,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018212467,
+      "searchScore": 0.000001819285,
       "downloads": {
         "lastMonth": 32
       },
@@ -2905,7 +2905,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001810812,
+      "searchScore": 0.0000018087103,
       "downloads": {
         "lastMonth": 336
       },
@@ -2957,7 +2957,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000018087525,
+      "searchScore": 0.0000018066803,
       "downloads": {
         "lastMonth": 389
       },
@@ -3007,7 +3007,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000018034988,
+      "searchScore": 0.0000018014035,
       "downloads": {
         "lastMonth": 29
       },
@@ -3058,7 +3058,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017995651,
+      "searchScore": 0.0000017975025,
       "downloads": {
         "lastMonth": 209
       },
@@ -3110,7 +3110,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001743329,
+      "searchScore": 0.000001741576,
       "downloads": {
         "lastMonth": 470
       },
@@ -3162,7 +3162,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017422509,
+      "searchScore": 0.0000017403083,
       "downloads": {
         "lastMonth": 384
       },
@@ -3215,7 +3215,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000017386403,
+      "searchScore": 0.0000017370025,
       "downloads": {
         "lastMonth": 340
       },
@@ -3268,7 +3268,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000017346617,
+      "searchScore": 0.000001733106,
       "downloads": {
         "lastMonth": 258
       },
@@ -3311,7 +3311,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000017284721,
+      "searchScore": 0.0000017265224,
       "downloads": {
         "lastMonth": 264
       },
@@ -3364,7 +3364,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000017264422,
+      "searchScore": 0.0000017248377,
       "downloads": {
         "lastMonth": 292
       },
@@ -3420,7 +3420,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000017059816,
+      "searchScore": 0.0000017039513,
       "downloads": {
         "lastMonth": 473
       },
@@ -3463,7 +3463,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000017011583,
+      "searchScore": 0.0000016993264,
       "downloads": {
         "lastMonth": 307
       },
@@ -3514,7 +3514,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.00000169607,
+      "searchScore": 0.0000016941838,
       "downloads": {
         "lastMonth": 248
       },
@@ -3566,7 +3566,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000016847392,
+      "searchScore": 0.000001682851,
       "downloads": {
         "lastMonth": 277
       },
@@ -3621,7 +3621,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.000001683053,
+      "searchScore": 0.0000016811788,
       "downloads": {
         "lastMonth": 34
       },
@@ -3673,7 +3673,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016785598,
+      "searchScore": 0.0000016767441,
       "downloads": {
         "lastMonth": 369
       },
@@ -3728,7 +3728,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000016760322,
+      "searchScore": 0.0000016742616,
       "verified": true,
       "downloads": {
         "lastMonth": 97
@@ -3780,7 +3780,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000016753108,
+      "searchScore": 0.0000016733845,
       "downloads": {
         "lastMonth": 346
       },
@@ -3837,7 +3837,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000016595842,
+      "searchScore": 0.0000016575618,
       "downloads": {
         "lastMonth": 114
       },
@@ -3889,7 +3889,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001635223,
+      "searchScore": 0.0000016334061,
       "downloads": {
         "lastMonth": 388
       },
@@ -3940,7 +3940,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001632782,
+      "searchScore": 0.0000016309542,
       "downloads": {
         "lastMonth": 434
       },
@@ -3983,7 +3983,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000016309752,
+      "searchScore": 0.0000016291312,
       "downloads": {
         "lastMonth": 321
       },
@@ -4039,7 +4039,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000016238808,
+      "searchScore": 0.0000016219007,
       "downloads": {
         "lastMonth": 70
       },
@@ -4084,7 +4084,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000016073371,
+      "searchScore": 0.0000016055468,
       "downloads": {
         "lastMonth": 33
       },
@@ -4135,7 +4135,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015997497,
+      "searchScore": 0.0000015980412,
       "downloads": {
         "lastMonth": 338
       }
@@ -4186,7 +4186,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015993307,
+      "searchScore": 0.0000015975769,
       "downloads": {
         "lastMonth": 674
       },
@@ -4243,7 +4243,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015904723,
+      "searchScore": 0.0000015887235,
       "downloads": {
         "lastMonth": 79
       },
@@ -4297,7 +4297,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015808417,
+      "searchScore": 0.0000015789182,
       "downloads": {
         "lastMonth": 44
       },
@@ -4351,7 +4351,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015749794,
+      "searchScore": 0.0000015730051,
       "downloads": {
         "lastMonth": 29
       },
@@ -4412,7 +4412,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015721928,
+      "searchScore": 0.0000015705651,
       "downloads": {
         "lastMonth": 132
       },
@@ -4458,14 +4458,14 @@
         ]
       },
       "score": {
-        "final": 0.27270120442911594,
+        "final": 0.2727023326306899,
         "detail": {
-          "quality": 0.5219184669124456,
-          "popularity": 0.00570240197437763,
-          "maintenance": 0.3260852104695718
+          "quality": 0.5219190789121391,
+          "popularity": 0.00570244110340669,
+          "maintenance": 0.3260878702024452
         }
       },
-      "searchScore": 0.000001571289,
+      "searchScore": 0.0000015694769,
       "ignored": true
     },
     {
@@ -4519,7 +4519,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015688213,
+      "searchScore": 0.0000015671882,
       "downloads": {
         "lastMonth": 132
       },
@@ -4569,7 +4569,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000015660944,
+      "searchScore": 0.0000015643549,
       "downloads": {
         "lastMonth": 194
       },
@@ -4620,7 +4620,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015642918,
+      "searchScore": 0.0000015624884,
       "downloads": {
         "lastMonth": 9
       },
@@ -4674,71 +4674,12 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.00000156423,
+      "searchScore": 0.0000015623323,
       "downloads": {
         "lastMonth": 36
       },
       "installSize": 7492,
       "publishSize": 7492
-    },
-    {
-      "package": {
-        "name": "@nonebot/koishi-plugin-biliav",
-        "scope": "nonebot",
-        "version": "1.0.1",
-        "description": "biliav 小程序转换器",
-        "keywords": [
-          "bot",
-          "chatbot",
-          "koishi",
-          "plugin",
-          "nonebot",
-          "bilibili",
-          "video"
-        ],
-        "date": "2022-12-28T01:13:52.669Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-biliav",
-          "homepage": "https://nonebot.koishi.chat/",
-          "repository": "https://github.com/nonebotjs/nonebot_plugin_biliav",
-          "bugs": "https://github.com/nonebotjs/nonebot_plugin_biliav/issues"
-        },
-        "author": {
-          "name": "NoneBot.js",
-          "email": "nonebot@proton.me",
-          "username": "nonebotjs"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "nonebotjs",
-            "email": "nonebot@proton.me"
-          },
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.5789793504168036,
-        "detail": {
-          "quality": 0.999256076848139,
-          "popularity": 0.3230063184059049,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.000001560877,
-      "downloads": {
-        "lastMonth": 134
-      },
-      "installSize": 7442,
-      "publishSize": 7442
     },
     {
       "package": {
@@ -4792,12 +4733,71 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001560877,
+      "searchScore": 0.0000015592519,
       "downloads": {
         "lastMonth": 132
       },
       "installSize": 3683,
       "publishSize": 3683
+    },
+    {
+      "package": {
+        "name": "@nonebot/koishi-plugin-biliav",
+        "scope": "nonebot",
+        "version": "1.0.1",
+        "description": "biliav 小程序转换器",
+        "keywords": [
+          "bot",
+          "chatbot",
+          "koishi",
+          "plugin",
+          "nonebot",
+          "bilibili",
+          "video"
+        ],
+        "date": "2022-12-28T01:13:52.669Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-biliav",
+          "homepage": "https://nonebot.koishi.chat/",
+          "repository": "https://github.com/nonebotjs/nonebot_plugin_biliav",
+          "bugs": "https://github.com/nonebotjs/nonebot_plugin_biliav/issues"
+        },
+        "author": {
+          "name": "NoneBot.js",
+          "email": "nonebot@proton.me",
+          "username": "nonebotjs"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "nonebotjs",
+            "email": "nonebot@proton.me"
+          },
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5789793504168036,
+        "detail": {
+          "quality": 0.999256076848139,
+          "popularity": 0.3230063184059049,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000015592519,
+      "downloads": {
+        "lastMonth": 134
+      },
+      "installSize": 7442,
+      "publishSize": 7442
     },
     {
       "package": {
@@ -4850,7 +4850,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015587632,
+      "searchScore": 0.0000015570996,
       "downloads": {
         "lastMonth": 21
       },
@@ -4902,7 +4902,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015550404,
+      "searchScore": 0.0000015531948,
       "downloads": {
         "lastMonth": 12
       },
@@ -4952,7 +4952,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015515906,
+      "searchScore": 0.0000015497511,
       "downloads": {
         "lastMonth": 36
       },
@@ -5004,7 +5004,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015427687,
+      "searchScore": 0.0000015410176,
       "downloads": {
         "lastMonth": 324
       },
@@ -5055,7 +5055,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015293084,
+      "searchScore": 0.0000015276129,
       "downloads": {
         "lastMonth": 171
       },
@@ -5117,7 +5117,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015272047,
+      "searchScore": 0.0000015256223,
       "downloads": {
         "lastMonth": 133
       },
@@ -5179,7 +5179,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.00000152459,
+      "searchScore": 0.000001523012,
       "downloads": {
         "lastMonth": 135
       },
@@ -5234,7 +5234,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015222946,
+      "searchScore": 0.0000015206156,
       "downloads": {
         "lastMonth": 28
       },
@@ -5297,7 +5297,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015215252,
+      "searchScore": 0.0000015199486,
       "downloads": {
         "lastMonth": 134
       },
@@ -5353,7 +5353,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000015194422,
+      "searchScore": 0.0000015176079,
       "downloads": {
         "lastMonth": 28
       },
@@ -5410,7 +5410,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015173879,
+      "searchScore": 0.0000015155432,
       "downloads": {
         "lastMonth": 137
       },
@@ -5463,7 +5463,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000015108623,
+      "searchScore": 0.000001509278,
       "downloads": {
         "lastMonth": 567
       },
@@ -5514,7 +5514,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000015003397,
+      "searchScore": 0.0000014986041,
       "downloads": {
         "lastMonth": 24
       },
@@ -5569,7 +5569,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014952399,
+      "searchScore": 0.0000014936617,
       "downloads": {
         "lastMonth": 131
       },
@@ -5620,7 +5620,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014866031,
+      "searchScore": 0.0000014849628,
       "downloads": {
         "lastMonth": 179
       },
@@ -5671,7 +5671,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014712124,
+      "searchScore": 0.000001469707,
       "downloads": {
         "lastMonth": 26
       },
@@ -5728,7 +5728,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014639081,
+      "searchScore": 0.0000014623547,
       "downloads": {
         "lastMonth": 24
       },
@@ -5779,7 +5779,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014559038,
+      "searchScore": 0.0000014542837,
       "downloads": {
         "lastMonth": 925
       },
@@ -5833,7 +5833,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014467688,
+      "searchScore": 0.0000014451357,
       "downloads": {
         "lastMonth": 260
       },
@@ -5895,7 +5895,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014454225,
+      "searchScore": 0.0000014439346,
       "downloads": {
         "lastMonth": 140
       },
@@ -5957,7 +5957,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014407225,
+      "searchScore": 0.0000014392422,
       "downloads": {
         "lastMonth": 132
       },
@@ -6016,7 +6016,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000014389553,
+      "searchScore": 0.0000014372644,
       "downloads": {
         "lastMonth": 89
       },
@@ -6067,7 +6067,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014376224,
+      "searchScore": 0.0000014359993,
       "downloads": {
         "lastMonth": 434
       },
@@ -6110,7 +6110,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000014368553,
+      "searchScore": 0.0000014353319,
       "downloads": {
         "lastMonth": 17
       },
@@ -6169,66 +6169,12 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014315225,
+      "searchScore": 0.0000014300472,
       "downloads": {
         "lastMonth": 131
       },
       "installSize": 3082,
       "publishSize": 3082
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-baidu",
-        "scope": "unscoped",
-        "version": "1.1.1",
-        "description": "Search Baidu Baike in Koishi",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin",
-          "search",
-          "baidu",
-          "baike",
-          "wiki"
-        ],
-        "date": "2022-12-27T18:20:12.763Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-baidu",
-          "homepage": "https://github.com/koishijs/koishi-plugin-baidu",
-          "repository": "https://github.com/koishijs/koishi-plugin-baidu",
-          "bugs": "https://github.com/koishijs/koishi-plugin-baidu/issues"
-        },
-        "author": {
-          "name": "Dragon-Fish",
-          "email": "824399619@qq.com"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.4695771818454076,
-        "detail": {
-          "quality": 0.7733911831424916,
-          "popularity": 0.21889956725665033,
-          "maintenance": 0.5
-        }
-      },
-      "searchScore": 0.0000014296704,
-      "downloads": {
-        "lastMonth": 89
-      },
-      "installSize": 2569703,
-      "publishSize": 8015
     },
     {
       "package": {
@@ -6283,12 +6229,66 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014295896,
+      "searchScore": 0.0000014281129,
       "downloads": {
         "lastMonth": 137
       },
       "installSize": 17951,
       "publishSize": 17951
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-baidu",
+        "scope": "unscoped",
+        "version": "1.1.1",
+        "description": "Search Baidu Baike in Koishi",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin",
+          "search",
+          "baidu",
+          "baike",
+          "wiki"
+        ],
+        "date": "2022-12-27T18:20:12.763Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-baidu",
+          "homepage": "https://github.com/koishijs/koishi-plugin-baidu",
+          "repository": "https://github.com/koishijs/koishi-plugin-baidu",
+          "bugs": "https://github.com/koishijs/koishi-plugin-baidu/issues"
+        },
+        "author": {
+          "name": "Dragon-Fish",
+          "email": "824399619@qq.com"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.4695771818454076,
+        "detail": {
+          "quality": 0.7733911831424916,
+          "popularity": 0.21889956725665033,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000014279736,
+      "downloads": {
+        "lastMonth": 89
+      },
+      "installSize": 2569703,
+      "publishSize": 8015
     },
     {
       "package": {
@@ -6335,7 +6335,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014286616,
+      "searchScore": 0.0000014270781,
       "downloads": {
         "lastMonth": 230
       },
@@ -6389,7 +6389,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000014251524,
+      "searchScore": 0.0000014234316,
       "downloads": {
         "lastMonth": 15
       },
@@ -6443,7 +6443,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001413161,
+      "searchScore": 0.0000014114408,
       "downloads": {
         "lastMonth": 409
       },
@@ -6498,7 +6498,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014117563,
+      "searchScore": 0.0000014101904,
       "downloads": {
         "lastMonth": 480
       },
@@ -6551,7 +6551,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000014114006,
+      "searchScore": 0.0000014100995,
       "downloads": {
         "lastMonth": 105
       },
@@ -6603,7 +6603,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000014087817,
+      "searchScore": 0.0000014074121,
       "downloads": {
         "lastMonth": 315
       },
@@ -6656,7 +6656,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000014042525,
+      "searchScore": 0.0000014026148,
       "downloads": {
         "lastMonth": 537
       },
@@ -6708,7 +6708,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013998133,
+      "searchScore": 0.0000013982748,
       "downloads": {
         "lastMonth": 196
       },
@@ -6759,7 +6759,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.00000139774,
+      "searchScore": 0.0000013962049,
       "downloads": {
         "lastMonth": 258
       },
@@ -6810,7 +6810,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013968472,
+      "searchScore": 0.0000013952063,
       "downloads": {
         "lastMonth": 462
       },
@@ -6861,7 +6861,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013847421,
+      "searchScore": 0.0000013831855,
       "downloads": {
         "lastMonth": 324
       },
@@ -6912,7 +6912,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013765457,
+      "searchScore": 0.0000013749775,
       "downloads": {
         "lastMonth": 336
       },
@@ -6966,7 +6966,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000013715834,
+      "searchScore": 0.0000013703374,
       "downloads": {
         "lastMonth": 20
       },
@@ -7018,7 +7018,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013711121,
+      "searchScore": 0.0000013695974,
       "downloads": {
         "lastMonth": 225
       },
@@ -7069,7 +7069,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000013695538,
+      "searchScore": 0.0000013681857,
       "downloads": {
         "lastMonth": 272
       },
@@ -7120,7 +7120,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013516601,
+      "searchScore": 0.0000013501218,
       "downloads": {
         "lastMonth": 292
       },
@@ -7173,7 +7173,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000013416153,
+      "searchScore": 0.000001339999,
       "downloads": {
         "lastMonth": 19
       },
@@ -7214,14 +7214,14 @@
         ]
       },
       "score": {
-        "final": 0.27123190757989163,
+        "final": 0.27124819362546015,
         "detail": {
-          "quality": 0.6751827379783883,
-          "popularity": 0.001999848168006421,
-          "maintenance": 0.19422039807877967
+          "quality": 0.6751882503920577,
+          "popularity": 0.001999949380759383,
+          "maintenance": 0.1942621034987916
         }
       },
-      "searchScore": 0.000001336984,
+      "searchScore": 0.0000013364413,
       "ignored": true
     },
     {
@@ -7268,7 +7268,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.000001315922,
+      "searchScore": 0.0000013144842,
       "downloads": {
         "lastMonth": 251
       },
@@ -7318,7 +7318,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001315123,
+      "searchScore": 0.00000131345,
       "downloads": {
         "lastMonth": 31
       },
@@ -7369,7 +7369,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000013148224,
+      "searchScore": 0.0000013133731,
       "downloads": {
         "lastMonth": 270
       },
@@ -7424,7 +7424,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000013108829,
+      "searchScore": 0.0000013096259,
       "downloads": {
         "lastMonth": 720
       },
@@ -7477,7 +7477,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012931258,
+      "searchScore": 0.0000012918739,
       "downloads": {
         "lastMonth": 91
       },
@@ -7530,7 +7530,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012928509,
+      "searchScore": 0.0000012916058,
       "downloads": {
         "lastMonth": 22
       },
@@ -7571,14 +7571,14 @@
         ]
       },
       "score": {
-        "final": 0.2724593939961249,
+        "final": 0.27246098664677043,
         "detail": {
-          "quality": 0.5288813540889816,
-          "popularity": 0.0025230262705807603,
-          "maintenance": 0.3226055102135062
+          "quality": 0.5288818033248784,
+          "popularity": 0.0025231101668147806,
+          "maintenance": 0.32260959168834785
         }
       },
-      "searchScore": 0.0000012858808,
+      "searchScore": 0.0000012843568,
       "ignored": true
     },
     {
@@ -7630,7 +7630,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000012854956,
+      "searchScore": 0.0000012840545,
       "downloads": {
         "lastMonth": 24
       },
@@ -7683,7 +7683,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.0000012592494,
+      "searchScore": 0.0000012579374,
       "downloads": {
         "lastMonth": 167
       },
@@ -7736,7 +7736,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 0.000001256787,
+      "searchScore": 0.0000012555764,
       "downloads": {
         "lastMonth": 10
       },
@@ -7791,7 +7791,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000012410761,
+      "searchScore": 0.0000012396501,
       "downloads": {
         "lastMonth": 24
       },
@@ -7843,7 +7843,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000012212413,
+      "searchScore": 0.0000012198237,
       "downloads": {
         "lastMonth": 52
       },
@@ -7887,7 +7887,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000012074771,
+      "searchScore": 0.0000012060943,
       "downloads": {
         "lastMonth": 7
       },
@@ -7930,7 +7930,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000012040364,
+      "searchScore": 0.00000120276,
       "downloads": {
         "lastMonth": 14
       },
@@ -7973,7 +7973,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000012014787,
+      "searchScore": 0.0000012001167,
       "downloads": {
         "lastMonth": 688
       },
@@ -8020,14 +8020,14 @@
         ]
       },
       "score": {
-        "final": 0.26837355239026717,
+        "final": 0.26837622983460463,
         "detail": {
-          "quality": 0.5219184669124456,
-          "popularity": 0.003792447526066192,
-          "maintenance": 0.3156304448068866
+          "quality": 0.5219190789121391,
+          "popularity": 0.0037925056490260844,
+          "maintenance": 0.3156375119537252
         }
       },
-      "searchScore": 0.000001183658,
+      "searchScore": 0.0000011823117,
       "ignored": true
     },
     {
@@ -8083,7 +8083,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011803915,
+      "searchScore": 0.0000011791457,
       "downloads": {
         "lastMonth": 83
       },
@@ -8137,7 +8137,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011722052,
+      "searchScore": 0.0000011707996,
       "downloads": {
         "lastMonth": 25
       },
@@ -8189,7 +8189,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000011605737,
+      "searchScore": 0.0000011593669,
       "downloads": {
         "lastMonth": 485
       },
@@ -8232,7 +8232,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000011504773,
+      "searchScore": 0.0000011491726,
       "downloads": {
         "lastMonth": 54
       },
@@ -8289,7 +8289,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011498385,
+      "searchScore": 0.0000011486018,
       "downloads": {
         "lastMonth": 349
       },
@@ -8337,7 +8337,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.000001141377,
+      "searchScore": 0.0000011401331,
       "downloads": {
         "lastMonth": 123
       },
@@ -8388,7 +8388,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.000001130101,
+      "searchScore": 0.0000011288682,
       "downloads": {
         "lastMonth": 37
       },
@@ -8448,7 +8448,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 0.0000011166352,
+      "searchScore": 0.0000011153094,
       "downloads": {
         "lastMonth": 21
       },
@@ -8500,7 +8500,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000011159376,
+      "searchScore": 0.0000011146958,
       "downloads": {
         "lastMonth": 80
       },
@@ -8543,55 +8543,12 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010801182,
+      "searchScore": 0.0000010789129,
       "downloads": {
         "lastMonth": 523
       },
       "installSize": 2792718,
       "publishSize": 7487
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-blacklist",
-        "scope": "unscoped",
-        "version": "1.2.0",
-        "description": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限",
-        "keywords": [
-          "chatbot",
-          "koishi",
-          "plugin"
-        ],
-        "date": "2023-01-17T09:44:05.334Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-blacklist"
-        },
-        "publisher": {
-          "username": "initencounter",
-          "email": "2911583893@qq.com"
-        },
-        "maintainers": [
-          {
-            "username": "initencounter",
-            "email": "2911583893@qq.com"
-          }
-        ],
-        "portable": false,
-        "insecure": false
-      },
-      "score": {
-        "final": 0.49581695056598496,
-        "detail": {
-          "quality": 0.9991101961104721,
-          "popularity": 0.30270972933210843,
-          "maintenance": 0.25
-        }
-      },
-      "searchScore": 0.0000010793038,
-      "downloads": {
-        "lastMonth": 125
-      },
-      "installSize": 8902,
-      "publishSize": 8902
     },
     {
       "package": {
@@ -8647,7 +8604,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010771672,
+      "searchScore": 0.0000010758921,
       "downloads": {
         "lastMonth": 103
       },
@@ -8698,12 +8655,64 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010725746,
+      "searchScore": 0.00000107138,
       "downloads": {
         "lastMonth": 194
       },
       "installSize": 5402,
       "publishSize": 5402
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-blacklist",
+        "scope": "unscoped",
+        "version": "1.3.1",
+        "description": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin",
+          "EULA"
+        ],
+        "date": "2023-01-17T15:39:53.901Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-blacklist",
+          "homepage": "https://github.com/initialencounter/mykoishi/blob/main/blacklist#readme.md",
+          "repository": "https://github.com/initialencounter/mykoishi",
+          "bugs": "https://github.com/initialencounter/mykoishi/issues"
+        },
+        "author": {
+          "name": "initencounter",
+          "email": "2911583893@qq.com",
+          "username": "initencounter"
+        },
+        "publisher": {
+          "username": "initencounter",
+          "email": "2911583893@qq.com"
+        },
+        "maintainers": [
+          {
+            "username": "initencounter",
+            "email": "2911583893@qq.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.5707529943556003,
+        "detail": {
+          "quality": 0.9988970087425233,
+          "popularity": 0.30270972933210843,
+          "maintenance": 0.5
+        }
+      },
+      "searchScore": 0.0000010665716,
+      "downloads": {
+        "lastMonth": 125
+      },
+      "installSize": 11036,
+      "publishSize": 11036
     },
     {
       "package": {
@@ -8746,7 +8755,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010664161,
+      "searchScore": 0.0000010652375,
       "downloads": {
         "lastMonth": 222
       },
@@ -8804,7 +8813,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010608005,
+      "searchScore": 0.0000010597088,
       "downloads": {
         "lastMonth": 81
       },
@@ -8855,7 +8864,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010607366,
+      "searchScore": 0.0000010595508,
       "downloads": {
         "lastMonth": 22
       },
@@ -8907,7 +8916,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010606637,
+      "searchScore": 0.0000010594825,
       "downloads": {
         "lastMonth": 72
       },
@@ -8955,7 +8964,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010606605,
+      "searchScore": 0.0000010593699,
       "downloads": {
         "lastMonth": 14
       },
@@ -9011,7 +9020,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010591704,
+      "searchScore": 0.0000010580251,
       "downloads": {
         "lastMonth": 106
       },
@@ -9063,7 +9072,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010382176,
+      "searchScore": 0.0000010370551,
       "downloads": {
         "lastMonth": 205
       },
@@ -9115,7 +9124,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 0.0000010335557,
+      "searchScore": 0.0000010324003,
       "downloads": {
         "lastMonth": 62
       },
@@ -9162,7 +9171,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010229193,
+      "searchScore": 0.0000010217868,
       "downloads": {
         "lastMonth": 143
       },
@@ -9205,7 +9214,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010144638,
+      "searchScore": 0.0000010133336,
       "downloads": {
         "lastMonth": 463
       },
@@ -9256,7 +9265,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000010083535,
+      "searchScore": 0.0000010072151,
       "downloads": {
         "lastMonth": 297
       },
@@ -9302,7 +9311,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010066501,
+      "searchScore": 0.0000010054998,
       "downloads": {
         "lastMonth": 6
       },
@@ -9345,7 +9354,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 0.0000010003714,
+      "searchScore": 9.992565e-7,
       "downloads": {
         "lastMonth": 389
       },
@@ -9399,7 +9408,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 9.990556e-7,
+      "searchScore": 9.97867e-7,
       "downloads": {
         "lastMonth": 342
       },
@@ -9442,7 +9451,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.935135e-7,
+      "searchScore": 9.924407e-7,
       "downloads": {
         "lastMonth": 139
       },
@@ -9498,7 +9507,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.914228e-7,
+      "searchScore": 9.902486e-7,
       "downloads": {
         "lastMonth": 14
       },
@@ -9548,7 +9557,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.71075e-7,
+      "searchScore": 9.700689e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -9599,7 +9608,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.688675e-7,
+      "searchScore": 9.678116e-7,
       "downloads": {
         "lastMonth": 112
       },
@@ -9655,7 +9664,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.686904e-7,
+      "searchScore": 9.675265e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -9708,7 +9717,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.595672e-7,
+      "searchScore": 9.585058e-7,
       "downloads": {
         "lastMonth": 467
       },
@@ -9756,7 +9765,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.581775e-7,
+      "searchScore": 9.571297e-7,
       "downloads": {
         "lastMonth": 189
       },
@@ -9805,7 +9814,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.504395e-7,
+      "searchScore": 9.4939827e-7,
       "downloads": {
         "lastMonth": 200
       },
@@ -9858,7 +9867,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.4787396e-7,
+      "searchScore": 9.46659e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -9911,7 +9920,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 9.4093656e-7,
+      "searchScore": 9.399343e-7,
       "downloads": {
         "lastMonth": 25
       },
@@ -9961,7 +9970,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.4016434e-7,
+      "searchScore": 9.391906e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -10004,12 +10013,55 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.379615e-7,
+      "searchScore": 9.3695115e-7,
       "downloads": {
         "lastMonth": 152
       },
       "installSize": 2564528,
       "publishSize": 2840
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-human-sign",
+        "scope": "unscoped",
+        "version": "1.0.2",
+        "description": "生成小人举牌图片, 可自定义文字",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T12:01:52.432Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-human-sign"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.420749357668869,
+        "detail": {
+          "quality": 0.999836913300082,
+          "popularity": 0.11449570919711113,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 9.326809e-7,
+      "downloads": {
+        "lastMonth": 46
+      },
+      "installSize": 1631,
+      "publishSize": 1631
     },
     {
       "package": {
@@ -10054,7 +10106,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.3249076e-7,
+      "searchScore": 9.315166e-7,
       "downloads": {
         "lastMonth": 17
       },
@@ -10108,7 +10160,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.220026e-7,
+      "searchScore": 9.2091545e-7,
       "downloads": {
         "lastMonth": 21
       }
@@ -10154,7 +10206,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 9.103483e-7,
+      "searchScore": 9.0940165e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -10205,7 +10257,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.9642026e-7,
+      "searchScore": 8.9544915e-7,
       "downloads": {
         "lastMonth": 32
       },
@@ -10258,7 +10310,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 8.9345997e-7,
+      "searchScore": 8.9242934e-7,
       "downloads": {
         "lastMonth": 16
       },
@@ -10313,7 +10365,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.5944896e-7,
+      "searchScore": 8.584016e-7,
       "downloads": {
         "lastMonth": 45
       },
@@ -10356,7 +10408,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 8.4430434e-7,
+      "searchScore": 8.4329037e-7,
       "downloads": {
         "lastMonth": 384
       },
@@ -10402,7 +10454,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 8.0695224e-7,
+      "searchScore": 8.0612585e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -10457,7 +10509,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 7.793136e-7,
+      "searchScore": 7.786389e-7,
       "downloads": {
         "lastMonth": 1556
       },
@@ -10507,7 +10559,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.750914e-7,
+      "searchScore": 7.7416547e-7,
       "downloads": {
         "lastMonth": 24
       },
@@ -10548,14 +10600,14 @@
         ]
       },
       "score": {
-        "final": 0.260312044265554,
+        "final": 0.26031802522770664,
         "detail": {
-          "quality": 0.5219184669124456,
-          "popularity": 0.0019170708233387426,
-          "maintenance": 0.2944729411532907
+          "quality": 0.5219190789121391,
+          "popularity": 0.0019171753034165355,
+          "maintenance": 0.2944894005653403
         }
       },
-      "searchScore": 7.682613e-7,
+      "searchScore": 7.6752116e-7,
       "ignored": true
     },
     {
@@ -10604,7 +10656,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 6.566829e-7,
+      "searchScore": 6.561104e-7,
       "downloads": {
         "lastMonth": 831
       },
@@ -10656,7 +10708,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.369175e-7,
+      "searchScore": 6.3623764e-7,
       "downloads": {
         "lastMonth": 17
       },
@@ -10705,14 +10757,14 @@
         ]
       },
       "score": {
-        "final": 0.25382043214216404,
+        "final": 0.25382209367039565,
         "detail": {
-          "quality": 0.46438923852207137,
-          "popularity": 0.0056937328456916755,
-          "maintenance": 0.32145958311300166
+          "quality": 0.4643894095523885,
+          "popularity": 0.005693772033886125,
+          "maintenance": 0.32146414455091143
         }
       },
-      "searchScore": 5.9059727e-7,
+      "searchScore": 5.899498e-7,
       "ignored": true
     },
     {
@@ -10766,7 +10818,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.632089e-7,
+      "searchScore": 5.6249553e-7,
       "downloads": {
         "lastMonth": 50
       },
@@ -10809,7 +10861,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.261163e-7,
+      "searchScore": 5.2550826e-7,
       "downloads": {
         "lastMonth": 131
       },
@@ -10861,7 +10913,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.242375e-7,
+      "searchScore": 5.2361867e-7,
       "downloads": {
         "lastMonth": 841
       },
@@ -10913,7 +10965,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.155147e-7,
+      "searchScore": 5.148782e-7,
       "downloads": {
         "lastMonth": 888
       },
@@ -10959,7 +11011,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.084011e-7,
+      "searchScore": 5.078152e-7,
       "downloads": {
         "lastMonth": 20
       },
@@ -11007,14 +11059,14 @@
         ]
       },
       "score": {
-        "final": 0.2507403867557161,
+        "final": 0.25074724766110734,
         "detail": {
-          "quality": 0.49106009441690757,
-          "popularity": 0.005045773811529357,
-          "maintenance": 0.29044667884745307
+          "quality": 0.4910616639007741,
+          "popularity": 0.005045817962824196,
+          "maintenance": 0.29046489201110476
         }
       },
-      "searchScore": 4.893877e-7,
+      "searchScore": 4.88961e-7,
       "ignored": true
     },
     {
@@ -11062,7 +11114,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.882615e-7,
+      "searchScore": 4.8769766e-7,
       "downloads": {
         "lastMonth": 644
       },
@@ -11117,7 +11169,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.852539e-7,
+      "searchScore": 4.846651e-7,
       "downloads": {
         "lastMonth": 435
       },
@@ -11169,7 +11221,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.819316e-7,
+      "searchScore": 4.813641e-7,
       "downloads": {
         "lastMonth": 333
       },
@@ -11211,14 +11263,14 @@
         ]
       },
       "score": {
-        "final": 0.2504061496431756,
+        "final": 0.25040594478904094,
         "detail": {
-          "quality": 0.44192913192197564,
-          "popularity": 0.0033164097140463457,
+          "quality": 0.4419283722494474,
+          "popularity": 0.003316475564400199,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 4.7354297e-7,
+      "searchScore": 4.7295038e-7,
       "ignored": true
     },
     {
@@ -11265,7 +11317,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.551422e-7,
+      "searchScore": 4.5463943e-7,
       "downloads": {
         "lastMonth": 383
       },
@@ -11315,7 +11367,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 4.4769075e-7,
+      "searchScore": 4.4736575e-7,
       "downloads": {
         "lastMonth": 8
       },
@@ -11369,7 +11421,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 4.4537688e-7,
+      "searchScore": 4.4495368e-7,
       "downloads": {
         "lastMonth": 27
       },
@@ -11415,7 +11467,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.333412e-7,
+      "searchScore": 4.32865e-7,
       "downloads": {
         "lastMonth": 102
       },
@@ -11461,7 +11513,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.272721e-7,
+      "searchScore": 4.2694e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -11512,7 +11564,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 4.0376685e-7,
+      "searchScore": 4.0330733e-7,
       "downloads": {
         "lastMonth": 215
       },
@@ -11558,14 +11610,14 @@
         ]
       },
       "score": {
-        "final": 0.24420964089402292,
+        "final": 0.24421463535434926,
         "detail": {
-          "quality": 0.44192913192197564,
-          "popularity": 0.020831345936437227,
-          "maintenance": 0.2981140863990777
+          "quality": 0.4419283722494474,
+          "popularity": 0.020831414002105565,
+          "maintenance": 0.2981289393679374
         }
       },
-      "searchScore": 3.868186e-7,
+      "searchScore": 3.8642986e-7,
       "ignored": true
     },
     {
@@ -11616,7 +11668,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.8326743e-7,
+      "searchScore": 3.828997e-7,
       "downloads": {
         "lastMonth": 18
       },
@@ -11669,7 +11721,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.832522e-7,
+      "searchScore": 3.8285074e-7,
       "downloads": {
         "lastMonth": 144
       },
@@ -11724,7 +11776,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.772522e-7,
+      "searchScore": 3.7689222e-7,
       "downloads": {
         "lastMonth": 23
       },
@@ -11779,7 +11831,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.719858e-7,
+      "searchScore": 3.716321e-7,
       "downloads": {
         "lastMonth": 15
       },
@@ -11834,7 +11886,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.7075253e-7,
+      "searchScore": 3.7040007e-7,
       "downloads": {
         "lastMonth": 14
       },
@@ -11877,7 +11929,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.668295e-7,
+      "searchScore": 3.6646156e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -11933,7 +11985,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.6682476e-7,
+      "searchScore": 3.6641464e-7,
       "downloads": {
         "lastMonth": 152
       },
@@ -11988,7 +12040,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.433328e-7,
+      "searchScore": 3.430094e-7,
       "downloads": {
         "lastMonth": 18
       },
@@ -12041,7 +12093,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 3.3535866e-7,
+      "searchScore": 3.3496835e-7,
       "downloads": {
         "lastMonth": 415
       }
@@ -12083,14 +12135,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.242495616684695,
+        "final": 0.24249954395313644,
         "detail": {
-          "quality": 0.4254058938836501,
-          "popularity": 0.018662750966351886,
-          "maintenance": 0.3095482448039338
+          "quality": 0.42540745442021277,
+          "popularity": 0.018662879871559238,
+          "maintenance": 0.30955799906293396
         }
       },
-      "searchScore": 3.3478634e-7,
+      "searchScore": 3.3443393e-7,
       "ignored": true
     },
     {
@@ -12147,7 +12199,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.342775e-7,
+      "searchScore": 3.3392948e-7,
       "downloads": {
         "lastMonth": 135
       },
@@ -12201,7 +12253,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.312637e-7,
+      "searchScore": 3.3094597e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12248,14 +12300,14 @@
         ]
       },
       "score": {
-        "final": 0.24432054402258713,
+        "final": 0.24432249227604644,
         "detail": {
-          "quality": 0.42979050767699023,
-          "popularity": 0.0032065052993316572,
-          "maintenance": 0.3264603281849257
+          "quality": 0.4297939939760997,
+          "popularity": 0.0032065732107484962,
+          "maintenance": 0.3264628384555845
         }
       },
-      "searchScore": 3.250745e-7,
+      "searchScore": 3.2471013e-7,
       "ignored": true
     },
     {
@@ -12308,7 +12360,7 @@
           "maintenance": 0.75
         }
       },
-      "searchScore": 3.2502385e-7,
+      "searchScore": 3.2469399e-7,
       "downloads": {
         "lastMonth": 49
       },
@@ -12360,7 +12412,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.2468063e-7,
+      "searchScore": 3.2433286e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -12403,14 +12455,14 @@
         ]
       },
       "score": {
-        "final": 0.23787627042109333,
+        "final": 0.23788926960644727,
         "detail": {
-          "quality": 0.6509749433791553,
-          "popularity": 0.0009863311639206503,
-          "maintenance": 0.12068163285707012
+          "quality": 0.65097896420654,
+          "popularity": 0.0009864798615950782,
+          "maintenance": 0.12071517826550567
         }
       },
-      "searchScore": 2.961593e-7,
+      "searchScore": 2.9602407e-7,
       "ignored": true
     },
     {
@@ -12462,7 +12514,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 2.9558132e-7,
+      "searchScore": 2.953459e-7,
       "downloads": {
         "lastMonth": 322
       },
@@ -12505,7 +12557,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.7389558e-7,
+      "searchScore": 2.7371368e-7,
       "downloads": {
         "lastMonth": 12
       }
@@ -12561,7 +12613,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.699598e-7,
+      "searchScore": 2.6967516e-7,
       "downloads": {
         "lastMonth": 208
       },
@@ -12613,7 +12665,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.6811222e-7,
+      "searchScore": 2.6783744e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -12659,7 +12711,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.5228658e-7,
+      "searchScore": 2.5212162e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12705,14 +12757,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2401198952049292,
+        "final": 0.24012054850695497,
         "detail": {
-          "quality": 0.40979906689558976,
-          "popularity": 0.0018275523917739944,
-          "maintenance": 0.33297294799751825
+          "quality": 0.409800989274462,
+          "popularity": 0.0018276605846436688,
+          "maintenance": 0.332973058628546
         }
       },
-      "searchScore": 2.4833068e-7,
+      "searchScore": 2.480268e-7,
       "ignored": true
     },
     {
@@ -12748,14 +12800,14 @@
         ]
       },
       "score": {
-        "final": 0.23922258492840315,
+        "final": 0.23922321517006864,
         "detail": {
-          "quality": 0.4055827130777572,
-          "popularity": 0.002543840115011905,
-          "maintenance": 0.3333069341852053
+          "quality": 0.4055847077905819,
+          "popularity": 0.00254392342749742,
+          "maintenance": 0.3333069418093428
         }
       },
-      "searchScore": 2.4419546e-7,
+      "searchScore": 2.4390468e-7,
       "ignored": true
     },
     {
@@ -12795,7 +12847,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.9729966e-7,
+      "searchScore": 1.9710947e-7,
       "downloads": {
         "lastMonth": 10
       },
@@ -12841,7 +12893,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.9341942e-7,
+      "searchScore": 1.9321791e-7,
       "downloads": {
         "lastMonth": 261
       },
@@ -12889,7 +12941,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.8685796e-7,
+      "searchScore": 1.8669239e-7,
       "downloads": {
         "lastMonth": 108
       },
@@ -12942,7 +12994,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.8453714e-7,
+      "searchScore": 1.8436774e-7,
       "downloads": {
         "lastMonth": 408
       },
@@ -12983,14 +13035,14 @@
         ]
       },
       "score": {
-        "final": 0.23307931162769532,
+        "final": 0.23309103555843022,
         "detail": {
-          "quality": 0.4856364210460008,
-          "popularity": 0.0022568006842460923,
-          "maintenance": 0.247424300212597
+          "quality": 0.4856358642807863,
+          "popularity": 0.002256892717042057,
+          "maintenance": 0.24745818235208464
         }
       },
-      "searchScore": 1.8053615e-7,
+      "searchScore": 1.8045927e-7,
       "ignored": true
     },
     {
@@ -13041,7 +13093,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.718046e-7,
+      "searchScore": 1.716464e-7,
       "downloads": {
         "lastMonth": 14
       },
@@ -13094,7 +13146,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7163356e-7,
+      "searchScore": 1.7154532e-7,
       "downloads": {
         "lastMonth": 7
       },
@@ -13145,7 +13197,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.6653625e-7,
+      "searchScore": 1.6648424e-7,
       "downloads": {
         "lastMonth": 15
       },
@@ -13201,7 +13253,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 1.6388215e-7,
+      "searchScore": 1.6383386e-7,
       "verified": true,
       "downloads": {
         "lastMonth": 14
@@ -13252,7 +13304,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.6027634e-7,
+      "searchScore": 1.6014552e-7,
       "downloads": {
         "lastMonth": 59
       },
@@ -13311,7 +13363,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 1.5744966e-7,
+      "searchScore": 1.5731314e-7,
       "verified": true,
       "downloads": {
         "lastMonth": 122
@@ -13368,7 +13420,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.4899354e-7,
+      "searchScore": 1.4886228e-7,
       "downloads": {
         "lastMonth": 387
       },
@@ -13421,7 +13473,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.4682436e-7,
+      "searchScore": 1.4669622e-7,
       "downloads": {
         "lastMonth": 276
       },
@@ -13476,7 +13528,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.3732159e-7,
+      "searchScore": 1.3720721e-7,
       "downloads": {
         "lastMonth": 71
       },
@@ -13522,7 +13574,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.330816e-7,
+      "searchScore": 1.3297134e-7,
       "downloads": {
         "lastMonth": 99
       },
@@ -13566,14 +13618,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.230474478006708,
+        "final": 0.2304789553401124,
         "detail": {
-          "quality": 0.4045175934097579,
-          "popularity": 0.0016442673077121002,
-          "maintenance": 0.3101248755030897
+          "quality": 0.4045213014881117,
+          "popularity": 0.0016443836886895658,
+          "maintenance": 0.310134373150393
         }
       },
-      "searchScore": 1.3137732e-7,
+      "searchScore": 1.3127509e-7,
       "ignored": true
     },
     {
@@ -13613,7 +13665,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.201527e-7,
+      "searchScore": 1.2012786e-7,
       "downloads": {
         "lastMonth": 9
       },
@@ -13670,7 +13722,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.08313905e-7,
+      "searchScore": 1.0824616e-7,
       "downloads": {
         "lastMonth": 11
       },
@@ -13720,7 +13772,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 9.596168e-8,
+      "searchScore": 9.592981e-8,
       "downloads": {
         "lastMonth": 10
       },
@@ -13764,7 +13816,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 8.000261e-8,
+      "searchScore": 7.999619e-8,
       "downloads": {
         "lastMonth": 9
       },
@@ -13809,7 +13861,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.2247914e-8,
+      "searchScore": 7.2233824e-8,
       "downloads": {
         "lastMonth": 14
       },
@@ -13864,7 +13916,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.070161e-8,
+      "searchScore": 7.068946e-8,
       "downloads": {
         "lastMonth": 28
       },
@@ -13907,14 +13959,14 @@
         ]
       },
       "score": {
-        "final": 0.2131791953508499,
+        "final": 0.21319353861695234,
         "detail": {
-          "quality": 0.49771067231321253,
-          "popularity": 0.001500163049897792,
-          "maintenance": 0.18097410454120544
+          "quality": 0.4977097927266213,
+          "popularity": 0.0015002863894884842,
+          "maintenance": 0.18101571589327145
         }
       },
-      "searchScore": 6.085975e-8,
+      "searchScore": 6.0853004e-8,
       "ignored": true
     },
     {
@@ -13970,7 +14022,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.816995e-8,
+      "searchScore": 5.8119447e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -14016,7 +14068,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.723322e-8,
+      "searchScore": 5.71846e-8,
       "downloads": {
         "lastMonth": 153
       },
@@ -14064,14 +14116,14 @@
         ]
       },
       "score": {
-        "final": 0.2103773528284595,
+        "final": 0.2103875484540511,
         "detail": {
-          "quality": 0.5951934029879185,
-          "popularity": 0.0035778894463585798,
-          "maintenance": 0.0873344875024528
+          "quality": 0.5951975437293661,
+          "popularity": 0.0035779508310282084,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 5.6113706e-8,
+      "searchScore": 5.6090705e-8,
       "ignored": true
     },
     {
@@ -14115,14 +14167,14 @@
         ]
       },
       "score": {
-        "final": 0.21062838421350846,
+        "final": 0.21063857642423248,
         "detail": {
-          "quality": 0.5951934029879185,
-          "popularity": 0.004295121975069855,
-          "maintenance": 0.0873344875024528
+          "quality": 0.5951975437293661,
+          "popularity": 0.004295173602974998,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 5.6103268e-8,
+      "searchScore": 5.60801e-8,
       "ignored": true
     },
     {
@@ -14169,7 +14221,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.5268877e-8,
+      "searchScore": 5.5260667e-8,
       "downloads": {
         "lastMonth": 11
       },
@@ -14215,7 +14267,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.4206673e-8,
+      "searchScore": 5.4184966e-8,
       "downloads": {
         "lastMonth": 103
       },
@@ -14274,7 +14326,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.3185456e-8,
+      "searchScore": 5.3139622e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -14333,7 +14385,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 4.918349e-8,
+      "searchScore": 4.9141292e-8,
       "downloads": {
         "lastMonth": 15
       },
@@ -14368,14 +14420,14 @@
         ]
       },
       "score": {
-        "final": 0.2103095991636422,
+        "final": 0.2103235123965599,
         "detail": {
-          "quality": 0.5219184669124456,
-          "popularity": 0.0013901386782953736,
-          "maintenance": 0.15213574443572903
+          "quality": 0.5219190789121391,
+          "popularity": 0.0013902675769000823,
+          "maintenance": 0.15217484306000897
         }
       },
-      "searchScore": 4.3097476e-8,
+      "searchScore": 4.3091376e-8,
       "ignored": true
     },
     {
@@ -14410,14 +14462,14 @@
         ]
       },
       "score": {
-        "final": 0.20512572111551594,
+        "final": 0.20513913857784744,
         "detail": {
-          "quality": 0.5046735594897485,
-          "popularity": 0.0013604077602464234,
-          "maintenance": 0.15213574443572903
+          "quality": 0.5046725171393607,
+          "popularity": 0.0013605381858174076,
+          "maintenance": 0.15217484306000897
         }
       },
-      "searchScore": 3.392453e-8,
+      "searchScore": 3.3916933e-8,
       "ignored": true
     },
     {
@@ -14454,14 +14506,14 @@
         ]
       },
       "score": {
-        "final": 0.20483565604475154,
+        "final": 0.20484872531899787,
         "detail": {
-          "quality": 0.5219184669124456,
-          "popularity": 0.001194291443290637,
-          "maintenance": 0.13669175418818905
+          "quality": 0.5219190789121391,
+          "popularity": 0.0011944304184583541,
+          "maintenance": 0.13672843142541638
         }
       },
-      "searchScore": 3.3420886e-8,
+      "searchScore": 3.3414857e-8,
       "ignored": true
     },
     {
@@ -14516,7 +14568,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.3368128e-8,
+      "searchScore": 3.334087e-8,
       "downloads": {
         "lastMonth": 23
       },
@@ -14565,14 +14617,14 @@
         ]
       },
       "score": {
-        "final": 0.20275098432245275,
+        "final": 0.2027649783242252,
         "detail": {
-          "quality": 0.4055827130777572,
-          "popularity": 0.002890553444548475,
-          "maintenance": 0.22875564769581044
+          "quality": 0.4055847077905819,
+          "popularity": 0.0028906279957230546,
+          "maintenance": 0.22879384625299304
         }
       },
-      "searchScore": 2.5235275e-8,
+      "searchScore": 2.5231875e-8,
       "ignored": true
     },
     {
@@ -14611,14 +14663,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20391816365928467,
+        "final": 0.20392415692065002,
         "detail": {
-          "quality": 0.32941618383728166,
-          "popularity": 0.0012977572312159401,
-          "maintenance": 0.2989688385062132
+          "quality": 0.3294191194347817,
+          "popularity": 0.0012978908909850823,
+          "maintenance": 0.29898331222391644
         }
       },
-      "searchScore": 2.365878e-8,
+      "searchScore": 2.3643842e-8,
       "ignored": true
     },
     {
@@ -14667,7 +14719,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 2.317225e-8,
+      "searchScore": 2.3171737e-8,
       "downloads": {
         "lastMonth": 6
       },
@@ -14725,7 +14777,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 2.088164e-8,
+      "searchScore": 2.0869686e-8,
       "downloads": {
         "lastMonth": 29
       },
@@ -14760,14 +14812,14 @@
         ]
       },
       "score": {
-        "final": 0.19754641387810232,
+        "final": 0.19755903701553676,
         "detail": {
-          "quality": 0.49771067231321253,
-          "popularity": 0.0011174234807783234,
-          "maintenance": 0.13669175418818905
+          "quality": 0.4977097927266213,
+          "popularity": 0.0011175662818704104,
+          "maintenance": 0.13672843142541638
         }
       },
-      "searchScore": 1.8614731e-8,
+      "searchScore": 1.8611523e-8,
       "ignored": true
     },
     {
@@ -14810,14 +14862,14 @@
         ]
       },
       "score": {
-        "final": 0.19357740794702222,
+        "final": 0.19359143889738598,
         "detail": {
-          "quality": 0.4488920190985116,
-          "popularity": 0.0013901386782953736,
-          "maintenance": 0.1669235819430439
+          "quality": 0.4488910966621868,
+          "popularity": 0.0013902675769000823,
+          "maintenance": 0.16696433213375694
         }
       },
-      "searchScore": 1.6442169e-8,
+      "searchScore": 1.6441218e-8,
       "ignored": true
     },
     {
@@ -14848,14 +14900,14 @@
         ]
       },
       "score": {
-        "final": 0.19644473323347883,
+        "final": 0.1964591124738002,
         "detail": {
-          "quality": 0.44192913192197564,
-          "popularity": 0.001500163049897792,
-          "maintenance": 0.18097410454120544
+          "quality": 0.4419283722494474,
+          "popularity": 0.0015002863894884842,
+          "maintenance": 0.18101571589327145
         }
       },
-      "searchScore": 1.4319149e-8,
+      "searchScore": 1.4318566e-8,
       "ignored": true
     },
     {
@@ -14883,14 +14935,14 @@
         ]
       },
       "score": {
-        "final": 0.19186147599898987,
+        "final": 0.19187300629144538,
         "detail": {
-          "quality": 0.49771067231321253,
-          "popularity": 0.0008848651572901947,
-          "maintenance": 0.12068163285707012
+          "quality": 0.4977097927266213,
+          "popularity": 0.0008850173729486183,
+          "maintenance": 0.12071517826550567
         }
       },
-      "searchScore": 1.1860858e-8,
+      "searchScore": 1.1858725e-8,
       "ignored": true
     },
     {
@@ -14914,14 +14966,14 @@
         ]
       },
       "score": {
-        "final": 0.19313293754680672,
+        "final": 0.19314622496093575,
         "detail": {
-          "quality": 0.362793188725671,
-          "popularity": 0.0023316889258478937,
-          "maintenance": 0.23851111372873904
+          "quality": 0.36279519414854366,
+          "popularity": 0.0023317785380769984,
+          "maintenance": 0.23854726922298775
         }
       },
-      "searchScore": 9.6776285e-9,
+      "searchScore": 9.676827e-9,
       "ignored": true
     },
     {
@@ -14970,7 +15022,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.7749046e-9,
+      "searchScore": 6.774332e-9,
       "downloads": {
         "lastMonth": 6
       },
@@ -15031,7 +15083,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 6.2648904e-9,
+      "searchScore": 6.265476e-9,
       "downloads": {
         "lastMonth": 8
       },
@@ -15076,14 +15128,14 @@
         ]
       },
       "score": {
-        "final": 0.18058461614079588,
+        "final": 0.18059952223590453,
         "detail": {
-          "quality": 0.4055827130777572,
-          "popularity": 0.0013901386782953736,
-          "maintenance": 0.1669235819430439
+          "quality": 0.4055847077905819,
+          "popularity": 0.0013902675769000823,
+          "maintenance": 0.16696433213375694
         }
       },
-      "searchScore": 5.982788e-9,
+      "searchScore": 5.9830207e-9,
       "ignored": true
     },
     {
@@ -15118,14 +15170,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18382850770908044,
+        "final": 0.18383690112233103,
         "detail": {
-          "quality": 0.27990635554992854,
-          "popularity": 0.004241395718943186,
-          "maintenance": 0.28106317869277647
+          "quality": 0.27990840945963547,
+          "popularity": 0.004241447974636468,
+          "maintenance": 0.28108534712376465
         }
       },
-      "searchScore": 5.7711476e-9,
+      "searchScore": 5.768843e-9,
       "ignored": true
     },
     {
@@ -15165,14 +15217,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17667377915858545,
+        "final": 0.17668808550525678,
         "detail": {
-          "quality": 0.40979906689558976,
-          "popularity": 0.0013901386782953736,
-          "maintenance": 0.15213574443572903
+          "quality": 0.409800989274462,
+          "popularity": 0.0013902675769000823,
+          "maintenance": 0.15217484306000897
         }
       },
-      "searchScore": 4.0125134e-9,
+      "searchScore": 4.0124486e-9,
       "ignored": true
     },
     {
@@ -15199,14 +15251,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17846443660411687,
+        "final": 0.17846557082697667,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.005136485535572097,
+          "quality": 0.19999999999999996,
+          "popularity": 0.005139726172314361,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5967813e-9,
+      "searchScore": 3.5936558e-9,
       "ignored": true
     },
     {
@@ -15233,14 +15285,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17838468925918766,
+        "final": 0.17838586478189725,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.004908635978631441,
+          "quality": 0.19999999999999996,
+          "popularity": 0.004911994614944588,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5636405e-9,
+      "searchScore": 3.5605612e-9,
       "ignored": true
     },
     {
@@ -15267,14 +15319,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17832761122737556,
+        "final": 0.17832881770466216,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.004745555887739707,
+          "quality": 0.19999999999999996,
+          "popularity": 0.004749002965701498,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5400944e-9,
+      "searchScore": 3.5370484e-9,
       "ignored": true
     },
     {
@@ -15301,14 +15353,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17831775361462573,
+        "final": 0.17831896555748475,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0047173912798830885,
+          "quality": 0.19999999999999996,
+          "popularity": 0.004720853973766041,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5360423e-9,
+      "searchScore": 3.5330023e-9,
       "ignored": true
     },
     {
@@ -15335,14 +15387,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17830779081372367,
+        "final": 0.17830900831644,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.004688926134448599,
+          "quality": 0.19999999999999996,
+          "popularity": 0.004692404713638182,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.5319516e-9,
+      "searchScore": 3.5289174e-9,
       "ignored": true
     },
     {
@@ -15369,14 +15421,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17829772006824696,
+        "final": 0.17829894322784634,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.004660152575943685,
+          "quality": 0.19999999999999996,
+          "popularity": 0.004663647317656259,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.527821e-9,
+      "searchScore": 3.5247925e-9,
       "ignored": true
     },
     {
@@ -15404,14 +15456,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1776668961683604,
+        "final": 0.17766714011387846,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.004814699398323384,
-          "maintenance": 0.3313764325112778
+          "quality": 0.19999999999999996,
+          "popularity": 0.004814745621122991,
+          "maintenance": 0.33137708327567267
         }
       },
-      "searchScore": 3.4677066e-9,
+      "searchScore": 3.4643988e-9,
       "ignored": true
     },
     {
@@ -15439,14 +15491,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17713234051740218,
+        "final": 0.17713374552181754,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0028009441006842063,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.00280447755976524,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.3250769e-9,
+      "searchScore": 3.322366e-9,
       "ignored": true
     },
     {
@@ -15474,14 +15526,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.177339102343808,
+        "final": 0.17734099313516533,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0033916921761294955,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0033966135979018085,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.313426e-9,
+      "searchScore": 3.3109118e-9,
       "ignored": true
     },
     {
@@ -15509,14 +15561,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17730759771330312,
+        "final": 0.1773094529951779,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0033016789461154943,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.003306498912223393,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.3012357e-9,
+      "searchScore": 3.298717e-9,
       "ignored": true
     },
     {
@@ -15544,14 +15596,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1772359052799794,
+        "final": 0.17723772389655096,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.003096843422333492,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.003101558630432191,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.2736494e-9,
+      "searchScore": 3.2711382e-9,
       "ignored": true
     },
     {
@@ -15579,14 +15631,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1771281608788214,
+        "final": 0.17712956559097132,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0027890022761677636,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.002792534900204585,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.2325922e-9,
+      "searchScore": 3.2299565e-9,
       "ignored": true
     },
     {
@@ -15614,14 +15666,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17711586935468626,
+        "final": 0.17711706583459097,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0027538836357816777,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0027568213105464844,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.2279388e-9,
+      "searchScore": 3.2252283e-9,
       "ignored": true
     },
     {
@@ -15649,14 +15701,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17709949253307355,
+        "final": 0.1771006873308559,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0027070927168882206,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0027100255855891596,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.2217484e-9,
+      "searchScore": 3.2190424e-9,
       "ignored": true
     },
     {
@@ -15692,14 +15744,14 @@
         ]
       },
       "score": {
-        "final": 0.17154025160377592,
+        "final": 0.171551913485569,
         "detail": {
-          "quality": 0.42985488065476396,
-          "popularity": 0.0009863311639206503,
-          "maintenance": 0.12068163285707012
+          "quality": 0.42985444380361243,
+          "popularity": 0.0009864798615950782,
+          "maintenance": 0.12071517826550567
         }
       },
-      "searchScore": 3.1402356e-9,
+      "searchScore": 3.1395961e-9,
       "ignored": true
     },
     {
@@ -15727,14 +15779,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1768781196700117,
+        "final": 0.17687995587878128,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0020745988224257538,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0020793642939473415,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.1391414e-9,
+      "searchScore": 3.1367418e-9,
       "ignored": true
     },
     {
@@ -15762,14 +15814,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1768034070651,
+        "final": 0.17680510867174665,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0018611342369637207,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.001865515130991304,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.1117073e-9,
+      "searchScore": 3.1092802e-9,
       "ignored": true
     },
     {
@@ -15797,14 +15849,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1767756589552364,
+        "final": 0.17677725109070125,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0017818539230677077,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0017859220422901047,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.1015752e-9,
+      "searchScore": 3.099116e-9,
       "ignored": true
     },
     {
@@ -15832,14 +15884,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17676468617131172,
+        "final": 0.17676628373069972,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0017505031118543886,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0017545867280000225,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.0975769e-9,
+      "searchScore": 3.0951228e-9,
       "ignored": true
     },
     {
@@ -15867,14 +15919,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17676455096177252,
+        "final": 0.17676614792377357,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0017501167988851895,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0017541987082110582,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.0975276e-9,
+      "searchScore": 3.0950735e-9,
       "ignored": true
     },
     {
@@ -15902,14 +15954,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17672093035137498,
+        "final": 0.17672237213071218,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0016254864834637122,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0016291250137498944,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.0816805e-9,
+      "searchScore": 3.079183e-9,
       "ignored": true
     },
     {
@@ -15937,14 +15989,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17672042425150997,
+        "final": 0.17672186317911376,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0016240404838493284,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0016276708663258404,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.081497e-9,
+      "searchScore": 3.0789986e-9,
       "ignored": true
     },
     {
@@ -15972,14 +16024,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17672006243742258,
+        "final": 0.17672149932011372,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.0016230067293139506,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.0016266312691828942,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.0813658e-9,
+      "searchScore": 3.0788667e-9,
       "ignored": true
     },
     {
@@ -16007,14 +16059,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17655922792102438,
+        "final": 0.17655957790255572,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.002379278167818209,
-          "maintenance": 0.33064708732082293
+          "quality": 0.19999999999999996,
+          "popularity": 0.002379366297170141,
+          "maintenance": 0.3306479991387034
         }
       },
-      "searchScore": 3.0791572e-9,
+      "searchScore": 3.0762468e-9,
       "ignored": true
     },
     {
@@ -16042,14 +16094,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17667353691493148,
+        "final": 0.17667476364990897,
         "detail": {
-          "quality": 0.2,
-          "popularity": 0.001490076665053689,
-          "maintenance": 0.3318628859490363
+          "quality": 0.19999999999999996,
+          "popularity": 0.001493100782883651,
+          "maintenance": 0.33186336678828493
         }
       },
-      "searchScore": 3.0645477e-9,
+      "searchScore": 3.0619867e-9,
       "ignored": true
     },
     {
@@ -16093,14 +16145,14 @@
         ]
       },
       "score": {
-        "final": 0.1702979996064594,
+        "final": 0.17030703218609944,
         "detail": {
-          "quality": 0.46456520031687043,
-          "popularity": 0.001032482530113681,
-          "maintenance": 0.0873344875024528
+          "quality": 0.464565364646175,
+          "popularity": 0.0010326292796158057,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 2.8840526e-9,
+      "searchScore": 2.8831704e-9,
       "ignored": true
     },
     {
@@ -16144,14 +16196,14 @@
         ]
       },
       "score": {
-        "final": 0.16699868196656018,
+        "final": 0.1670078462249403,
         "detail": {
-          "quality": 0.450674949602498,
-          "popularity": 0.003511789885577979,
-          "maintenance": 0.0873344875024528
+          "quality": 0.45067565119944375,
+          "popularity": 0.0035118523449307495,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 2.287265e-9,
+      "searchScore": 2.2866145e-9,
       "ignored": true
     },
     {
@@ -16184,66 +16236,15 @@
         ]
       },
       "score": {
-        "final": 0.16664560544454665,
+        "final": 0.1666584982631556,
         "detail": {
-          "quality": 0.41348555019677435,
-          "popularity": 0.001032482530113681,
-          "maintenance": 0.12068163285707012
+          "quality": 0.4134892187412103,
+          "popularity": 0.0010326292796158057,
+          "maintenance": 0.12071517826550567
         }
       },
-      "searchScore": 1.8079988e-9,
+      "searchScore": 1.8080129e-9,
       "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-apisend",
-        "scope": "unscoped",
-        "version": "1.0.0",
-        "description": "API 推送消息插件。",
-        "keywords": [
-          "Koishi.js",
-          "qqbot",
-          "cqhttp",
-          "onebot"
-        ],
-        "date": "2023-01-11T06:11:53.975Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-apisend",
-          "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend",
-          "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend/issues"
-        },
-        "author": {
-          "name": "Nanahira",
-          "email": "nanahira@momobako.com",
-          "username": "nanahira"
-        },
-        "publisher": {
-          "username": "nanahira",
-          "email": "nanahira@momobako.com"
-        },
-        "maintainers": [
-          {
-            "username": "nanahira",
-            "email": "nanahira@momobako.com"
-          }
-        ],
-        "portable": false,
-        "insecure": true
-      },
-      "score": {
-        "final": 0.17578290657191187,
-        "detail": {
-          "quality": 0.3420524127522927,
-          "popularity": 0.18291795686556012,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 1.101285e-9,
-      "downloads": {
-        "lastMonth": 74
-      },
-      "installSize": 10727913,
-      "publishSize": 14696
     },
     {
       "package": {
@@ -16289,9 +16290,60 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.101285e-9,
+      "searchScore": 1.1001958e-9,
       "installSize": 10208349,
       "publishSize": 21714
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-apisend",
+        "scope": "unscoped",
+        "version": "1.0.0",
+        "description": "API 推送消息插件。",
+        "keywords": [
+          "Koishi.js",
+          "qqbot",
+          "cqhttp",
+          "onebot"
+        ],
+        "date": "2023-01-11T06:11:53.975Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-apisend",
+          "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend",
+          "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-apisend/issues"
+        },
+        "author": {
+          "name": "Nanahira",
+          "email": "nanahira@momobako.com",
+          "username": "nanahira"
+        },
+        "publisher": {
+          "username": "nanahira",
+          "email": "nanahira@momobako.com"
+        },
+        "maintainers": [
+          {
+            "username": "nanahira",
+            "email": "nanahira@momobako.com"
+          }
+        ],
+        "portable": false,
+        "insecure": true
+      },
+      "score": {
+        "final": 0.17578290657191187,
+        "detail": {
+          "quality": 0.3420524127522927,
+          "popularity": 0.18291795686556012,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.1001958e-9,
+      "downloads": {
+        "lastMonth": 74
+      },
+      "installSize": 10727913,
+      "publishSize": 14696
     },
     {
       "package": {
@@ -16338,9 +16390,50 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.064093e-9,
+      "searchScore": 1.0630328e-9,
       "installSize": 16730,
       "publishSize": 16730
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-huanlin-sleep",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "幻灵早晚安, 支持群友向机器人早晚安并统计睡眠市场!",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T16:51:03.023Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-huanlin-sleep",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-huanlin-sleep"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3693391207842549,
+        "detail": {
+          "quality": 0.9811304026141829,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 6.0550365e-10,
+      "publishSize": 6019,
+      "installSize": 190499
     },
     {
       "package": {
@@ -16388,7 +16481,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 5.969837e-10,
+      "searchScore": 5.964022e-10,
       "downloads": {
         "lastMonth": 66
       },
@@ -16438,7 +16531,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.9442073e-10,
+      "searchScore": 5.938581e-10,
       "installSize": 3077952,
       "publishSize": 2709
     },
@@ -16483,7 +16576,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 5.6832283e-10,
+      "searchScore": 5.67777e-10,
       "verified": true,
       "downloads": {
         "lastMonth": 69
@@ -16527,7 +16620,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.58056e-10,
+      "searchScore": 5.5751137e-10,
       "installSize": 9974,
       "publishSize": 9974
     },
@@ -16572,14 +16665,14 @@
         ]
       },
       "score": {
-        "final": 0.1490195135799881,
+        "final": 0.1490291402375823,
         "detail": {
-          "quality": 0.39369075682252475,
-          "popularity": 0.0009863311639206503,
-          "maintenance": 0.0873344875024528
+          "quality": 0.39369289913880867,
+          "popularity": 0.0009864798615950782,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 4.8723753e-10,
+      "searchScore": 4.871404e-10,
       "ignored": true
     },
     {
@@ -16628,7 +16721,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.835702e-10,
+      "searchScore": 4.831048e-10,
       "downloads": {
         "lastMonth": 38
       },
@@ -16671,7 +16764,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.714264e-10,
+      "searchScore": 4.709693e-10,
       "downloads": {
         "lastMonth": 68
       },
@@ -16725,7 +16818,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.6210807e-10,
+      "searchScore": 4.6166412e-10,
       "downloads": {
         "lastMonth": 117
       },
@@ -16768,7 +16861,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.5913737e-10,
+      "searchScore": 4.586927e-10,
       "installSize": 1838,
       "publishSize": 1838
     },
@@ -16808,24 +16901,25 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.5913737e-10,
+      "searchScore": 4.586927e-10,
       "installSize": 2005,
       "publishSize": 2005
     },
     {
       "package": {
-        "name": "koishi-plugin-human-sign",
+        "name": "koishi-plugin-chentong-drive-cracker",
         "scope": "unscoped",
         "version": "1.0.1",
-        "description": "生成小人举牌图片, 可自定义文字",
+        "description": "诚通/皮皮网盘解析",
         "keywords": [
           "chatbot",
           "koishi",
           "plugin"
         ],
-        "date": "2023-01-16T16:47:53.005Z",
+        "date": "2023-01-17T16:50:52.688Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-human-sign"
+          "npm": "https://www.npmjs.com/package/koishi-plugin-chentong-drive-cracker",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-chentong-drive-cracker"
         },
         "publisher": {
           "username": "huanlin",
@@ -16841,16 +16935,16 @@
         "insecure": false
       },
       "score": {
-        "final": 0.37495122396559905,
+        "final": 0.37493880624197556,
         "detail": {
-          "quality": 0.9998374132186635,
+          "quality": 0.9997960208065851,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.4212906e-10,
-      "installSize": 1626,
-      "publishSize": 1626
+      "searchScore": 4.4714785e-10,
+      "publishSize": 2040,
+      "installSize": 2040
     },
     {
       "package": {
@@ -16893,14 +16987,14 @@
         ]
       },
       "score": {
-        "final": 0.1477590098094921,
+        "final": 0.14776863287236727,
         "detail": {
-          "quality": 0.38838331765111955,
-          "popularity": 0.0019341253951364874,
-          "maintenance": 0.0873344875024528
+          "quality": 0.388385500372634,
+          "popularity": 0.0019342291891304897,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 4.4201576e-10,
+      "searchScore": 4.4192927e-10,
       "ignored": true
     },
     {
@@ -16939,7 +17033,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2663567e-10,
+      "searchScore": 4.2622292e-10,
       "downloads": {
         "lastMonth": 84
       },
@@ -16982,7 +17076,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2535211e-10,
+      "searchScore": 4.2494147e-10,
       "installSize": 13098,
       "publishSize": 13098
     },
@@ -17022,7 +17116,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2331358e-10,
+      "searchScore": 4.2290596e-10,
       "installSize": 1623,
       "publishSize": 1623
     },
@@ -17062,7 +17156,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.229745e-10,
+      "searchScore": 4.2256623e-10,
       "installSize": 1801,
       "publishSize": 1801
     },
@@ -17102,9 +17196,91 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.2055823e-10,
+      "searchScore": 4.201543e-10,
       "installSize": 1627,
       "publishSize": 1627
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-tianyi-drive-cracker",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "天翼网盘解析",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T16:50:47.089Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-tianyi-drive-cracker",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-tianyi-drive-cracker"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749399460116048,
+        "detail": {
+          "quality": 0.9997998200386827,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.175646e-10,
+      "publishSize": 2002,
+      "installSize": 2002
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-lanzou-drive-cracker",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "蓝奏网盘解析",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T16:50:49.696Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-lanzou-drive-cracker",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-lanzou-drive-cracker"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.37494258549474346,
+        "detail": {
+          "quality": 0.9998086183158115,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.175646e-10,
+      "publishSize": 1914,
+      "installSize": 1914
     },
     {
       "package": {
@@ -17148,7 +17324,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.1142337e-10,
+      "searchScore": 4.1103726e-10,
       "installSize": 2981,
       "publishSize": 2981
     },
@@ -17188,7 +17364,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.1131715e-10,
+      "searchScore": 4.1092157e-10,
       "installSize": 6657,
       "publishSize": 6657
     },
@@ -17228,9 +17404,50 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.0911602e-10,
+      "searchScore": 4.0872095e-10,
       "installSize": 1533,
       "publishSize": 1533
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-petpet-plus",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "petpet的可用版本(API)",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T16:50:58.201Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-petpet-plus",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-petpet-plus"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749050950147604,
+        "detail": {
+          "quality": 0.9996836500492013,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 4.0607462e-10,
+      "publishSize": 3164,
+      "installSize": 3164
     },
     {
       "package": {
@@ -17268,9 +17485,50 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 4.0015188e-10,
+      "searchScore": 3.9976836e-10,
       "installSize": 2559,
       "publishSize": 2559
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-158-drive-cracker",
+        "scope": "unscoped",
+        "version": "1.0.1",
+        "description": "158网盘解析",
+        "keywords": [
+          "chatbot",
+          "koishi",
+          "plugin"
+        ],
+        "date": "2023-01-17T16:50:43.615Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-158-drive-cracker",
+          "size": "https://packagephobia.com/result?p=koishi-plugin-158-drive-cracker"
+        },
+        "publisher": {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        },
+        "maintainers": [
+          {
+            "username": "huanlin",
+            "email": "linsmc@126.com"
+          }
+        ],
+        "portable": false,
+        "insecure": false
+      },
+      "score": {
+        "final": 0.3749430953975722,
+        "detail": {
+          "quality": 0.9998103179919073,
+          "popularity": 0,
+          "maintenance": 0.25
+        }
+      },
+      "searchScore": 3.9976836e-10,
+      "publishSize": 1897,
+      "installSize": 1897
     },
     {
       "package": {
@@ -17308,7 +17566,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.9718964e-10,
+      "searchScore": 3.9681178e-10,
       "downloads": {
         "lastMonth": 58
       },
@@ -17351,7 +17609,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.9708792e-10,
+      "searchScore": 3.967066e-10,
       "installSize": 1724,
       "publishSize": 1724
     },
@@ -17391,7 +17649,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.9482123e-10,
+      "searchScore": 3.9444129e-10,
       "downloads": {
         "lastMonth": 67
       },
@@ -17434,7 +17692,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.91871e-10,
+      "searchScore": 3.914933e-10,
       "installSize": 1886,
       "publishSize": 1886
     },
@@ -17474,7 +17732,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.8304357e-10,
+      "searchScore": 3.8267634e-10,
       "installSize": 2071,
       "publishSize": 2071
     },
@@ -17524,7 +17782,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 3.81024e-10,
+      "searchScore": 3.8066028e-10,
       "installSize": 1582,
       "publishSize": 1582
     },
@@ -17564,7 +17822,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.7384787e-10,
+      "searchScore": 3.7348966e-10,
       "downloads": {
         "lastMonth": 60
       },
@@ -17607,7 +17865,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.55526e-10,
+      "searchScore": 3.5518624e-10,
       "downloads": {
         "lastMonth": 77
       },
@@ -17650,7 +17908,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.5506992e-10,
+      "searchScore": 3.5472986e-10,
       "downloads": {
         "lastMonth": 115
       },
@@ -17693,7 +17951,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 3.53527e-10,
+      "searchScore": 3.531878e-10,
       "downloads": {
         "lastMonth": 88
       },
@@ -17742,14 +18000,14 @@
         ]
       },
       "score": {
-        "final": 0.1417230242236061,
+        "final": 0.14173265019683762,
         "detail": {
-          "quality": 0.36778546793301636,
-          "popularity": 0.0023437520509791386,
-          "maintenance": 0.0873344875024528
+          "quality": 0.36778767734430073,
+          "popularity": 0.0023438412833314383,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 2.5702732e-10,
+      "searchScore": 2.5698677e-10,
       "ignored": true
     },
     {
@@ -17770,8 +18028,7 @@
         ],
         "date": "2023-01-17T11:00:55.769Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-gamewallpaper-byripple",
-          "size": "https://packagephobia.com/result?p=koishi-plugin-gamewallpaper-byripple"
+          "npm": "https://www.npmjs.com/package/koishi-plugin-gamewallpaper-byripple"
         },
         "author": {
           "name": "rippppp",
@@ -17799,9 +18056,9 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.6688967e-10,
-      "publishSize": 3503,
-      "installSize": 2387838
+      "searchScore": 1.667363e-10,
+      "installSize": 2387838,
+      "publishSize": 3503
     },
     {
       "package": {
@@ -17846,7 +18103,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.5173068e-10,
+      "searchScore": 1.5159085e-10,
       "downloads": {
         "lastMonth": 181
       },
@@ -17895,14 +18152,14 @@
         ]
       },
       "score": {
-        "final": 0.13651810937097442,
+        "final": 0.13652771412519263,
         "detail": {
-          "quality": 0.35173489050284734,
-          "popularity": 0.001230204555033494,
-          "maintenance": 0.0873344875024528
+          "quality": 0.3517369732892393,
+          "popularity": 0.0012303416972554973,
+          "maintenance": 0.08736000726966119
         }
       },
-      "searchScore": 1.4786583e-10,
+      "searchScore": 1.4784728e-10,
       "ignored": true
     },
     {
@@ -17944,7 +18201,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.305769e-10,
+      "searchScore": 1.3045796e-10,
       "downloads": {
         "lastMonth": 85
       },
@@ -17992,14 +18249,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.13398153250163009,
+        "final": 0.13399375654949747,
         "detail": {
-          "quality": 0.3047163881791726,
-          "popularity": 0.000937270136867898,
-          "maintenance": 0.12068163285707012
+          "quality": 0.30471782305046075,
+          "popularity": 0.0009374206898064942,
+          "maintenance": 0.12071517826550567
         }
       },
-      "searchScore": 1.0864273e-10,
+      "searchScore": 1.0865921e-10,
       "ignored": true
     },
     {
@@ -18051,7 +18308,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 7.4780356e-11,
+      "searchScore": 7.471327e-11,
       "downloads": {
         "lastMonth": 71
       },
@@ -18094,7 +18351,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 6.437765e-11,
+      "searchScore": 6.432044e-11,
       "downloads": {
         "lastMonth": 151
       },
@@ -18151,7 +18408,7 @@
           "maintenance": 1
         }
       },
-      "searchScore": 5.5936922e-11,
+      "searchScore": 5.589822e-11,
       "downloads": {
         "lastMonth": 129
       },
@@ -18197,7 +18454,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7383414e-11,
+      "searchScore": 1.7368381e-11,
       "downloads": {
         "lastMonth": 124
       },
@@ -18243,7 +18500,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.4992485e-11,
+      "searchScore": 1.497937e-11,
       "downloads": {
         "lastMonth": 130
       },
@@ -18289,7 +18546,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.4609319e-11,
+      "searchScore": 1.4596458e-11,
       "installSize": 1837,
       "publishSize": 1837
     },
@@ -18336,7 +18593,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.373161e-11,
+      "searchScore": 1.3719078e-11,
       "downloads": {
         "lastMonth": 174
       },
@@ -18382,7 +18639,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.3007348e-11,
+      "searchScore": 1.29958995e-11,
       "downloads": {
         "lastMonth": 75
       },
@@ -18428,7 +18685,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.1347623e-11,
+      "searchScore": 1.1337638e-11,
       "downloads": {
         "lastMonth": 72
       },
@@ -18480,7 +18737,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 1.1239418e-11,
+      "searchScore": 1.1229619e-11,
       "installSize": 5641,
       "publishSize": 5641
     },
@@ -18532,7 +18789,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7423305e-12,
+      "searchScore": 1.7407102e-12,
       "downloads": {
         "lastMonth": 73
       },
@@ -18587,7 +18844,7 @@
           "maintenance": 0.5
         }
       },
-      "searchScore": 1.7334918e-12,
+      "searchScore": 1.7318834e-12,
       "downloads": {
         "lastMonth": 72
       },
@@ -18633,7 +18890,7 @@
           "maintenance": 0.25
         }
       },
-      "searchScore": 5.8081204e-13,
+      "searchScore": 5.803016e-13,
       "downloads": {
         "lastMonth": 73
       },
@@ -18664,14 +18921,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.06,
+        "final": 0.059999999999999984,
         "detail": {
-          "quality": 0.2,
+          "quality": 0.19999999999999996,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 2.1901214e-15,
+      "searchScore": 2.1879304e-15,
       "ignored": true
     },
     {
@@ -18698,82 +18955,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.06,
+        "final": 0.059999999999999984,
         "detail": {
-          "quality": 0.2,
+          "quality": 0.19999999999999996,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 2.1901214e-15,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-storage",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "date": "2023-01-06T13:56:41.893Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-storage"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.06,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.1901214e-15,
-      "ignored": true
-    },
-    {
-      "package": {
-        "name": "koishi-plugin-affinity",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "date": "2023-01-11T09:25:57.411Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
-        },
-        "publisher": {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "shigma",
-            "email": "shigma10826@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.06,
-        "detail": {
-          "quality": 0.2,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.1901214e-15,
+      "searchScore": 2.1879304e-15,
       "ignored": true
     },
     {
@@ -18800,14 +18989,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.06,
+        "final": 0.059999999999999984,
         "detail": {
-          "quality": 0.2,
+          "quality": 0.19999999999999996,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 2.1901214e-15,
+      "searchScore": 2.1879304e-15,
       "ignored": true
     },
     {
@@ -18834,14 +19023,82 @@
         "unstable": true
       },
       "score": {
-        "final": 0.06,
+        "final": 0.059999999999999984,
         "detail": {
-          "quality": 0.2,
+          "quality": 0.19999999999999996,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 2.1901214e-15,
+      "searchScore": 2.1879304e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-storage",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "date": "2023-01-06T13:56:41.893Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-storage"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.059999999999999984,
+        "detail": {
+          "quality": 0.19999999999999996,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1879304e-15,
+      "ignored": true
+    },
+    {
+      "package": {
+        "name": "koishi-plugin-affinity",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "date": "2023-01-11T09:25:57.411Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
+        },
+        "publisher": {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "shigma",
+            "email": "shigma10826@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.059999999999999984,
+        "detail": {
+          "quality": 0.19999999999999996,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1879304e-15,
       "ignored": true
     },
     {
@@ -18868,18 +19125,18 @@
         "unstable": true
       },
       "score": {
-        "final": 0.06,
+        "final": 0.059999999999999984,
         "detail": {
-          "quality": 0.2,
+          "quality": 0.19999999999999996,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 1.9714186e-15,
+      "searchScore": 1.9694628e-15,
       "ignored": true
     }
   ],
-  "time": "Tue, 17 Jan 2023 11:23:05 GMT",
+  "time": "Tue, 17 Jan 2023 16:51:43 GMT",
   "shared": [
     {
       "name": "koishi",
@@ -19160,6 +19417,6 @@
       "portable": true
     }
   ],
-  "total": 381,
+  "total": 387,
   "version": 3
 }
