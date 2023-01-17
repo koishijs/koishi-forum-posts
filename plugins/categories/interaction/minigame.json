@@ -1,0 +1,12 @@
+{
+  "shown": [
+    "chess",
+    "couplet",
+    "draw",
+    "fortune",
+    "genshin-gacha",
+    "guess-number",
+    "hangman"
+  ],
+  "hidden": []
+}

@@ -1,0 +1,29 @@
+{
+  "shown": [
+    "action",
+    "addfriend",
+    "auto-reply",
+    "advanced-forward",
+    "command-webhook",
+    "dcqq-relay",
+    "dialogue",
+    "dialogue-author",
+    "dialogue-console",
+    "dialogue-context",
+    "dialogue-flow",
+    "dialogue-rate-limit",
+    "dialogue-time",
+    "forward",
+    "guild-verifier",
+    "img2cmd",
+    "relay",
+    "respondent",
+    "responder2",
+    "rr-welcome",
+    "scene-training",
+    "simple-welcome",
+    "verifier",
+    "@myrtus/forward"
+  ],
+  "hidden": []
+}

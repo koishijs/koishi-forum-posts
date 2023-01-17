@@ -1,0 +1,19 @@
+{
+  "shown": [
+    "animal-picture",
+    "answer-book",
+    "autopic",
+    "image-search",
+    "picapi",
+    "pics",
+    "picsource-localfs",
+    "picsource-lolicon",
+    "picsource-miraikoi",
+    "picsource-sina",
+    "picsource-twitter",
+    "picsource-yande",
+    "random-dog",
+    "twdne"
+  ],
+  "hidden": []
+}

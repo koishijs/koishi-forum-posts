@@ -1,0 +1,20 @@
+{
+  "shown": [
+    "alertmanager",
+    "autokick",
+    "blame",
+    "dispose",
+    "eula",
+    "feedback",
+    "inspect",
+    "recall",
+    "sentry",
+    "shutdown",
+    "sudo",
+    "switch"
+  ],
+  "hidden": [
+    "chinfo",
+    "devplugin"
+  ]
+}

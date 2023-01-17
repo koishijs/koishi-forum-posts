@@ -1,0 +1,16 @@
+{
+  "shown": [
+    "admin",
+    "bind",
+    "broadcast",
+    "callme",
+    "commands",
+    "echo",
+    "help",
+    "locales",
+    "rate-limit",
+    "schedule",
+    "puppeteer"
+  ],
+  "hidden": []
+}

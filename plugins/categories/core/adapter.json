@@ -1,0 +1,19 @@
+{
+  "shown": [
+    "adapter-discord",
+    "adapter-feishu",
+    "adapter-kook",
+    "adapter-onebot",
+    "adapter-telegram",
+    "adapter-matrix",
+    "adapter-wechat-official",
+    "adapter-wechaty",
+    "adapter-wecom",
+    "gocqhttp"
+  ],
+  "hidden": [
+    "adapter-qqguild",
+    "adapter-minecraft",
+    "@zerxz/gocqhttp"
+  ]
+}

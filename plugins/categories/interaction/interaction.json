@@ -1,0 +1,11 @@
+{
+  "shown": [
+    "duplicate-checker",
+    "nyan",
+    "repeater",
+    "sleep-manage",
+    "thesaurus",
+    "@nonebot/person"
+  ],
+  "hidden": []
+}

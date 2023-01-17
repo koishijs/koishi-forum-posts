@@ -1,0 +1,20 @@
+{
+  "shown": [
+    "abbreviation",
+    "baidu",
+    "douban",
+    "ekwing-fucker",
+    "gameinfo",
+    "javbus",
+    "mikan",
+    "music",
+    "oeis",
+    "steaminfo",
+    "search-bing"
+  ],
+  "hidden": [
+    "magi",
+    "nbnhhsh",
+    "@nonebot/abbrreply"
+  ]
+}
