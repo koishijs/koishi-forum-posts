@@ -17,11 +17,15 @@ let list = objects.map(v => {
 writeFileSync('./recomm/plugins/index_trim.json', JSON.stringify(list, null, 2), 'utf-8')
 writeFileSync('./recomm/plugins/index.md',
   list.map(v => {
-    let name = v.name.replace(/(koishi-|@koishijs\/)plugin-/, '')
-    let res = `- ${name} [![评分](https://badge.koishi.chat/rating/${v.name})](${v.links.npm})`
-    if (v.name.includes('@koishijs/') || v.verified)
-      res += ' ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png)'
-    // if (v.insecure) 已有颜色区分
-    //   res += ' ![不安全|16x16](upload://puVx64WRItNaep7Ta8zFV3oa4Q2.png)'
-    return res
+    v.name_trim = v.name.replace(/(koishi-|@koishijs\/)plugin-/, '')
+    v.rating = `[![评分](https://badge.koishi.chat/rating/${v.name})](${v.links.npm})`
+    v.badge = (v.name.includes('@koishijs/') || v.verified) ? ' ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png)' : ''
+    return v
+  }).sort((a, b) => {
+    name1 = a.name_trim.replace(/@[\w-]+\//, '')
+    name2 = b.name_trim.replace(/@[\w-]+\//, '')
+    return name1 > name2 ? 1 : -1
+  }
+  ).map(v => {
+    return `| ${v.name_trim} | ${v.rating}${v.badge} |`
   }).join('\n'), 'utf-8')
