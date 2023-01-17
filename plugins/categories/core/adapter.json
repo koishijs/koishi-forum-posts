@@ -4,6 +4,7 @@
     "adapter-feishu",
     "adapter-kook",
     "adapter-onebot",
+    "adapter-qqguild",
     "adapter-telegram",
     "adapter-matrix",
     "adapter-wechat-official",
@@ -12,7 +13,6 @@
     "gocqhttp"
   ],
   "hidden": [
-    "adapter-qqguild",
     "adapter-minecraft",
     "@zerxz/gocqhttp"
   ]

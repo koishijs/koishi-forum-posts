@@ -12,9 +12,7 @@
     "rss",
     "rsshub",
     "steam-status-subscribe",
-    "weather",
     "xiaoai-morningnews",
-    "@nonebot/weather-lite",
     "@yunkuangao/tianxing"
   ],
   "hidden": [
