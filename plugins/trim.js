@@ -21,5 +21,3 @@ let list = objects.filter((v) => {
 }, {})
 
 writeFileSync('plugins/index_trim.json', JSON.stringify(list, null, 2), 'utf-8')
-writeFileSync('plugins/index.md',
-  Object.entries(list).map(v => `| ${v[0]} | ${v[1]} |`).join('\n'), 'utf-8')

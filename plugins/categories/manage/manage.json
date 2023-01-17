@@ -2,6 +2,7 @@
   "shown": [
     "alertmanager",
     "autokick",
+    "blacklist",
     "blame",
     "dispose",
     "eula",

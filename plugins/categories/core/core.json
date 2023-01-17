@@ -10,7 +10,8 @@
     "locales",
     "rate-limit",
     "schedule",
-    "puppeteer"
+    "puppeteer",
+    "messages"
   ],
   "hidden": []
 }

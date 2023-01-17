@@ -2,6 +2,7 @@
   "shown": [
     "abbreviation",
     "acs",
+    "anonymous-email",
     "aria2",
     "bilibili",
     "brainfuck",
@@ -32,7 +33,16 @@
     "who-at-me",
     "youtube",
     "@myrtus/mediawiki",
-    "@myrtus/tool"
+    "@myrtus/tool",
+    "idcard-checker",
+    "ip-checker",
+    "jiutian-toolkit",
+    "spawn-handwrite-img",
+    "whois",
+    "158-drive-cracker",
+    "lanzou-drive-cracker",
+    "tianyi-drive-cracker",
+    "chentong-drive-cracker"
   ],
   "hidden": [
     "boom",
@@ -40,6 +50,7 @@
     "dice-killer",
     "gfm",
     "nbnhhsh",
+    "whoviews",
     "wyblacklist",
     "@nonebot/analysis-bilibili",
     "@nonebot/biliav",

@@ -11,6 +11,7 @@
 | echo | [![评分](https://badge.koishi.chat/rating/@koishijs/plugin-echo)](https://www.npmjs.com/package/%40koishijs%2Fplugin-echo) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | help | [![评分](https://badge.koishi.chat/rating/@koishijs/plugin-help)](https://www.npmjs.com/package/%40koishijs%2Fplugin-help) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | locales | [![评分](https://badge.koishi.chat/rating/@koishijs/plugin-locales)](https://www.npmjs.com/package/%40koishijs%2Fplugin-locales) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
+| messages | [![评分](https://badge.koishi.chat/rating/koishi-plugin-messages)](https://www.npmjs.com/package/koishi-plugin-messages) |
 | puppeteer | [![评分](https://badge.koishi.chat/rating/koishi-plugin-puppeteer)](https://www.npmjs.com/package/koishi-plugin-puppeteer) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | rate-limit | [![评分](https://badge.koishi.chat/rating/@koishijs/plugin-rate-limit)](https://www.npmjs.com/package/%40koishijs%2Fplugin-rate-limit) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | schedule | [![评分](https://badge.koishi.chat/rating/@koishijs/plugin-schedule)](https://www.npmjs.com/package/%40koishijs%2Fplugin-schedule) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
@@ -77,6 +78,7 @@
 | 插件名 | 评分 |
 | alertmanager | [![评分](https://badge.koishi.chat/rating/koishi-plugin-alertmanager)](https://www.npmjs.com/package/koishi-plugin-alertmanager) |
 | autokick | [![评分](https://badge.koishi.chat/rating/koishi-plugin-autokick)](https://www.npmjs.com/package/koishi-plugin-autokick) |
+| blacklist | [![评分](https://badge.koishi.chat/rating/koishi-plugin-blacklist)](https://www.npmjs.com/package/koishi-plugin-blacklist) |
 | blame | [![评分](https://badge.koishi.chat/rating/koishi-plugin-blame)](https://www.npmjs.com/package/koishi-plugin-blame) |
 | dispose | [![评分](https://badge.koishi.chat/rating/koishi-plugin-dispose)](https://www.npmjs.com/package/koishi-plugin-dispose) |
 | eula | [![评分](https://badge.koishi.chat/rating/koishi-plugin-eula)](https://www.npmjs.com/package/koishi-plugin-eula) |
@@ -168,16 +170,23 @@
 ## 业务逻辑
 
 | 插件名 | 评分 |
+| 158-drive-cracker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-158-drive-cracker)](https://www.npmjs.com/package/koishi-plugin-158-drive-cracker) |
 | abbreviation | [![评分](https://badge.koishi.chat/rating/koishi-plugin-abbreviation)](https://www.npmjs.com/package/koishi-plugin-abbreviation) |
 | acs | [![评分](https://badge.koishi.chat/rating/koishi-plugin-acs)](https://www.npmjs.com/package/koishi-plugin-acs) |
+| anonymous-email | [![评分](https://badge.koishi.chat/rating/koishi-plugin-anonymous-email)](https://www.npmjs.com/package/koishi-plugin-anonymous-email) |
 | aria2 | [![评分](https://badge.koishi.chat/rating/koishi-plugin-aria2)](https://www.npmjs.com/package/koishi-plugin-aria2) |
 | bilibili | [![评分](https://badge.koishi.chat/rating/koishi-plugin-bilibili)](https://www.npmjs.com/package/koishi-plugin-bilibili) |
 | brainfuck | [![评分](https://badge.koishi.chat/rating/koishi-plugin-brainfuck)](https://www.npmjs.com/package/koishi-plugin-brainfuck) |
 | bvid | [![评分](https://badge.koishi.chat/rating/koishi-plugin-bvid)](https://www.npmjs.com/package/koishi-plugin-bvid) |
+| chentong-drive-cracker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-chentong-drive-cracker)](https://www.npmjs.com/package/koishi-plugin-chentong-drive-cracker) |
 | dns | [![评分](https://badge.koishi.chat/rating/koishi-plugin-dns)](https://www.npmjs.com/package/koishi-plugin-dns) |
 | github | [![评分](https://badge.koishi.chat/rating/koishi-plugin-github)](https://www.npmjs.com/package/koishi-plugin-github) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | glot | [![评分](https://badge.koishi.chat/rating/koishi-plugin-glot)](https://www.npmjs.com/package/koishi-plugin-glot) |
+| idcard-checker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-idcard-checker)](https://www.npmjs.com/package/koishi-plugin-idcard-checker) |
 | instagram-image-video-downloader | [![评分](https://badge.koishi.chat/rating/koishi-plugin-instagram-image-video-downloader)](https://www.npmjs.com/package/koishi-plugin-instagram-image-video-downloader) |
+| ip-checker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-ip-checker)](https://www.npmjs.com/package/koishi-plugin-ip-checker) |
+| jiutian-toolkit | [![评分](https://badge.koishi.chat/rating/koishi-plugin-jiutian-toolkit)](https://www.npmjs.com/package/koishi-plugin-jiutian-toolkit) |
+| lanzou-drive-cracker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-lanzou-drive-cracker)](https://www.npmjs.com/package/koishi-plugin-lanzou-drive-cracker) |
 | libvirt | [![评分](https://badge.koishi.chat/rating/koishi-plugin-libvirt)](https://www.npmjs.com/package/koishi-plugin-libvirt) |
 | maya | [![评分](https://badge.koishi.chat/rating/koishi-plugin-maya)](https://www.npmjs.com/package/koishi-plugin-maya) |
 | @myrtus/mediawiki | [![评分](https://badge.koishi.chat/rating/@myrtus/koishi-plugin-mediawiki)](https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-mediawiki) |
@@ -193,13 +202,16 @@
 | screenshot | [![评分](https://badge.koishi.chat/rating/koishi-plugin-screenshot)](https://www.npmjs.com/package/koishi-plugin-screenshot) |
 | shadowban | [![评分](https://badge.koishi.chat/rating/koishi-plugin-shadowban)](https://www.npmjs.com/package/koishi-plugin-shadowban) |
 | shorturl | [![评分](https://badge.koishi.chat/rating/koishi-plugin-shorturl)](https://www.npmjs.com/package/koishi-plugin-shorturl) |
+| spawn-handwrite-img | [![评分](https://badge.koishi.chat/rating/koishi-plugin-spawn-handwrite-img)](https://www.npmjs.com/package/koishi-plugin-spawn-handwrite-img) |
 | star-history | [![评分](https://badge.koishi.chat/rating/koishi-plugin-star-history)](https://www.npmjs.com/package/koishi-plugin-star-history) |
 | tex | [![评分](https://badge.koishi.chat/rating/koishi-plugin-tex)](https://www.npmjs.com/package/koishi-plugin-tex) |
+| tianyi-drive-cracker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-tianyi-drive-cracker)](https://www.npmjs.com/package/koishi-plugin-tianyi-drive-cracker) |
 | @myrtus/tool | [![评分](https://badge.koishi.chat/rating/@myrtus/koishi-plugin-tool)](https://www.npmjs.com/package/%40myrtus%2Fkoishi-plugin-tool) |
 | twitter-images-videos | [![评分](https://badge.koishi.chat/rating/koishi-plugin-twitter-images-videos)](https://www.npmjs.com/package/koishi-plugin-twitter-images-videos) |
 | v2ex | [![评分](https://badge.koishi.chat/rating/koishi-plugin-v2ex)](https://www.npmjs.com/package/koishi-plugin-v2ex) |
 | video-parser | [![评分](https://badge.koishi.chat/rating/koishi-plugin-video-parser)](https://www.npmjs.com/package/koishi-plugin-video-parser) |
 | who-at-me | [![评分](https://badge.koishi.chat/rating/koishi-plugin-who-at-me)](https://www.npmjs.com/package/koishi-plugin-who-at-me) |
+| whois | [![评分](https://badge.koishi.chat/rating/koishi-plugin-whois)](https://www.npmjs.com/package/koishi-plugin-whois) |
 | youtube | [![评分](https://badge.koishi.chat/rating/koishi-plugin-youtube)](https://www.npmjs.com/package/koishi-plugin-youtube) |
 
 <a name="search"></a>
@@ -237,6 +249,9 @@
 | rsshub | [![评分](https://badge.koishi.chat/rating/koishi-plugin-rsshub)](https://www.npmjs.com/package/koishi-plugin-rsshub) |
 | steam-status-subscribe | [![评分](https://badge.koishi.chat/rating/koishi-plugin-steam-status-subscribe)](https://www.npmjs.com/package/koishi-plugin-steam-status-subscribe) |
 | @yunkuangao/tianxing | [![评分](https://badge.koishi.chat/rating/@yunkuangao/koishi-plugin-tianxing)](https://www.npmjs.com/package/%40yunkuangao%2Fkoishi-plugin-tianxing) |
+| today-in-history | [![评分](https://badge.koishi.chat/rating/koishi-plugin-today-in-history)](https://www.npmjs.com/package/koishi-plugin-today-in-history) |
+| todaynews | [![评分](https://badge.koishi.chat/rating/koishi-plugin-todaynews)](https://www.npmjs.com/package/koishi-plugin-todaynews) |
+| weibo-hot | [![评分](https://badge.koishi.chat/rating/koishi-plugin-weibo-hot)](https://www.npmjs.com/package/koishi-plugin-weibo-hot) |
 | xiaoai-morningnews | [![评分](https://badge.koishi.chat/rating/koishi-plugin-xiaoai-morningnews)](https://www.npmjs.com/package/koishi-plugin-xiaoai-morningnews) |
 
 <a name="ai"></a>
@@ -300,6 +315,7 @@
 ## 图片服务
 
 | 插件名 | 评分 |
+| 4k-background | [![评分](https://badge.koishi.chat/rating/koishi-plugin-4k-background)](https://www.npmjs.com/package/koishi-plugin-4k-background) |
 | animal-picture | [![评分](https://badge.koishi.chat/rating/koishi-plugin-animal-picture)](https://www.npmjs.com/package/koishi-plugin-animal-picture) |
 | answer-book | [![评分](https://badge.koishi.chat/rating/koishi-plugin-answer-book)](https://www.npmjs.com/package/koishi-plugin-answer-book) |
 | autopic | [![评分](https://badge.koishi.chat/rating/koishi-plugin-autopic)](https://www.npmjs.com/package/koishi-plugin-autopic) |
@@ -313,6 +329,7 @@
 | picsource-twitter | [![评分](https://badge.koishi.chat/rating/koishi-plugin-picsource-twitter)](https://www.npmjs.com/package/koishi-plugin-picsource-twitter) |
 | picsource-yande | [![评分](https://badge.koishi.chat/rating/koishi-plugin-picsource-yande)](https://www.npmjs.com/package/koishi-plugin-picsource-yande) |
 | random-dog | [![评分](https://badge.koishi.chat/rating/koishi-plugin-random-dog)](https://www.npmjs.com/package/koishi-plugin-random-dog) |
+| random-wallpaper | [![评分](https://badge.koishi.chat/rating/koishi-plugin-random-wallpaper)](https://www.npmjs.com/package/koishi-plugin-random-wallpaper) |
 | twdne | [![评分](https://badge.koishi.chat/rating/koishi-plugin-twdne)](https://www.npmjs.com/package/koishi-plugin-twdne) |
 
 <a name="translator"></a>
@@ -333,6 +350,7 @@
 | dice | [![评分](https://badge.koishi.chat/rating/koishi-plugin-dice)](https://www.npmjs.com/package/koishi-plugin-dice) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
 | dicex | [![评分](https://badge.koishi.chat/rating/koishi-plugin-dicex)](https://www.npmjs.com/package/koishi-plugin-dicex) |
 | duplicate-checker | [![评分](https://badge.koishi.chat/rating/koishi-plugin-duplicate-checker)](https://www.npmjs.com/package/koishi-plugin-duplicate-checker) |
+| huanlin-sleep | [![评分](https://badge.koishi.chat/rating/koishi-plugin-huanlin-sleep)](https://www.npmjs.com/package/koishi-plugin-huanlin-sleep) |
 | nyan | [![评分](https://badge.koishi.chat/rating/koishi-plugin-nyan)](https://www.npmjs.com/package/koishi-plugin-nyan) |
 | @nonebot/person | [![评分](https://badge.koishi.chat/rating/@nonebot/koishi-plugin-person)](https://www.npmjs.com/package/%40nonebot%2Fkoishi-plugin-person) |
 | repeater | [![评分](https://badge.koishi.chat/rating/koishi-plugin-repeater)](https://www.npmjs.com/package/koishi-plugin-repeater) ![受认证|16x16](upload://nEu5NpYObSUxSNq2YszbREIgDoE.png) |
@@ -348,9 +366,11 @@
 | couplet | [![评分](https://badge.koishi.chat/rating/koishi-plugin-couplet)](https://www.npmjs.com/package/koishi-plugin-couplet) |
 | draw | [![评分](https://badge.koishi.chat/rating/koishi-plugin-draw)](https://www.npmjs.com/package/koishi-plugin-draw) |
 | fortune | [![评分](https://badge.koishi.chat/rating/koishi-plugin-fortune)](https://www.npmjs.com/package/koishi-plugin-fortune) |
+| gamewallpaper-byripple | [![评分](https://badge.koishi.chat/rating/koishi-plugin-gamewallpaper-byripple)](https://www.npmjs.com/package/koishi-plugin-gamewallpaper-byripple) |
 | genshin-gacha | [![评分](https://badge.koishi.chat/rating/koishi-plugin-genshin-gacha)](https://www.npmjs.com/package/koishi-plugin-genshin-gacha) |
 | guess-number | [![评分](https://badge.koishi.chat/rating/koishi-plugin-guess-number)](https://www.npmjs.com/package/koishi-plugin-guess-number) |
 | hangman | [![评分](https://badge.koishi.chat/rating/koishi-plugin-hangman)](https://www.npmjs.com/package/koishi-plugin-hangman) |
+| puzzle | [![评分](https://badge.koishi.chat/rating/koishi-plugin-puzzle)](https://www.npmjs.com/package/koishi-plugin-puzzle) |
 
 <a name="meme"></a>
 
@@ -360,13 +380,15 @@
 | 5k | [![评分](https://badge.koishi.chat/rating/koishi-plugin-5k)](https://www.npmjs.com/package/koishi-plugin-5k) |
 | aircon | [![评分](https://badge.koishi.chat/rating/koishi-plugin-aircon)](https://www.npmjs.com/package/koishi-plugin-aircon) |
 | alipay-voice | [![评分](https://badge.koishi.chat/rating/koishi-plugin-alipay-voice)](https://www.npmjs.com/package/koishi-plugin-alipay-voice) |
+| bullshit-generator | [![评分](https://badge.koishi.chat/rating/koishi-plugin-bullshit-generator)](https://www.npmjs.com/package/koishi-plugin-bullshit-generator) |
 | color | [![评分](https://badge.koishi.chat/rating/koishi-plugin-color)](https://www.npmjs.com/package/koishi-plugin-color) |
 | crazy-thursday | [![评分](https://badge.koishi.chat/rating/koishi-plugin-crazy-thursday)](https://www.npmjs.com/package/koishi-plugin-crazy-thursday) |
 | emojimix | [![评分](https://badge.koishi.chat/rating/koishi-plugin-emojimix)](https://www.npmjs.com/package/koishi-plugin-emojimix) |
 | httpcat | [![评分](https://badge.koishi.chat/rating/koishi-plugin-httpcat)](https://www.npmjs.com/package/koishi-plugin-httpcat) |
+| human-sign | [![评分](https://badge.koishi.chat/rating/koishi-plugin-human-sign)](https://www.npmjs.com/package/koishi-plugin-human-sign) |
 | meme | [![评分](https://badge.koishi.chat/rating/koishi-plugin-meme)](https://www.npmjs.com/package/koishi-plugin-meme) |
 | nonsense | [![评分](https://badge.koishi.chat/rating/koishi-plugin-nonsense)](https://www.npmjs.com/package/koishi-plugin-nonsense) |
-| petpet | [![评分](https://badge.koishi.chat/rating/koishi-plugin-petpet)](https://www.npmjs.com/package/koishi-plugin-petpet) |
+| petpet-plus | [![评分](https://badge.koishi.chat/rating/koishi-plugin-petpet-plus)](https://www.npmjs.com/package/koishi-plugin-petpet-plus) |
 | phlogo | [![评分](https://badge.koishi.chat/rating/koishi-plugin-phlogo)](https://www.npmjs.com/package/koishi-plugin-phlogo) |
 
 <a name="adventure"></a>

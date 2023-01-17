@@ -1,5 +1,6 @@
 {
   "shown": [
+    "4k-background",
     "animal-picture",
     "answer-book",
     "autopic",
@@ -13,7 +14,8 @@
     "picsource-twitter",
     "picsource-yande",
     "random-dog",
-    "twdne"
+    "twdne",
+    "random-wallpaper"
   ],
   "hidden": []
 }

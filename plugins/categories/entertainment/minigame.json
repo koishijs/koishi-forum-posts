@@ -4,9 +4,11 @@
     "couplet",
     "draw",
     "fortune",
+    "gamewallpaper-byripple",
     "genshin-gacha",
     "guess-number",
-    "hangman"
+    "hangman",
+    "puzzle"
   ],
   "hidden": []
 }

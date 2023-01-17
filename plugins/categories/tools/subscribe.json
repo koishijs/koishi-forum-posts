@@ -13,7 +13,10 @@
     "rsshub",
     "steam-status-subscribe",
     "xiaoai-morningnews",
-    "@yunkuangao/tianxing"
+    "@yunkuangao/tianxing",
+    "today-in-history",
+    "todaynews",
+    "weibo-hot"
   ],
   "hidden": [
     "bdynamic"
