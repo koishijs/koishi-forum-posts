@@ -1,18 +1,5 @@
 [
   {
-    "name": "@idlist/koishi-plugin-blive",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40idlist%2Fkoishi-plugin-blive",
-      "homepage": "https://github.com/idlist/koishi-plugin-blive#readme",
-      "repository": "https://github.com/idlist/koishi-plugin-blive",
-      "bugs": "https://github.com/idlist/koishi-plugin-blive/issues"
-    },
-    "keywords": [
-      "koishi",
-      "koishi.js"
-    ]
-  },
-  {
     "name": "@koishijs/plugin-adapter-discord",
     "links": {
       "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-adapter-discord",
@@ -27,7 +14,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-adapter-feishu",
@@ -44,7 +33,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-adapter-kook",
@@ -62,7 +53,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-adapter-onebot",
@@ -83,7 +76,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-adapter-qqguild",
@@ -101,7 +96,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-adapter-telegram",
@@ -118,7 +115,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-admin",
@@ -136,7 +135,9 @@
       "admin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-analytics",
@@ -158,7 +159,9 @@
       "status"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-auth",
@@ -179,7 +182,9 @@
       "console"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-bind",
@@ -197,7 +202,9 @@
       "bind"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-broadcast",
@@ -215,7 +222,9 @@
       "broadcast"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-callme",
@@ -233,7 +242,9 @@
       "callme"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-chat",
@@ -252,7 +263,9 @@
       "server"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-commands",
@@ -270,7 +283,9 @@
       "command"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-console",
@@ -290,7 +305,9 @@
       "console"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-database-memory",
@@ -310,7 +327,9 @@
       "memory"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-database-mongo",
@@ -328,7 +347,9 @@
       "mongo"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-database-mysql",
@@ -346,7 +367,9 @@
       "mysql"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-database-sqlite",
@@ -365,7 +388,9 @@
       "sqlite"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-dataview",
@@ -383,7 +408,9 @@
       "database"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-echo",
@@ -401,7 +428,9 @@
       "echo"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-feedback",
@@ -420,7 +449,9 @@
       "locale:zh"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-help",
@@ -438,7 +469,9 @@
       "help"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-insight",
@@ -456,7 +489,9 @@
       "insight"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-locales",
@@ -474,7 +509,9 @@
       "command"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-logger",
@@ -492,7 +529,9 @@
       "logs"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-market",
@@ -512,7 +551,9 @@
       "server"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-mock",
@@ -533,7 +574,9 @@
       "mock"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-rate-limit",
@@ -551,7 +594,9 @@
       "rate-limit"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-recall",
@@ -569,7 +614,9 @@
       "recall"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-sandbox",
@@ -590,7 +637,9 @@
       "mock"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-schedule",
@@ -609,7 +658,9 @@
       "task"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-status",
@@ -628,7 +679,9 @@
       "server"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-sudo",
@@ -646,7 +699,9 @@
       "sudo"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-switch",
@@ -665,7 +720,9 @@
       "switch"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@koishijs/plugin-verifier",
@@ -683,7 +740,9 @@
       "verifier"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@myrtus/koishi-plugin-forward",
@@ -699,7 +758,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@myrtus/koishi-plugin-mediawiki",
@@ -715,7 +776,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@myrtus/koishi-plugin-tool",
@@ -731,7 +794,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-abbrreply",
@@ -751,7 +816,9 @@
       "nbnhhsh"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-acc-calculate",
@@ -774,7 +841,9 @@
       "game"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-analysis-bilibili",
@@ -795,7 +864,9 @@
       "anime"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-biliav",
@@ -815,7 +886,9 @@
       "video"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-code",
@@ -839,7 +912,9 @@
       "run"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-gscode",
@@ -862,7 +937,9 @@
       "update"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-person",
@@ -885,7 +962,9 @@
       "pick"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-warframe",
@@ -904,7 +983,9 @@
       "warframe"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-weather-lite",
@@ -924,7 +1005,9 @@
       "wttr"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-ygo",
@@ -946,7 +1029,9 @@
       "game"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@nonebot/koishi-plugin-ygo-trade",
@@ -969,7 +1054,9 @@
       "game"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@tomlbz/koishi-plugin-openai",
@@ -986,13 +1073,9 @@
       "openai"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "@winterco/koishi-plugin-seat-helper",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40winterco%2Fkoishi-plugin-seat-helper"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@yunkuangao/koishi-plugin-tianxing",
@@ -1007,7 +1090,9 @@
       "tianxing"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "@zerxz/koishi-plugin-gocqhttp",
@@ -1026,7 +1111,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-5k",
@@ -1034,7 +1121,9 @@
       "npm": "https://www.npmjs.com/package/koishi-plugin-5k"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-60snews",
@@ -1047,7 +1136,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-abbreviation",
@@ -1065,13 +1156,9 @@
       "nbnhhsh"
     ],
     "portable": true,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-account",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-account"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-achievement",
@@ -1094,7 +1181,9 @@
       "impl:achv"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-acs",
@@ -1115,7 +1204,9 @@
       "acs"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-action",
@@ -1128,7 +1219,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-adapter-matrix",
@@ -1146,7 +1239,9 @@
       "impl:adapter"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-adapter-minecraft",
@@ -1165,7 +1260,9 @@
       "impl:adapter"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-adapter-wechat-official",
@@ -1181,7 +1278,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-adapter-wechaty",
@@ -1199,7 +1298,9 @@
       "wechaty"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-adapter-wecom",
@@ -1216,7 +1317,9 @@
       "impl:adapter"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-addfriend",
@@ -1232,7 +1335,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-advanced-forward",
@@ -1250,13 +1355,9 @@
       "optional:database"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-affinity",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-affinity"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-aircon",
@@ -1271,7 +1372,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-alertmanager",
@@ -1287,7 +1390,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-alipay-voice",
@@ -1305,7 +1410,9 @@
       "voice"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-animal-picture",
@@ -1320,7 +1427,9 @@
       "koishi"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-answer-book",
@@ -1336,7 +1445,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-api",
@@ -1352,7 +1463,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-apisend",
@@ -1368,7 +1481,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-aria2",
@@ -1381,24 +1496,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-assets",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-assets"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "assets",
-      "server"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-assets-git",
@@ -1420,7 +1520,9 @@
       "storage"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-assets-local",
@@ -1441,7 +1543,9 @@
       "storage"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-assets-remote",
@@ -1461,7 +1565,9 @@
       "storage"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-assets-s3",
@@ -1482,7 +1588,9 @@
       "aws"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-assets-smms",
@@ -1501,13 +1609,9 @@
       "smms"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-auth",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-auth"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-auto-reply",
@@ -1520,7 +1624,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-autokick",
@@ -1541,7 +1647,9 @@
       "member"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-autopic",
@@ -1558,7 +1666,9 @@
       "required:pics"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-baidu",
@@ -1578,21 +1688,9 @@
       "wiki"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-bdtrans",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-bdtrans",
-      "homepage": "https://github.com/LolitaOT/koishi-plugin-bdtrans",
-      "repository": "https://github.com/LolitaOT/koishi-plugin-bdtrans",
-      "bugs": "https://github.com/LolitaOT/koishi-plugin-bdtrans/issues"
-    },
-    "keywords": [
-      "koishi",
-      "baidu",
-      "translate"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-bdynamic",
@@ -1607,16 +1705,9 @@
       "koishi.js"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-bgp",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-bgp",
-      "homepage": "https://github.com/Anillc/koishi-plugin-bgp#readme",
-      "repository": "https://github.com/Anillc/koishi-plugin-bgp",
-      "bugs": "https://github.com/Anillc/koishi-plugin-bgp/issues"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-bilibili",
@@ -1624,16 +1715,9 @@
       "npm": "https://www.npmjs.com/package/koishi-plugin-bilibili"
     },
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-binance",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-binance",
-      "homepage": "https://github.com/Spacelessd/koishi-plugin-binance#readme",
-      "repository": "https://github.com/Spacelessd/koishi-plugin-binance",
-      "bugs": "https://github.com/Spacelessd/koishi-plugin-binance/issues"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-blame",
@@ -1642,7 +1726,9 @@
       "homepage": "https://github.com/arilychan/arilychan"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-blive",
@@ -1657,7 +1743,9 @@
       "koishi.js"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-blockly",
@@ -1670,7 +1758,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-boom",
@@ -1686,7 +1776,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-brainfuck",
@@ -1705,7 +1797,9 @@
       "code"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-bvid",
@@ -1726,7 +1820,9 @@
       "bvid"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-cache-aragami",
@@ -1742,7 +1838,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-cache-memcached",
@@ -1764,20 +1862,9 @@
       "memjs"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-canvas",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-canvas",
-      "homepage": "https://github.com/idlist/koishi-plugin-canvas#readme",
-      "repository": "https://github.com/idlist/koishi-plugin-canvas",
-      "bugs": "https://github.com/idlist/koishi-plugin-canvas/issues"
-    },
-    "keywords": [
-      "koishi",
-      "koishi.js"
-    ]
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-captcha-resolver",
@@ -1790,7 +1877,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-capture-website",
@@ -1809,13 +1898,9 @@
       "capture-website"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-censor",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-censor"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-changelog",
@@ -1836,13 +1921,9 @@
       "changelog"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-chat",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-chat"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-chatgpt",
@@ -1865,7 +1946,9 @@
       "chat"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-chess",
@@ -1887,7 +1970,9 @@
       "othello"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-chinfo",
@@ -1901,7 +1986,9 @@
       "Koishi.js"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ci",
@@ -1914,7 +2001,9 @@
       "build"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-click-colorful",
@@ -1932,7 +2021,9 @@
       "click-colorful"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-color",
@@ -1951,7 +2042,9 @@
       "image"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-command-webhook",
@@ -1966,37 +2059,9 @@
       "webhook"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-commands",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-commands"
-    }
-  },
-  {
-    "name": "koishi-plugin-common",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-common",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin"
-    ]
-  },
-  {
-    "name": "koishi-plugin-console",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-console"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-console-update-tips",
@@ -2009,7 +2074,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-couplet",
@@ -2022,7 +2089,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-crazy-thursday",
@@ -2042,13 +2111,9 @@
       "crazy-thursday"
     ],
     "portable": true,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-cron",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-cron"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-crypto",
@@ -2068,24 +2133,9 @@
       "algorithm"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-cryptocurrency",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-cryptocurrency",
-      "homepage": "https://github.com/koishijs/plugin-cryptocurrency#readme",
-      "repository": "https://github.com/koishijs/plugin-cryptocurrency",
-      "bugs": "https://github.com/koishijs/plugin-cryptocurrency/issues"
-    },
-    "keywords": [
-      "koishi",
-      "plugin",
-      "crypto",
-      "currency",
-      "market",
-      "price"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-currency",
@@ -2101,7 +2151,9 @@
       "currency"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-currency-command",
@@ -2114,7 +2166,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dailygames",
@@ -2127,13 +2181,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-dataview",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-dataview"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-davinci-003",
@@ -2146,7 +2196,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dcqq-relay",
@@ -2157,7 +2209,9 @@
       "bugs": "https://github.com/koishijs/koishi-plugin-dcqq-relay/issues"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-deep-danbooru",
@@ -2179,22 +2233,9 @@
       "deep-danbooru"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-demo",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-demo"
-    },
-    "keywords": [
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "bot",
-      "chatbot",
-      "koishi",
-      "plugin"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-desktop",
@@ -2211,13 +2252,9 @@
       "desktop"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-develop",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-develop"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-devplugin",
@@ -2232,7 +2269,9 @@
       "dev"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue",
@@ -2252,7 +2291,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-dialogue-author",
@@ -2272,7 +2313,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue-console",
@@ -2289,7 +2332,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue-context",
@@ -2309,7 +2354,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue-flow",
@@ -2329,7 +2376,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue-rate-limit",
@@ -2349,7 +2398,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dialogue-time",
@@ -2369,7 +2420,9 @@
       "conversation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dice",
@@ -2390,7 +2443,9 @@
       "dice"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-dice-killer",
@@ -2406,7 +2461,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dicex",
@@ -2425,7 +2482,9 @@
       "optional:database"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-diffsinger-huggingface",
@@ -2438,7 +2497,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dispose",
@@ -2455,7 +2516,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-dns",
@@ -2471,7 +2534,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-douban",
@@ -2488,7 +2553,9 @@
       "douban"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-draw",
@@ -2504,7 +2571,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-duplicate-checker",
@@ -2519,13 +2588,9 @@
       "koishi.js"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-economy",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-economy"
-    }
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ekwing-fucker",
@@ -2538,7 +2603,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-elasticsearch",
@@ -2555,7 +2622,9 @@
       "impl:elasticsearch"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-emojimix",
@@ -2571,7 +2640,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-envinfo",
@@ -2591,7 +2662,9 @@
       "information"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-epic-get-free-game",
@@ -2604,7 +2677,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-eula",
@@ -2618,7 +2693,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-eval",
@@ -2638,43 +2715,9 @@
       "code"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-eval-addons",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-addons",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "addon",
-      "runner",
-      "code"
-    ]
-  },
-  {
-    "name": "koishi-plugin-eval-enhance",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-enhance",
-      "homepage": "https://github.com/Anillc/koishi-plugin-eval-enhance#readme",
-      "repository": "https://github.com/Anillc/koishi-plugin-eval-enhance",
-      "bugs": "https://github.com/Anillc/koishi-plugin-eval-enhance/issues"
-    }
-  },
-  {
-    "name": "koishi-plugin-eval-purs-loader",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-eval-purs-loader"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-eval-react-jsx",
@@ -2696,33 +2739,9 @@
       "required:puppeteer"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-exec",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-exec",
-      "homepage": "https://github.com/koishijs/plugins#readme",
-      "repository": "https://github.com/koishijs/plugins",
-      "bugs": "https://github.com/koishijs/plugins/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "exec",
-      "shell"
-    ]
-  },
-  {
-    "name": "koishi-plugin-explorer",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-explorer"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-express",
@@ -2733,7 +2752,9 @@
       "bugs": "https://github.com/ArilyChan/arilychan/issues"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-facercg",
@@ -2750,7 +2771,9 @@
       "Face-recognition"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-favor",
@@ -2766,21 +2789,9 @@
       "required:database"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-ffxiv",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-ffxiv",
-      "homepage": "https://github.com/ReiKohaku/koishi-plugin-ffxiv#readme",
-      "repository": "https://github.com/ReiKohaku/koishi-plugin-ffxiv",
-      "bugs": "https://github.com/ReiKohaku/koishi-plugin-ffxiv/issues"
-    },
-    "keywords": [
-      "ffxiv",
-      "bot",
-      "koishi"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ffxiv-eorzea",
@@ -2801,7 +2812,9 @@
       "eorzea"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ffxiv-lodestone",
@@ -2821,7 +2834,9 @@
       "qqbot"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ffxiv-macrodict",
@@ -2841,7 +2856,9 @@
       "qqbot"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-footer",
@@ -2863,7 +2880,9 @@
       "info"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-fortune",
@@ -2880,7 +2899,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-forward",
@@ -2899,7 +2920,9 @@
       "forward"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-freegames-subscribe",
@@ -2917,7 +2940,9 @@
       "epic"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-gameinfo",
@@ -2932,7 +2957,9 @@
       "image"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-gamenews",
@@ -2945,7 +2972,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-gameserver",
@@ -2956,25 +2985,9 @@
       "gameserver"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-genshin",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-genshin",
-      "homepage": "https://github.com/Dragon-Fish/koishi-plugin-genshin#readme",
-      "repository": "https://github.com/Dragon-Fish/koishi-plugin-genshin",
-      "bugs": "https://github.com/Dragon-Fish/koishi-plugin-genshin/issues"
-    },
-    "keywords": [
-      "genshin",
-      "genshin-impact",
-      "genshin-api",
-      "hoyolab",
-      "koishi",
-      "mihoyo",
-      "qqbot"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-genshin-gacha",
@@ -2987,7 +3000,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-genshin-resin",
@@ -3005,7 +3020,9 @@
       "yuanshen"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-genshin-toolkit",
@@ -3018,7 +3035,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-genshin-voice",
@@ -3044,7 +3063,9 @@
       "vits"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-genshinvoice-plus",
@@ -3057,7 +3078,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-gfm",
@@ -3070,7 +3093,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-github",
@@ -3089,47 +3114,9 @@
       "webhook"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-github-webhook",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-github-webhook",
-      "homepage": "https://github.com/koishijs/plugin-github-webhook#readme",
-      "repository": "https://github.com/koishijs/plugin-github-webhook",
-      "bugs": "https://github.com/koishijs/plugin-github-webhook/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "github",
-      "webhook"
-    ]
-  },
-  {
-    "name": "koishi-plugin-gitlab-webhook",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-gitlab-webhook",
-      "homepage": "https://github.com/koishijs/plugin-gitlab-webhook#readme",
-      "repository": "https://github.com/koishijs/plugin-gitlab-webhook",
-      "bugs": "https://github.com/koishijs/plugin-gitlab-webhook/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "gitlab",
-      "webhook"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-glot",
@@ -3151,7 +3138,9 @@
       "evaluate"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-gocqhttp",
@@ -3173,20 +3162,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-gosen-choyen",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-gosen-choyen",
-      "homepage": "https://github.com/idlist/koishi-plugin-gosen-choyen#readme",
-      "repository": "https://github.com/idlist/koishi-plugin-gosen-choyen",
-      "bugs": "https://github.com/idlist/koishi-plugin-gosen-choyen/issues"
-    },
-    "keywords": [
-      "koishi",
-      "koishi.js"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-guess-number",
@@ -3206,7 +3184,9 @@
       "inference"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-guild-verifier",
@@ -3222,7 +3202,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-hangman",
@@ -3242,7 +3224,9 @@
       "guess"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-hitokoto",
@@ -3263,7 +3247,9 @@
       "chinese"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-hlai-ocr",
@@ -3276,7 +3262,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-hlai-painter",
@@ -3289,20 +3277,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-holiday",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-holiday",
-      "homepage": "https://github.com/LolitaOT/koishi-plugin-holiday#readme",
-      "repository": "https://github.com/LolitaOT/koishi-plugin-holiday",
-      "bugs": "https://github.com/LolitaOT/koishi-plugin-holiday/issues"
-    },
-    "keywords": [
-      "koishi",
-      "holiday"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-httpcat",
@@ -3324,7 +3301,9 @@
       "code"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-image-search",
@@ -3350,13 +3329,9 @@
       "pixiv"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-imagine",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-imagine"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-img2cmd",
@@ -3369,7 +3344,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-influxdb",
@@ -3380,7 +3357,9 @@
       "bugs": "https://github.com/Anillc/koishi-plugin-influxdb/issues"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-influxdb-collect",
@@ -3391,26 +3370,9 @@
       "bugs": "https://github.com/Anillc/koishi-plugin-influxdb-collect/issues"
     },
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-ink",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-ink",
-      "homepage": "https://github.com/idlist/koishi-plugin-ink#readme",
-      "repository": "https://github.com/idlist/koishi-plugin-ink",
-      "bugs": "https://github.com/idlist/koishi-plugin-ink/issues"
-    },
-    "keywords": [
-      "koishi",
-      "koishi.js"
-    ]
-  },
-  {
-    "name": "koishi-plugin-insight",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-insight"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-inspect",
@@ -3433,7 +3395,9 @@
       "message"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-instagram-image-video-downloader",
@@ -3449,13 +3413,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-inventory",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-inventory"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-javbus",
@@ -3471,41 +3431,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-jrrp",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-jrrp",
-      "homepage": "https://github.com/idlist/koishi-plugin-jrrp#readme",
-      "repository": "https://github.com/idlist/koishi-plugin-jrrp",
-      "bugs": "https://github.com/idlist/koishi-plugin-jrrp/issues"
-    },
-    "keywords": [
-      "koishi.js",
-      "koishi"
-    ]
-  },
-  {
-    "name": "koishi-plugin-latex",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-latex",
-      "homepage": "https://github.com/koishijs/plugins#readme",
-      "repository": "https://github.com/koishijs/plugins",
-      "bugs": "https://github.com/koishijs/plugins/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "latex",
-      "render",
-      "zhihu"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-libvirt",
@@ -3521,13 +3449,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-logger",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-logger"
-    }
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-magi",
@@ -3543,7 +3467,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-maimai",
@@ -3557,7 +3483,9 @@
       "maimai"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-maimai-potato",
@@ -3570,37 +3498,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-manager",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-manager"
-    },
-    "keywords": [
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "bot",
-      "chatbot",
-      "koishi",
-      "plugin"
-    ]
-  },
-  {
-    "name": "koishi-plugin-mark",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-mark"
-    },
-    "keywords": [
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "bot",
-      "chatbot",
-      "koishi",
-      "plugin"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-markdown",
@@ -3621,13 +3521,9 @@
       "parser"
     ],
     "portable": true,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-market",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-market"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-market-info",
@@ -3649,7 +3545,9 @@
       "manager"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-marry",
@@ -3667,7 +3565,9 @@
       "marry"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-maya",
@@ -3686,7 +3586,9 @@
       "calendar"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-mcinfo",
@@ -3702,7 +3604,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-mcping",
@@ -3721,7 +3625,9 @@
       "status"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-mediawiki",
@@ -3732,7 +3638,9 @@
       "bugs": "https://github.com/koishijs/koishi-plugin-mediawiki/issues"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-meme",
@@ -3755,7 +3663,9 @@
       "optional:database"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-migration",
@@ -3776,7 +3686,9 @@
       "migration"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-mikan",
@@ -3789,22 +3701,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-mltd",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-mltd",
-      "homepage": "https://github.com/LolitaOT/koishi-plugin-mltd#readme",
-      "repository": "https://github.com/LolitaOT/koishi-plugin-mltd",
-      "bugs": "https://github.com/LolitaOT/koishi-plugin-mltd/issues"
-    },
-    "keywords": [
-      "koishi",
-      "mltd",
-      "imas",
-      "idolmaster"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-mollyai",
@@ -3821,13 +3720,9 @@
       "molly"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-monetary",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-monetary"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-money",
@@ -3840,35 +3735,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-mongo",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-mongo",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "database",
-      "mysql"
-    ]
-  },
-  {
-    "name": "koishi-plugin-monitor",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-monitor",
-      "homepage": "https://github.com/koishijs/koishi-plugin-monitor#readme",
-      "repository": "https://github.com/koishijs/koishi-plugin-monitor",
-      "bugs": "https://github.com/koishijs/koishi-plugin-monitor/issues"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-mowned",
@@ -3882,7 +3751,9 @@
       "mowned"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-moyu",
@@ -3895,7 +3766,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-music",
@@ -3916,26 +3789,9 @@
       "qq"
     ],
     "portable": true,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-mysql",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-mysql",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "database",
-      "mysql"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-nbnhhsh",
@@ -3951,7 +3807,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-never-gonna-give-you-up",
@@ -3964,27 +3822,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-nlp",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-nlp",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "nlp",
-      "jieba"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-nonebot",
@@ -4004,7 +3844,9 @@
       "python"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-nonsense",
@@ -4022,7 +3864,9 @@
       "nonsense"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-notion",
@@ -4030,7 +3874,9 @@
       "npm": "https://www.npmjs.com/package/koishi-plugin-notion"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-novel-ai-api",
@@ -4051,7 +3897,9 @@
       "generate"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-novelai",
@@ -4072,7 +3920,9 @@
       "generate"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-nyan",
@@ -4091,7 +3941,9 @@
       "nya"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-oeis",
@@ -4112,7 +3964,9 @@
       "math"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-openchat",
@@ -4128,7 +3982,9 @@
       "rr"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-pack-my-message",
@@ -4141,7 +3997,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-paimon",
@@ -4162,19 +4020,9 @@
       "genshin-api"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-pay",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-pay"
-    }
-  },
-  {
-    "name": "koishi-plugin-payment",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-payment"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-petpet",
@@ -4190,7 +4038,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-phlogo",
@@ -4211,7 +4061,9 @@
       "pornhub"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picapi",
@@ -4227,7 +4079,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-pics",
@@ -4244,7 +4098,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-localfs",
@@ -4262,7 +4118,9 @@
       "required:pics"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-lolicon",
@@ -4280,7 +4138,9 @@
       "required:pics"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-miraikoi",
@@ -4297,7 +4157,9 @@
       "required:pics"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-sina",
@@ -4313,7 +4175,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-twitter",
@@ -4329,7 +4193,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-picsource-yande",
@@ -4346,7 +4212,9 @@
       "required:pics"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-plp",
@@ -4359,7 +4227,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-pointfree",
@@ -4370,7 +4240,9 @@
       "bugs": "https://github.com/Anillc/koishi-plugin-pointfree/issues"
     },
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-pterodactyl",
@@ -4383,7 +4255,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-puppeteer",
@@ -4406,13 +4280,9 @@
       "puppeteer"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-python",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-python"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-qingyunke-free",
@@ -4425,7 +4295,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-qrcode",
@@ -4444,7 +4316,9 @@
       "locale:zh"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-random-dog",
@@ -4462,7 +4336,9 @@
       "random"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-random-number",
@@ -4475,13 +4351,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-rank",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-rank"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rasa-nlg-dict",
@@ -4501,7 +4373,9 @@
       "rasa"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rasa-nlu",
@@ -4521,33 +4395,9 @@
       "rasa"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-recorder",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-recorder",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "record",
-      "recorder"
-    ]
-  },
-  {
-    "name": "koishi-plugin-redis",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-redis"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-relay",
@@ -4563,7 +4413,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-repeater",
@@ -4582,7 +4434,9 @@
       "repeater"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-respondent",
@@ -4600,7 +4454,9 @@
       "shortcut"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": true
   },
   {
     "name": "koishi-plugin-responder2",
@@ -4614,36 +4470,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-roll",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-roll",
-      "homepage": "https://github.com/koishijs/plugins#readme",
-      "repository": "https://github.com/koishijs/plugins",
-      "bugs": "https://github.com/koishijs/plugins/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "roll",
-      "dice"
-    ]
-  },
-  {
-    "name": "koishi-plugin-rpc",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-rpc",
-      "homepage": "https://github.com/Anillc/koishi-plugin-rpc#readme",
-      "repository": "https://github.com/Anillc/koishi-plugin-rpc",
-      "bugs": "https://github.com/Anillc/koishi-plugin-rpc/issues"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rr-image-censor",
@@ -4657,7 +4486,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rr-st",
@@ -4671,7 +4502,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rr-translator",
@@ -4687,7 +4520,9 @@
       "翻译"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rr-welcome",
@@ -4702,7 +4537,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rryth",
@@ -4723,7 +4560,9 @@
       "generate"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rss",
@@ -4745,7 +4584,9 @@
       "required:database"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-rsshub",
@@ -4763,13 +4604,9 @@
       "service"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-sandbox",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-sandbox"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-scene-training",
@@ -4785,27 +4622,9 @@
       "optional:console"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-schedule",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-schedule",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "schedule",
-      "task"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-schema-guide",
@@ -4824,7 +4643,9 @@
       "tutorial"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-screenshot",
@@ -4847,7 +4668,9 @@
       "puppeteer"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sd-extra",
@@ -4867,7 +4690,9 @@
       "super-resolution"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sd-interroage",
@@ -4880,7 +4705,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sd-switch",
@@ -4895,7 +4722,9 @@
       "novelai"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sd-taylor",
@@ -4908,7 +4737,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-search-bing",
@@ -4921,7 +4752,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sentry",
@@ -4937,7 +4770,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-shadowban",
@@ -4953,16 +4788,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-shell",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-shell",
-      "homepage": "https://github.com/koishijs/plugin-shell#readme",
-      "repository": "https://github.com/koishijs/plugin-shell",
-      "bugs": "https://github.com/koishijs/plugin-shell/issues"
-    }
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-shorturl",
@@ -4981,7 +4809,9 @@
       "shortener"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-shutdown",
@@ -4997,7 +4827,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-simple-welcome",
@@ -5010,7 +4842,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-sleep-manage",
@@ -5026,7 +4860,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-spawn",
@@ -5047,7 +4883,9 @@
       "shell"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-splatoon",
@@ -5060,7 +4898,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-srvpro-roomlist",
@@ -5079,7 +4919,9 @@
       "ygopro"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-star-history",
@@ -5090,13 +4932,9 @@
       "bugs": "https://github.com/Anillc/koishi-plugin-star-history/issues"
     },
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-status",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-status"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-steam-status-subscribe",
@@ -5110,7 +4948,9 @@
       "steam"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-steaminfo",
@@ -5125,7 +4965,9 @@
       "image"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-stnb",
@@ -5138,13 +4980,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-storage",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-storage"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-tabulate",
@@ -5164,28 +5002,9 @@
       "required:cache-aragami"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-teach",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-teach",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "teach",
-      "dialogue",
-      "conversation"
-    ]
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-tex",
@@ -5206,7 +5025,9 @@
       "render"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-text-censor",
@@ -5227,28 +5048,9 @@
       "text"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-text-dialogue",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-text-dialogue"
-    },
-    "keywords": [
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "bot",
-      "chatbot",
-      "koishi",
-      "plugin"
-    ]
-  },
-  {
-    "name": "koishi-plugin-tgsticker",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-tgsticker"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-thesaurus",
@@ -5265,13 +5067,9 @@
       "required:cache-aragami"
     ],
     "portable": false,
-    "insecure": true
-  },
-  {
-    "name": "koishi-plugin-token",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-token"
-    }
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-translator-baidu",
@@ -5289,7 +5087,9 @@
       "translation"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-translator-bing",
@@ -5305,7 +5105,9 @@
       "bing"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-translator-youdao",
@@ -5323,13 +5125,9 @@
       "translation"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-trigger",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-trigger"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-twdne",
@@ -5354,7 +5152,9 @@
       "learning"
     ],
     "portable": true,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-twitter-images-videos",
@@ -5370,7 +5170,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-typeorm",
@@ -5391,7 +5193,9 @@
       "impl:typeorm"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-v2ex",
@@ -5407,7 +5211,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-video-parser",
@@ -5420,28 +5226,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-vm",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-vm",
-      "homepage": "https://github.com/koishijs/plugins#readme",
-      "repository": "https://github.com/koishijs/plugins",
-      "bugs": "https://github.com/koishijs/plugins/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "vm",
-      "runner",
-      "code"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-weather",
@@ -5459,35 +5246,9 @@
       "7timer"
     ],
     "portable": true,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-webui",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-webui",
-      "homepage": "https://github.com/koishijs/koishi#readme",
-      "repository": "https://github.com/koishijs/koishi",
-      "bugs": "https://github.com/koishijs/koishi/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "webui"
-    ]
-  },
-  {
-    "name": "koishi-plugin-welcome",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-welcome",
-      "homepage": "https://github.com/koishijs/koishi-plugin-welcome#readme",
-      "repository": "https://github.com/koishijs/koishi-plugin-welcome",
-      "bugs": "https://github.com/koishijs/koishi-plugin-welcome/issues"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-who-at-me",
@@ -5500,7 +5261,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-wolfram-alpha",
@@ -5516,26 +5279,9 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-work",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-work",
-      "homepage": "https://github.com/NWYLZW/koishi-plugin-work#readme",
-      "repository": "https://github.com/NWYLZW/koishi-plugin-work",
-      "bugs": "https://github.com/NWYLZW/koishi-plugin-work/issues"
-    },
-    "keywords": [
-      "bot",
-      "qqbot",
-      "cqhttp",
-      "coolq",
-      "chatbot",
-      "koishi",
-      "plugin",
-      "work"
-    ]
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-wyblacklist",
@@ -5551,7 +5297,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-xff",
@@ -5567,7 +5315,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-xff2",
@@ -5589,7 +5339,9 @@
       "server"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-xiaoai-morningnews",
@@ -5604,7 +5356,9 @@
       "xiaoai"
     ],
     "portable": false,
-    "insecure": false
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ygocard",
@@ -5620,7 +5374,9 @@
       "onebot"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-ygotournament",
@@ -5640,7 +5396,9 @@
       "required:cache-aragami"
     ],
     "portable": false,
-    "insecure": true
+    "insecure": true,
+    "ignored": false,
+    "verified": false
   },
   {
     "name": "koishi-plugin-youtube",
@@ -5656,24 +5414,8 @@
       "plugin"
     ],
     "portable": false,
-    "insecure": false
-  },
-  {
-    "name": "koishi-plugin-yuque",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-yuque"
-    },
-    "keywords": [
-      "Koishi.js",
-      "chatbot",
-      "Koishi",
-      "plugin"
-    ]
-  },
-  {
-    "name": "koishi-plugin-zerobot",
-    "links": {
-      "npm": "https://www.npmjs.com/package/koishi-plugin-zerobot"
-    }
+    "insecure": false,
+    "ignored": false,
+    "verified": false
   }
 ]
