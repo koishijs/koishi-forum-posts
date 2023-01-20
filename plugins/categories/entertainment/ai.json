@@ -1,0 +1,30 @@
+{
+  "shown": [
+    "chatgpt",
+    "davinci-003",
+    "deep-danbooru",
+    "diffsinger-huggingface",
+    "facercg",
+    "genshin-voice",
+    "hlai-ocr",
+    "hlai-painter",
+    "mollyai",
+    "novel-ai-api",
+    "novelai",
+    "@tomlbz/openai",
+    "openchat",
+    "qingyunke-free",
+    "rasa-nlg-dict",
+    "rasa-nlu",
+    "rr-st",
+    "rryth",
+    "sd-extra",
+    "sd-interroage",
+    "sd-switch",
+    "sd-taylor",
+    "wolfram-alpha"
+  ],
+  "hidden": [
+    "genshinvoice-plus"
+  ]
+}

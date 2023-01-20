@@ -1,0 +1,24 @@
+{
+  "shown": [
+    "60snews",
+    "blive",
+    "dailygames",
+    "epic-get-free-game",
+    "freegames-subscribe",
+    "gamenews",
+    "hitokoto",
+    "market-info",
+    "moyu",
+    "rss",
+    "rsshub",
+    "steam-status-subscribe",
+    "@yunkuangao/tianxing",
+    "today-in-history",
+    "todaynews",
+    "weibo-hot",
+    "xiaoai-morningnews"
+  ],
+  "hidden": [
+    "bdynamic"
+  ]
+}

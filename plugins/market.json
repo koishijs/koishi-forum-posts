@@ -1,5 +1,5 @@
 {
-  "timestamp": 1673985095488,
+  "timestamp": 1674237104924,
   "objects": [
     {
       "name": "@koishijs/plugin-help",
@@ -87,7 +87,9 @@
           "required": [
             "console"
           ],
-          "optional": [],
+          "optional": [
+            "assets"
+          ],
           "implements": []
         }
       },
@@ -98,18 +100,18 @@
         "mock"
       ],
       "createdAt": "2022-02-17T18:53:22.336Z",
-      "updatedAt": "2023-01-09T07:28:22.980Z",
+      "updatedAt": "2023-01-20T06:39:34.439Z",
       "verified": true,
       "insecure": false,
       "score": {
-        "final": 0.9780153759012653,
+        "final": 0.985030865731873,
         "detail": {
-          "quality": 0.9962754533945722,
-          "popularity": 0.9478318497072341,
+          "quality": 0.9962179699593244,
+          "popularity": 0.9654136868601891,
           "maintenance": 1
         }
       },
-      "date": "2023-01-09T07:28:22.980Z",
+      "date": "2023-01-20T06:39:34.439Z",
       "links": {
         "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-sandbox",
         "homepage": "https://koishi.chat/plugins/console/sandbox.html",
@@ -126,7 +128,7 @@
           "email": "shigma10826@gmail.com"
         }
       ],
-      "version": "2.5.2",
+      "version": "2.6.1",
       "description": "Test Your Virtual Bot in Console",
       "license": "AGPL-3.0",
       "contributors": [
@@ -137,10 +139,10 @@
       ],
       "portable": true,
       "downloads": {
-        "lastMonth": 724
+        "lastMonth": 808
       },
-      "installSize": 37315,
-      "publishSize": 37315
+      "installSize": 37892,
+      "publishSize": 37892
     },
     {
       "name": "@koishijs/plugin-market",
@@ -168,18 +170,18 @@
         "server"
       ],
       "createdAt": "2022-07-23T16:36:53.172Z",
-      "updatedAt": "2023-01-12T16:19:30.059Z",
+      "updatedAt": "2023-01-20T12:55:02.882Z",
       "verified": true,
       "insecure": false,
       "score": {
-        "final": 0.9753142496481135,
+        "final": 0.9765516518880639,
         "detail": {
-          "quality": 0.9188283988628938,
-          "popularity": 0.9991643249731134,
+          "quality": 0.9224264825093252,
+          "popularity": 0.9995592678381661,
           "maintenance": 1
         }
       },
-      "date": "2023-01-12T16:19:30.059Z",
+      "date": "2023-01-20T12:55:02.882Z",
       "links": {
         "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-market",
         "homepage": "https://koishi.chat/plugins/console/market.html",
@@ -196,7 +198,7 @@
           "email": "shigma10826@gmail.com"
         }
       ],
-      "version": "1.8.10",
+      "version": "1.8.13",
       "description": "Manage your bots and plugins with console",
       "license": "AGPL-3.0",
       "contributors": [
@@ -207,10 +209,10 @@
       ],
       "portable": true,
       "downloads": {
-        "lastMonth": 1556
+        "lastMonth": 1684
       },
-      "installSize": 846559,
-      "publishSize": 283376
+      "installSize": 807476,
+      "publishSize": 284598
     },
     {
       "name": "@koishijs/plugin-database-memory",
@@ -369,18 +371,18 @@
         "webui"
       ],
       "createdAt": "2021-11-11T10:33:06.106Z",
-      "updatedAt": "2023-01-16T08:55:49.957Z",
+      "updatedAt": "2023-01-20T06:39:32.774Z",
       "verified": true,
       "insecure": false,
       "score": {
-        "final": 0.9475760983501228,
+        "final": 0.9477292115173247,
         "detail": {
-          "quality": 0.8258472086441363,
-          "popularity": 0.9995548393922047,
+          "quality": 0.8258389502133421,
+          "popularity": 0.9999438161333053,
           "maintenance": 1
         }
       },
-      "date": "2023-01-16T08:55:49.957Z",
+      "date": "2023-01-20T06:39:32.774Z",
       "links": {
         "npm": "https://www.npmjs.com/package/%40koishijs%2Fplugin-console",
         "homepage": "https://koishi.chat/plugins/console/",
@@ -397,7 +399,7 @@
           "email": "shigma10826@gmail.com"
         }
       ],
-      "version": "5.1.10",
+      "version": "5.1.14",
       "description": "Web User Interface for Koishi",
       "license": "AGPL-3.0",
       "contributors": [
@@ -408,10 +410,10 @@
       ],
       "portable": true,
       "downloads": {
-        "lastMonth": 1682
+        "lastMonth": 2096
       },
-      "installSize": 1913455,
-      "publishSize": 1603346
+      "installSize": 1913555,
+      "publishSize": 1603446
     },
     {
       "name": "@koishijs/plugin-adapter-telegram",
@@ -1521,18 +1523,18 @@
         "manager"
       ],
       "createdAt": "2022-12-09T16:24:04.704Z",
-      "updatedAt": "2023-01-11T07:17:21.326Z",
+      "updatedAt": "2023-01-20T16:59:56.499Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.8058634886651916,
+        "final": 0.8083703007978578,
         "detail": {
-          "quality": 0.9993555077743919,
-          "popularity": 0.7026420908321852,
+          "quality": 0.9993472131581,
+          "popularity": 0.7089153421260694,
           "maintenance": 0.75
         }
       },
-      "date": "2023-01-11T07:17:21.326Z",
+      "date": "2023-01-20T16:59:56.499Z",
       "links": {
         "npm": "https://www.npmjs.com/package/koishi-plugin-market-info",
         "homepage": "https://github.com/koishijs/koishi-plugin-market-info#readme",
@@ -1549,7 +1551,7 @@
           "email": "shigma10826@gmail.com"
         }
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "description": "Koishi plugin market information",
       "license": "MIT",
       "contributors": [
@@ -1560,10 +1562,10 @@
       ],
       "portable": true,
       "downloads": {
-        "lastMonth": 349
+        "lastMonth": 354
       },
-      "installSize": 6447,
-      "publishSize": 6447
+      "installSize": 6530,
+      "publishSize": 6530
     },
     {
       "name": "koishi-plugin-marry",
@@ -1628,6 +1630,75 @@
       },
       "installSize": 13932,
       "publishSize": 13932
+    },
+    {
+      "name": "koishi-plugin-puppeteer",
+      "manifest": {
+        "description": {
+          "en": "Browser service",
+          "zh": "浏览器服务"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": [
+            "puppeteer"
+          ]
+        }
+      },
+      "shortname": "puppeteer",
+      "keywords": [
+        "screenshot",
+        "browser",
+        "headless",
+        "service",
+        "render"
+      ],
+      "createdAt": "2022-08-09T19:31:00.568Z",
+      "updatedAt": "2023-01-19T16:58:58.624Z",
+      "verified": true,
+      "insecure": false,
+      "score": {
+        "final": 0.7692432082802556,
+        "detail": {
+          "quality": 0.2679457350848527,
+          "popularity": 0.9721487193869992,
+          "maintenance": 1
+        }
+      },
+      "date": "2023-01-19T16:58:58.624Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-puppeteer",
+        "homepage": "https://puppeteer.koishi.chat/plugins/puppeteer.html",
+        "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+        "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+      },
+      "publisher": {
+        "username": "shigma",
+        "email": "shigma10826@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "version": "3.4.0",
+      "description": "Browser API service for Koishi",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 852
+      },
+      "installSize": 13169708,
+      "publishSize": 13605
     },
     {
       "name": "@koishijs/plugin-rate-limit",
@@ -1829,75 +1900,6 @@
       "publishSize": 6591
     },
     {
-      "name": "koishi-plugin-puppeteer",
-      "manifest": {
-        "description": {
-          "en": "Browser service",
-          "zh": "浏览器服务"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": [
-            "puppeteer"
-          ]
-        }
-      },
-      "shortname": "puppeteer",
-      "keywords": [
-        "screenshot",
-        "browser",
-        "headless",
-        "service",
-        "render"
-      ],
-      "createdAt": "2022-08-09T19:31:00.568Z",
-      "updatedAt": "2023-01-16T16:03:38.721Z",
-      "verified": true,
-      "insecure": false,
-      "score": {
-        "final": 0.7551647564813222,
-        "detail": {
-          "quality": 0.2679444489484111,
-          "popularity": 0.9369535544919972,
-          "maintenance": 1
-        }
-      },
-      "date": "2023-01-16T16:03:38.721Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-puppeteer",
-        "homepage": "https://puppeteer.koishi.chat/plugins/puppeteer.html",
-        "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
-        "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
-      },
-      "publisher": {
-        "username": "shigma",
-        "email": "shigma10826@gmail.com"
-      },
-      "maintainers": [
-        {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        }
-      ],
-      "version": "3.3.3",
-      "description": "Browser API service for Koishi",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 685
-      },
-      "installSize": 13169756,
-      "publishSize": 13438
-    },
-    {
       "name": "koishi-plugin-genshinvoice-plus",
       "manifest": {
         "description": {
@@ -1913,18 +1915,18 @@
       "shortname": "genshinvoice-plus",
       "keywords": [],
       "createdAt": "2022-12-30T00:57:24.170Z",
-      "updatedAt": "2023-01-10T03:48:04.478Z",
+      "updatedAt": "2023-01-18T16:31:45.299Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.7500118623182463,
+        "final": 0.7519780487548002,
         "detail": {
-          "quality": 0.9995554988199343,
-          "popularity": 0.9378630316806652,
+          "quality": 0.9995514006507904,
+          "popularity": 0.942781571398908,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-10T03:48:04.478Z",
+      "date": "2023-01-18T16:31:45.299Z",
       "links": {
         "npm": "https://www.npmjs.com/package/koishi-plugin-genshinvoice-plus"
       },
@@ -1938,16 +1940,78 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.1.6",
+      "version": "1.1.11",
       "description": "~~调用天河二号推理集群API，比梦梦的更耐用！~~（炸了，去用梦梦的吧，我是傻逼",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 688
+        "lastMonth": 705
       },
-      "installSize": 4446,
-      "publishSize": 4446
+      "installSize": 4487,
+      "publishSize": 4487
+    },
+    {
+      "name": "koishi-plugin-who-at-me",
+      "manifest": {
+        "description": {
+          "en": "谁他妈趁我不在at我"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "who-at-me",
+      "keywords": [],
+      "createdAt": "2022-12-29T04:45:46.804Z",
+      "updatedAt": "2023-01-19T07:48:20.682Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.7503660732790776,
+        "detail": {
+          "quality": 0.9995405055999015,
+          "popularity": 0.9387598039977676,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-19T07:48:20.682Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-who-at-me"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.1.12",
+      "description": "谁他妈趁我不在at我",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 691
+      },
+      "installSize": 4596,
+      "publishSize": 4596
     },
     {
       "name": "koishi-plugin-rsshub",
@@ -2363,6 +2427,71 @@
       "publishSize": 43506
     },
     {
+      "name": "koishi-plugin-gocqhttp",
+      "manifest": {
+        "description": {
+          "zh": "[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 启动器",
+          "en": "[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) launcher"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [
+            "console"
+          ],
+          "implements": []
+        }
+      },
+      "shortname": "gocqhttp",
+      "keywords": [
+        "launcher"
+      ],
+      "createdAt": "2022-01-11T08:45:08.034Z",
+      "updatedAt": "2023-01-18T16:11:40.028Z",
+      "verified": true,
+      "insecure": false,
+      "score": {
+        "final": 0.7160908603070161,
+        "detail": {
+          "quality": 0.23714905772394626,
+          "popularity": 0.8623653574745807,
+          "maintenance": 1
+        }
+      },
+      "date": "2023-01-18T16:11:40.028Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-gocqhttp",
+        "homepage": "https://github.com/koishijs/koishi-plugin-gocqhttp",
+        "repository": "https://github.com/koishijs/koishi-plugin-gocqhttp",
+        "bugs": "https://github.com/koishijs/koishi/issues"
+      },
+      "publisher": {
+        "username": "shigma",
+        "email": "shigma10826@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "version": "3.3.1",
+      "description": "go-cqhttp launcher for Koishi",
+      "license": "AGPL-3.0",
+      "contributors": [
+        {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 521
+      },
+      "installSize": 14390664,
+      "publishSize": 76958
+    },
+    {
       "name": "koishi-plugin-openchat",
       "manifest": {
         "description": {
@@ -2422,58 +2551,6 @@
       },
       "installSize": 5465,
       "publishSize": 5465
-    },
-    {
-      "name": "koishi-plugin-who-at-me",
-      "manifest": {
-        "description": {
-          "en": "谁他妈趁我不在at我"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "who-at-me",
-      "keywords": [],
-      "createdAt": "2022-12-29T04:45:46.804Z",
-      "updatedAt": "2023-01-14T12:53:13.051Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.7029527705141455,
-        "detail": {
-          "quality": 0.9995446037243756,
-          "popularity": 0.8202234734920821,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-14T12:53:13.051Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-who-at-me"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.1.5",
-      "description": "谁他妈趁我不在at我",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 463
-      },
-      "installSize": 4555,
-      "publishSize": 4555
     },
     {
       "name": "@koishijs/plugin-analytics",
@@ -2672,69 +2749,66 @@
       "publishSize": 12263
     },
     {
-      "name": "koishi-plugin-gocqhttp",
+      "name": "koishi-plugin-blacklist",
       "manifest": {
         "description": {
-          "zh": "[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 启动器",
-          "en": "[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) launcher"
+          "en": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限"
         },
         "locales": [],
         "service": {
           "required": [],
-          "optional": [
-            "console"
-          ],
+          "optional": [],
           "implements": []
         }
       },
-      "shortname": "gocqhttp",
+      "shortname": "blacklist",
       "keywords": [
-        "launcher"
+        "eula"
       ],
-      "createdAt": "2022-01-11T08:45:08.034Z",
-      "updatedAt": "2023-01-16T16:58:29.386Z",
-      "verified": true,
+      "createdAt": "2023-01-16T15:25:13.586Z",
+      "updatedAt": "2023-01-18T10:32:50.312Z",
+      "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.6975794552913174,
+        "final": 0.6939484663439301,
         "detail": {
-          "quality": 0.23714365078706948,
-          "popularity": 0.8160909001379912,
-          "maintenance": 1
+          "quality": 0.9989257773906417,
+          "popularity": 0.6106768328168443,
+          "maintenance": 0.5
         }
       },
-      "date": "2023-01-16T16:58:29.386Z",
+      "date": "2023-01-18T10:32:50.312Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-gocqhttp",
-        "homepage": "https://github.com/koishijs/koishi-plugin-gocqhttp",
-        "repository": "https://github.com/koishijs/koishi-plugin-gocqhttp",
-        "bugs": "https://github.com/koishijs/koishi/issues"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-blacklist",
+        "homepage": "https://github.com/initialencounter/mykoishi/blob/main/blacklist#readme.md",
+        "repository": "https://github.com/initialencounter/mykoishi",
+        "bugs": "https://github.com/initialencounter/mykoishi/issues"
       },
       "publisher": {
-        "username": "shigma",
-        "email": "shigma10826@gmail.com"
+        "username": "initencounter",
+        "email": "2911583893@qq.com"
       },
       "maintainers": [
         {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
+          "username": "initencounter",
+          "email": "2911583893@qq.com"
         }
       ],
-      "version": "3.3.0",
-      "description": "go-cqhttp launcher for Koishi",
-      "license": "AGPL-3.0",
+      "version": "2.0.1",
+      "description": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限",
+      "license": "MIT",
       "contributors": [
         {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com"
+          "name": "initencounter",
+          "email": "2911583893@qq.com"
         }
       ],
       "portable": false,
       "downloads": {
-        "lastMonth": 458
+        "lastMonth": 284
       },
-      "installSize": 14390892,
-      "publishSize": 77186
+      "installSize": 10748,
+      "publishSize": 10748
     },
     {
       "name": "@koishijs/plugin-adapter-qqguild",
@@ -3113,6 +3187,125 @@
       "publishSize": 4643
     },
     {
+      "name": "koishi-plugin-genshin-resin",
+      "manifest": {
+        "description": {
+          "zh": "记录并计算树脂溢出时间，无需 Cookie 等配置"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "genshin-resin",
+      "keywords": [
+        "yuanshen"
+      ],
+      "createdAt": "2023-01-13T22:47:11.491Z",
+      "updatedAt": "2023-01-18T20:49:14.340Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.681834480047316,
+        "detail": {
+          "quality": 0.9994152710206601,
+          "popularity": 0.5800247468527949,
+          "maintenance": 0.5
+        }
+      },
+      "date": "2023-01-18T20:49:14.340Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-resin",
+        "homepage": "https://github.com/Lipraty/koishi-plugin-genshin-resin#readme",
+        "repository": "https://github.com/Lipraty/koishi-plugin-genshin-resin",
+        "bugs": "https://github.com/Lipraty/koishi-plugin-genshin-resin/issues"
+      },
+      "publisher": {
+        "username": "lipraty",
+        "email": "sis1943@outlook.com"
+      },
+      "maintainers": [
+        {
+          "username": "lipraty",
+          "email": "sis1943@outlook.com"
+        }
+      ],
+      "version": "0.0.5",
+      "description": "GenshinImpact resin manage",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Lipraty",
+          "email": "i@lonay.me"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 265
+      },
+      "installSize": 5849,
+      "publishSize": 5849
+    },
+    {
+      "name": "koishi-plugin-aria2",
+      "manifest": {
+        "description": {
+          "en": "使用Koishi控制你的Aria2实现增删查"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "aria2",
+      "keywords": [],
+      "createdAt": "2023-01-09T07:35:15.369Z",
+      "updatedAt": "2023-01-18T16:31:11.853Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.6816409794915734,
+        "detail": {
+          "quality": 0.9983737238225647,
+          "popularity": 0.7678221558620102,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:11.853Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-aria2"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.10",
+      "description": "使用Koishi控制你的Aria2实现增删查",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 406
+      },
+      "installSize": 16276,
+      "publishSize": 16276
+    },
+    {
       "name": "@koishijs/plugin-schedule",
       "manifest": {
         "description": {
@@ -3179,110 +3372,6 @@
       },
       "installSize": 22323,
       "publishSize": 22323
-    },
-    {
-      "name": "koishi-plugin-pack-my-message",
-      "manifest": {
-        "description": {
-          "en": "是一个消息打包姬!"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "pack-my-message",
-      "keywords": [],
-      "createdAt": "2022-12-17T04:54:37.480Z",
-      "updatedAt": "2022-12-18T23:52:57.504Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.6748556017578913,
-        "detail": {
-          "quality": 0.9997842232831451,
-          "popularity": 0.7498008369323694,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2022-12-18T23:52:57.504Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-pack-my-message"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.4",
-      "description": "是一个消息打包姬!",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 389
-      },
-      "installSize": 2158,
-      "publishSize": 2158
-    },
-    {
-      "name": "koishi-plugin-aria2",
-      "manifest": {
-        "description": {
-          "en": "使用Koishi控制你的Aria2实现增删查"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "aria2",
-      "keywords": [],
-      "createdAt": "2023-01-09T07:35:15.369Z",
-      "updatedAt": "2023-01-10T04:08:19.600Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.6722240920937022,
-        "detail": {
-          "quality": 0.9983778171632237,
-          "popularity": 0.7442768673618374,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-10T04:08:19.600Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-aria2"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.5",
-      "description": "使用Koishi控制你的Aria2实现增删查",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 384
-      },
-      "installSize": 16235,
-      "publishSize": 16235
     },
     {
       "name": "koishi-plugin-respondent",
@@ -3432,18 +3521,18 @@
       "shortname": "epic-get-free-game",
       "keywords": [],
       "createdAt": "2023-01-06T10:50:55.187Z",
-      "updatedAt": "2023-01-10T03:47:59.635Z",
+      "updatedAt": "2023-01-18T16:31:28.578Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.6473568808420027,
+        "final": 0.6522241437955483,
         "detail": {
-          "quality": 0.7563343036116054,
-          "popularity": 0.8636414743963026,
+          "quality": 0.7563312026473175,
+          "popularity": 0.8758119575033826,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-10T03:47:59.635Z",
+      "date": "2023-01-18T16:31:28.578Z",
       "links": {
         "npm": "https://www.npmjs.com/package/koishi-plugin-epic-get-free-game"
       },
@@ -3457,16 +3546,21 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.0.7",
+      "version": "1.0.12",
       "description": "**能用了能用了能用了能用了能用了**<>EPIC喜加一通知，支持自动推送/手动获取两种方式",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 523
+        "lastMonth": 543
       },
-      "installSize": 2792718,
-      "publishSize": 7487
+      "installSize": 2792759,
+      "publishSize": 7528
     },
     {
       "name": "koishi-plugin-steaminfo",
@@ -3613,18 +3707,18 @@
       "shortname": "video-parser",
       "keywords": [],
       "createdAt": "2023-01-04T06:35:36.256Z",
-      "updatedAt": "2023-01-10T03:48:08.936Z",
+      "updatedAt": "2023-01-18T16:32:50.143Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.6410414643416126,
+        "final": 0.6454387117619063,
         "detail": {
-          "quality": 0.9995620959079969,
-          "popularity": 0.6654320889230337,
+          "quality": 0.999557997711805,
+          "popularity": 0.6764282811209119,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-10T03:48:08.936Z",
+      "date": "2023-01-18T16:32:50.143Z",
       "links": {
         "npm": "https://www.npmjs.com/package/koishi-plugin-video-parser"
       },
@@ -3638,16 +3732,21 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.0.7",
+      "version": "1.0.12",
       "description": "是一个视频链接解析喵~",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 321
+        "lastMonth": 329
       },
-      "installSize": 4380,
-      "publishSize": 4380
+      "installSize": 4421,
+      "publishSize": 4421
     },
     {
       "name": "koishi-plugin-freegames-subscribe",
@@ -4614,6 +4713,63 @@
       },
       "installSize": 6712,
       "publishSize": 6712
+    },
+    {
+      "name": "koishi-plugin-hlai-ocr",
+      "manifest": {
+        "description": {
+          "en": "幻灵云OCR服务 免费 开箱即用"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "hlai-ocr",
+      "keywords": [],
+      "createdAt": "2023-01-14T06:32:21.147Z",
+      "updatedAt": "2023-01-18T16:31:49.912Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.6114069154324246,
+        "detail": {
+          "quality": 0.9993305241989935,
+          "popularity": 0.5915193954318165,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:49.912Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-ocr"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.8",
+      "description": "幻灵云OCR服务 免费 开箱即用",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 272
+      },
+      "installSize": 6697,
+      "publishSize": 6697
     },
     {
       "name": "@koishijs/plugin-broadcast",
@@ -6004,68 +6160,6 @@
       "publishSize": 1105763
     },
     {
-      "name": "koishi-plugin-blacklist",
-      "manifest": {
-        "description": {
-          "en": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "blacklist",
-      "keywords": [
-        "eula"
-      ],
-      "createdAt": "2023-01-16T15:25:13.586Z",
-      "updatedAt": "2023-01-17T15:39:53.901Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.5707529943556003,
-        "detail": {
-          "quality": 0.9988970087425233,
-          "popularity": 0.30270972933210843,
-          "maintenance": 0.5
-        }
-      },
-      "date": "2023-01-17T15:39:53.901Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-blacklist",
-        "homepage": "https://github.com/initialencounter/mykoishi/blob/main/blacklist#readme.md",
-        "repository": "https://github.com/initialencounter/mykoishi",
-        "bugs": "https://github.com/initialencounter/mykoishi/issues"
-      },
-      "publisher": {
-        "username": "initencounter",
-        "email": "2911583893@qq.com"
-      },
-      "maintainers": [
-        {
-          "username": "initencounter",
-          "email": "2911583893@qq.com"
-        }
-      ],
-      "version": "1.3.1",
-      "description": "黑名单+[EULA](https://github.com/Lipraty/koishi-plugin-eula/),剥夺违规用户权限",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "initencounter",
-          "email": "2911583893@qq.com"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 125
-      },
-      "installSize": 11036,
-      "publishSize": 11036
-    },
-    {
       "name": "koishi-plugin-star-history",
       "manifest": {
         "description": {
@@ -6124,6 +6218,63 @@
       },
       "installSize": 3620,
       "publishSize": 3620
+    },
+    {
+      "name": "koishi-plugin-hlai-painter",
+      "manifest": {
+        "description": {
+          "en": "幻灵云绘画, 支持多种风格模型, 无需配置, 安装即用"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "hlai-painter",
+      "keywords": [],
+      "createdAt": "2023-01-14T06:32:23.684Z",
+      "updatedAt": "2023-01-18T16:31:52.524Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.5626778099433112,
+        "detail": {
+          "quality": 0.9989991012336542,
+          "popularity": 0.46994519893303754,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:52.524Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-painter"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "幻灵云绘画, 支持多种风格模型, 无需配置, 安装即用",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 204
+      },
+      "installSize": 10014,
+      "publishSize": 10014
     },
     {
       "name": "koishi-plugin-brainfuck",
@@ -8135,68 +8286,6 @@
       "publishSize": 3880
     },
     {
-      "name": "koishi-plugin-genshin-resin",
-      "manifest": {
-        "description": {
-          "zh": "记录并计算树脂溢出时间，无需 Cookie 等配置"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "genshin-resin",
-      "keywords": [
-        "yuanshen"
-      ],
-      "createdAt": "2023-01-13T22:47:11.491Z",
-      "updatedAt": "2023-01-14T08:59:43.522Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.5145925381799762,
-        "detail": {
-          "quality": 0.9810963579798901,
-          "popularity": 0.17565907696502286,
-          "maintenance": 0.5
-        }
-      },
-      "date": "2023-01-14T08:59:43.522Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-resin",
-        "homepage": "https://github.com/Lipraty/koishi-plugin-genshin-resin#readme",
-        "repository": "https://github.com/Lipraty/koishi-plugin-genshin-resin",
-        "bugs": "https://github.com/Lipraty/koishi-plugin-genshin-resin/issues"
-      },
-      "publisher": {
-        "username": "lipraty",
-        "email": "sis1943@outlook.com"
-      },
-      "maintainers": [
-        {
-          "username": "lipraty",
-          "email": "sis1943@outlook.com"
-        }
-      ],
-      "version": "0.0.4",
-      "description": "GenshinImpact resin manage",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "Lipraty",
-          "email": "i@lonay.me"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 71
-      },
-      "installSize": 190846,
-      "publishSize": 6366
-    },
-    {
       "name": "koishi-plugin-javbus",
       "manifest": {
         "description": {
@@ -8256,6 +8345,139 @@
       },
       "installSize": 5845,
       "publishSize": 5845
+    },
+    {
+      "name": "koishi-plugin-screenshot",
+      "manifest": {
+        "description": {
+          "en": "Take screenshots of any website",
+          "zh": "网页截图"
+        },
+        "locales": [],
+        "service": {
+          "required": [
+            "puppeteer"
+          ],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "screenshot",
+      "keywords": [
+        "browser",
+        "headless",
+        "service",
+        "render",
+        "puppeteer"
+      ],
+      "createdAt": "2022-08-09T19:43:38.277Z",
+      "updatedAt": "2023-01-19T07:07:59.054Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.5139673143723171,
+        "detail": {
+          "quality": 0.9372690482684537,
+          "popularity": 0.2069664997294526,
+          "maintenance": 0.5
+        }
+      },
+      "date": "2023-01-19T07:07:59.054Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-screenshot",
+        "homepage": "https://puppeteer.koishi.chat/plugins/screenshot.html",
+        "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
+        "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
+      },
+      "publisher": {
+        "username": "shigma",
+        "email": "shigma10826@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "version": "1.0.4",
+      "description": "Take screenshots of any website",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 84
+      },
+      "installSize": 647849,
+      "publishSize": 8393
+    },
+    {
+      "name": "koishi-plugin-cron",
+      "manifest": {
+        "description": {
+          "en": "Scheduled Task Service",
+          "zh": "计划任务服务"
+        },
+        "locales": [],
+        "category": "core",
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "cron",
+      "keywords": [
+        "schedule"
+      ],
+      "createdAt": "2023-01-19T07:07:00.763Z",
+      "updatedAt": "2023-01-19T09:01:14.117Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.5126654840201946,
+        "detail": {
+          "quality": 0.9811394290554086,
+          "popularity": 0.17080913825893015,
+          "maintenance": 0.5
+        }
+      },
+      "date": "2023-01-19T09:01:14.117Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-cron",
+        "homepage": "https://cron.koishi.chat/",
+        "repository": "https://github.com/koishijs/koishi-plugin-cron",
+        "bugs": "https://github.com/koishijs/koishi-plugin-cron/issues"
+      },
+      "publisher": {
+        "username": "shigma",
+        "email": "shigma10826@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "version": "2.0.1",
+      "description": "Cron plugin for Koishi",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Shigma",
+          "email": "shigma10826@gmail.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 69
+      },
+      "installSize": 190407,
+      "publishSize": 5927
     },
     {
       "name": "koishi-plugin-currency",
@@ -8320,10 +8542,10 @@
       "publishSize": 25854
     },
     {
-      "name": "koishi-plugin-sd-interroage",
+      "name": "koishi-plugin-ekwing-fucker",
       "manifest": {
         "description": {
-          "en": "[此插件已弃用，不再更新。](https://simx.elchapo.cn/Koishi/maiko.png)"
+          "en": "去你妈的翼课网，全自动获取听说答案"
         },
         "locales": [],
         "service": {
@@ -8332,49 +8554,49 @@
           "implements": []
         }
       },
-      "shortname": "sd-interroage",
+      "shortname": "ekwing-fucker",
       "keywords": [],
-      "createdAt": "2022-12-13T01:15:08.336Z",
-      "updatedAt": "2023-01-09T06:16:12.797Z",
+      "createdAt": "2023-01-07T10:19:37.092Z",
+      "updatedAt": "2023-01-18T16:31:26.376Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.5119839981079336,
+        "final": 0.5119561798174388,
         "detail": {
-          "quality": 0.99926656909203,
+          "quality": 0.9991738414570471,
           "popularity": 0.3430100684508116,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-09T06:16:12.797Z",
+      "date": "2023-01-18T16:31:26.376Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-sd-interroage"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-ekwing-fucker"
       },
       "publisher": {
-        "username": "mirror_cy",
-        "email": "1358688418@qq.com"
+        "username": "huanlin",
+        "email": "linsmc@126.com"
       },
       "maintainers": [
         {
-          "username": "mirror_cy",
-          "email": "1358688418@qq.com"
+          "username": "huanlin",
+          "email": "linsmc@126.com"
         }
       ],
-      "version": "6.6.6",
-      "description": "[此插件已弃用，不再更新。](https://simx.elchapo.cn/Koishi/maiko.png)",
+      "version": "1.0.7",
+      "description": "去你妈的翼课网，全自动获取听说答案",
       "license": "MIT",
       "contributors": [
         {
-          "name": "42",
-          "email": "mirrorcy@vip.qq.com"
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
         }
       ],
       "portable": false,
       "downloads": {
         "lastMonth": 143
       },
-      "installSize": 7337,
-      "publishSize": 7337
+      "installSize": 8265,
+      "publishSize": 8265
     },
     {
       "name": "koishi-plugin-v2ex",
@@ -8499,127 +8721,6 @@
       },
       "installSize": 2534068,
       "publishSize": 26177
-    },
-    {
-      "name": "koishi-plugin-ekwing-fucker",
-      "manifest": {
-        "description": {
-          "en": "去你妈的翼课网，全自动获取听说答案"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "ekwing-fucker",
-      "keywords": [],
-      "createdAt": "2023-01-07T10:19:37.092Z",
-      "updatedAt": "2023-01-10T03:47:57.514Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.5084159731246221,
-        "detail": {
-          "quality": 0.9991778381604063,
-          "popularity": 0.3341565541912505,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-10T03:47:57.514Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-ekwing-fucker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.2",
-      "description": "去你妈的翼课网，全自动获取听说答案",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 139
-      },
-      "installSize": 8225,
-      "publishSize": 8225
-    },
-    {
-      "name": "koishi-plugin-screenshot",
-      "manifest": {
-        "description": {
-          "en": "Take screenshots of any website",
-          "zh": "网页截图"
-        },
-        "locales": [],
-        "service": {
-          "required": [
-            "puppeteer"
-          ],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "screenshot",
-      "keywords": [
-        "browser",
-        "headless",
-        "service",
-        "render",
-        "puppeteer"
-      ],
-      "createdAt": "2022-08-09T19:43:38.277Z",
-      "updatedAt": "2023-01-06T16:20:01.469Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.5072434935734433,
-        "detail": {
-          "quality": 0.9372690482684537,
-          "popularity": 0.19015694773226802,
-          "maintenance": 0.5
-        }
-      },
-      "date": "2023-01-06T16:20:01.469Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-screenshot",
-        "homepage": "https://puppeteer.koishi.chat/plugins/screenshot.html",
-        "repository": "https://github.com/koishijs/koishi-plugin-puppeteer",
-        "bugs": "https://github.com/koishijs/koishi-plugin-puppeteer/issues"
-      },
-      "publisher": {
-        "username": "shigma",
-        "email": "shigma10826@gmail.com"
-      },
-      "maintainers": [
-        {
-          "username": "shigma",
-          "email": "shigma10826@gmail.com"
-        }
-      ],
-      "version": "1.0.3",
-      "description": "Take screenshots of any website",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "Shigma",
-          "email": "shigma10826@gmail.com"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 77
-      },
-      "installSize": 647849,
-      "publishSize": 8393
     },
     {
       "name": "koishi-plugin-ffxiv-macrodict",
@@ -9002,6 +9103,120 @@
       "publishSize": 36220
     },
     {
+      "name": "koishi-plugin-plp",
+      "manifest": {
+        "description": {
+          "en": "漂流瓶~"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "plp",
+      "keywords": [],
+      "createdAt": "2023-01-10T13:33:55.818Z",
+      "updatedAt": "2023-01-18T16:32:17.402Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4950706969391451,
+        "detail": {
+          "quality": 0.9996528602669449,
+          "popularity": 0.30043709714765415,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:17.402Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-plp"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "漂流瓶~",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 124
+      },
+      "installSize": 3472,
+      "publishSize": 3472
+    },
+    {
+      "name": "koishi-plugin-pack-my-message",
+      "manifest": {
+        "description": {
+          "en": "是一个消息打包姬!"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "pack-my-message",
+      "keywords": [],
+      "createdAt": "2022-12-17T04:54:37.480Z",
+      "updatedAt": "2023-01-18T16:32:10.511Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4941987265892835,
+        "detail": {
+          "quality": 0.9997810239787496,
+          "popularity": 0.2981610484891466,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:10.511Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-pack-my-message"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "是一个消息打包姬!",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 123
+      },
+      "installSize": 2190,
+      "publishSize": 2190
+    },
+    {
       "name": "koishi-plugin-splatoon",
       "manifest": {
         "description": {
@@ -9057,6 +9272,66 @@
       },
       "installSize": 2328,
       "publishSize": 2328
+    },
+    {
+      "name": "koishi-plugin-adapter-discourse",
+      "manifest": {
+        "description": {
+          "en": "Discourse adapter for Koishi"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "adapter-discourse",
+      "keywords": [],
+      "createdAt": "2023-01-19T15:59:13.118Z",
+      "updatedAt": "2023-01-19T15:59:13.118Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.49379503320838736,
+        "detail": {
+          "quality": 0.9377028230031335,
+          "popularity": 0.15621046576861825,
+          "maintenance": 0.5
+        }
+      },
+      "date": "2023-01-19T15:59:13.118Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-discourse",
+        "homepage": "https://github.com/Anillc/koishi-plugin-adapter-discourse#readme",
+        "repository": "https://github.com/Anillc/koishi-plugin-adapter-discourse",
+        "bugs": "https://github.com/Anillc/koishi-plugin-adapter-discourse/issues"
+      },
+      "publisher": {
+        "username": "anillc",
+        "email": "void@anillc.cn"
+      },
+      "maintainers": [
+        {
+          "username": "anillc",
+          "email": "void@anillc.cn"
+        }
+      ],
+      "version": "0.0.1",
+      "description": "Discourse adapter for Koishi",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Anillc",
+          "email": "void@anillc.cn"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 63
+      },
+      "installSize": 643222,
+      "publishSize": 16979
     },
     {
       "name": "koishi-plugin-adapter-wecom",
@@ -9254,58 +9529,6 @@
       },
       "installSize": 11256803,
       "publishSize": 75620
-    },
-    {
-      "name": "koishi-plugin-plp",
-      "manifest": {
-        "description": {
-          "en": "漂流瓶~"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "plp",
-      "keywords": [],
-      "createdAt": "2023-01-10T13:33:55.818Z",
-      "updatedAt": "2023-01-10T13:36:39.177Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.48682996504580955,
-        "detail": {
-          "quality": 0.9996569588520741,
-          "popularity": 0.2798321934754683,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-10T13:36:39.177Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-plp"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.2",
-      "description": "漂流瓶~",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 115
-      },
-      "installSize": 3431,
-      "publishSize": 3431
     },
     {
       "name": "@myrtus/koishi-plugin-tool",
@@ -9555,6 +9778,67 @@
       "publishSize": 215451
     },
     {
+      "name": "koishi-plugin-adapter-matrix",
+      "manifest": {
+        "description": {
+          "en": "Matrix Adapter for koishi"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": [
+            "adapter"
+          ]
+        }
+      },
+      "shortname": "adapter-matrix",
+      "keywords": [],
+      "createdAt": "2022-04-11T16:47:43.231Z",
+      "updatedAt": "2023-01-18T12:03:17.204Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.48006402647210433,
+        "detail": {
+          "quality": 0.9871522461754119,
+          "popularity": 0.08479588154870196,
+          "maintenance": 0.5
+        }
+      },
+      "date": "2023-01-18T12:03:17.204Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-matrix",
+        "homepage": "https://github.com/Anillc/koishi-plugin-adapter-matrix#readme",
+        "repository": "https://github.com/Anillc/koishi-plugin-adapter-matrix",
+        "bugs": "https://github.com/Anillc/koishi-plugin-adapter-matrix/issues"
+      },
+      "publisher": {
+        "username": "anillc",
+        "email": "void@anillc.cn"
+      },
+      "maintainers": [
+        {
+          "username": "anillc",
+          "email": "void@anillc.cn"
+        }
+      ],
+      "version": "3.0.0",
+      "description": "Matrix Adapter for koishi",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "anillc"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 34
+      },
+      "installSize": 129310,
+      "publishSize": 62204
+    },
+    {
       "name": "koishi-plugin-ffxiv-lodestone",
       "manifest": {
         "description": {
@@ -9758,127 +10042,6 @@
       },
       "installSize": 695729,
       "publishSize": 3945
-    },
-    {
-      "name": "koishi-plugin-qingyunke-free",
-      "manifest": {
-        "description": {
-          "en": "Please read chinese description",
-          "zh": "对接青云客,使用免费key,无需配置 脑残都能用！(已修复"
-        },
-        "locales": [
-          "zh"
-        ],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "qingyunke-free",
-      "keywords": [],
-      "createdAt": "2022-11-12T15:55:23.025Z",
-      "updatedAt": "2022-12-10T17:25:46.552Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.47478542552644426,
-        "detail": {
-          "quality": 0.9998008198390027,
-          "popularity": 0.24961294893685862,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2022-12-10T17:25:46.552Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-qingyunke-free"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.2.2",
-      "description": "对接青云客,使用免费key,无需配置 脑残都能用！(已修复",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "多玩幻灵qwq"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 102
-      },
-      "installSize": 1992,
-      "publishSize": 1992
-    },
-    {
-      "name": "koishi-plugin-order-picker",
-      "manifest": {
-        "description": {
-          "en": "Koishi plugin for picking order at MaidCafe."
-        },
-        "locales": [],
-        "service": {
-          "required": [
-            "cache-aragami"
-          ],
-          "optional": [],
-          "implements": []
-        },
-        "hidden": true
-      },
-      "shortname": "order-picker",
-      "keywords": [],
-      "createdAt": "2021-12-22T17:20:35.976Z",
-      "updatedAt": "2023-01-09T06:04:27.473Z",
-      "verified": false,
-      "insecure": true,
-      "score": {
-        "final": 0.47389361171015854,
-        "detail": {
-          "quality": 0.3942104008138868,
-          "popularity": 0.8890762286649813,
-          "maintenance": 0
-        }
-      },
-      "date": "2023-01-09T06:04:27.473Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-order-picker",
-        "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-order-picker",
-        "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-order-picker/issues"
-      },
-      "publisher": {
-        "username": "nanahira",
-        "email": "nanahira@momobako.com"
-      },
-      "maintainers": [
-        {
-          "username": "nanahira",
-          "email": "nanahira@momobako.com"
-        }
-      ],
-      "version": "6.5.2",
-      "description": "Koishi plugin for picking order at MaidCafe.",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "Nanahira",
-          "email": "nanahira@momobako.com"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 567
-      },
-      "installSize": 9308705,
-      "publishSize": 26145
     },
     {
       "name": "koishi-plugin-wolfram-alpha",
@@ -10127,6 +10290,68 @@
       "publishSize": 32427
     },
     {
+      "name": "koishi-plugin-order-picker",
+      "manifest": {
+        "description": {
+          "en": "Koishi plugin for picking order at MaidCafe."
+        },
+        "locales": [],
+        "service": {
+          "required": [
+            "cache-aragami"
+          ],
+          "optional": [],
+          "implements": []
+        },
+        "hidden": true
+      },
+      "shortname": "order-picker",
+      "keywords": [],
+      "createdAt": "2021-12-22T17:20:35.976Z",
+      "updatedAt": "2023-01-19T14:19:04.958Z",
+      "verified": false,
+      "insecure": true,
+      "score": {
+        "final": 0.4719695323704556,
+        "detail": {
+          "quality": 0.3942103219718145,
+          "popularity": 0.884266089447278,
+          "maintenance": 0
+        }
+      },
+      "date": "2023-01-19T14:19:04.958Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-order-picker",
+        "homepage": "https://code.mycard.moe/3rdeye/koishi-plugin-order-picker",
+        "bugs": "https://code.mycard.moe/3rdeye/koishi-plugin-order-picker/issues"
+      },
+      "publisher": {
+        "username": "nanahira",
+        "email": "nanahira@momobako.com"
+      },
+      "maintainers": [
+        {
+          "username": "nanahira",
+          "email": "nanahira@momobako.com"
+        }
+      ],
+      "version": "6.5.4",
+      "description": "Koishi plugin for picking order at MaidCafe.",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "Nanahira",
+          "email": "nanahira@momobako.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 558
+      },
+      "installSize": 9308707,
+      "publishSize": 26147
+    },
+    {
       "name": "koishi-plugin-mollyai",
       "manifest": {
         "description": {
@@ -10256,65 +10481,61 @@
       "publishSize": 7961
     },
     {
-      "name": "koishi-plugin-adapter-matrix",
+      "name": "koishi-plugin-qingyunke-free",
       "manifest": {
         "description": {
-          "en": "Matrix Adapter for koishi"
+          "en": "对接青云客免费api"
         },
         "locales": [],
         "service": {
           "required": [],
           "optional": [],
-          "implements": [
-            "adapter"
-          ]
+          "implements": []
         }
       },
-      "shortname": "adapter-matrix",
+      "shortname": "qingyunke-free",
       "keywords": [],
-      "createdAt": "2022-04-11T16:47:43.231Z",
-      "updatedAt": "2022-11-18T16:00:58.060Z",
+      "createdAt": "2022-11-12T15:55:23.025Z",
+      "updatedAt": "2023-01-18T16:32:19.480Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.4708773851932214,
+        "final": 0.47103364029635253,
         "detail": {
-          "quality": 0.9896871459385468,
-          "popularity": 0.059928103529143524,
-          "maintenance": 0.5
+          "quality": 0.9998283147396014,
+          "popularity": 0.24021286468618022,
+          "maintenance": 0.25
         }
       },
-      "date": "2022-11-18T16:00:58.060Z",
+      "date": "2023-01-18T16:32:19.480Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-adapter-matrix",
-        "homepage": "https://github.com/Anillc/koishi-plugin-adapter-matrix#readme",
-        "repository": "https://github.com/Anillc/koishi-plugin-adapter-matrix",
-        "bugs": "https://github.com/Anillc/koishi-plugin-adapter-matrix/issues"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-qingyunke-free"
       },
       "publisher": {
-        "username": "anillc",
-        "email": "void@anillc.cn"
+        "username": "huanlin",
+        "email": "linsmc@126.com"
       },
       "maintainers": [
         {
-          "username": "anillc",
-          "email": "void@anillc.cn"
+          "username": "huanlin",
+          "email": "linsmc@126.com"
         }
       ],
-      "version": "2.0.2",
-      "description": "Matrix Adapter for koishi",
+      "version": "1.2.5",
+      "description": "对接青云客免费api",
       "license": "MIT",
       "contributors": [
         {
-          "name": "anillc"
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
         }
       ],
       "portable": false,
       "downloads": {
-        "lastMonth": 24
+        "lastMonth": 98
       },
-      "installSize": 103664,
-      "publishSize": 36558
+      "installSize": 1717,
+      "publishSize": 1717
     },
     {
       "name": "koishi-plugin-baidu",
@@ -10451,6 +10672,63 @@
       },
       "installSize": 13851,
       "publishSize": 8154
+    },
+    {
+      "name": "koishi-plugin-human-sign",
+      "manifest": {
+        "description": {
+          "en": "生成小人举牌图片, 可自定义文字"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "human-sign",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:47:53.005Z",
+      "updatedAt": "2023-01-18T16:31:56.992Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4691481740035274,
+        "detail": {
+          "quality": 0.9998329139604274,
+          "popularity": 0.23549574953849794,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:56.992Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-human-sign"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "生成小人举牌图片, 可自定义文字",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 96
+      },
+      "installSize": 1671,
+      "publishSize": 1671
     },
     {
       "name": "koishi-plugin-dialogue-rate-limit",
@@ -11622,6 +11900,63 @@
       "publishSize": 5069
     },
     {
+      "name": "koishi-plugin-search-bing",
+      "manifest": {
+        "description": {
+          "en": "专业代搜姬，用bing帮你搜索~"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "search-bing",
+      "keywords": [],
+      "createdAt": "2023-01-08T11:50:50.560Z",
+      "updatedAt": "2023-01-18T16:32:28.607Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4599709363817545,
+        "detail": {
+          "quality": 0.773788421497254,
+          "popularity": 0.38208602483144577,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:28.607Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-search-bing"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "专业代搜姬，用bing帮你搜索~",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 161
+      },
+      "installSize": 2564568,
+      "publishSize": 2880
+    },
+    {
       "name": "koishi-plugin-pointfree",
       "manifest": {
         "description": {
@@ -12288,58 +12623,6 @@
       "publishSize": 14618
     },
     {
-      "name": "koishi-plugin-search-bing",
-      "manifest": {
-        "description": {
-          "en": "专业代搜姬，用bing帮你搜索~"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "search-bing",
-      "keywords": [],
-      "createdAt": "2023-01-08T11:50:50.560Z",
-      "updatedAt": "2023-01-10T03:48:06.590Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.45222044202835954,
-        "detail": {
-          "quality": 0.7737915166571303,
-          "popularity": 0.3627074675780511,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-10T03:48:06.590Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-search-bing"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.2",
-      "description": "专业代搜姬，用bing帮你搜索~",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 152
-      },
-      "installSize": 2564528,
-      "publishSize": 2840
-    },
-    {
       "name": "koishi-plugin-davinci-003",
       "manifest": {
         "description": {
@@ -12694,6 +12977,120 @@
       "publishSize": 575
     },
     {
+      "name": "koishi-plugin-genshin-toolkit",
+      "manifest": {
+        "description": {
+          "en": "(开发中，占个包)原神工具箱！"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "genshin-toolkit",
+      "keywords": [],
+      "createdAt": "2023-01-10T07:25:10.945Z",
+      "updatedAt": "2023-01-18T16:31:38.371Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.44707332837971275,
+        "detail": {
+          "quality": 0.9995770894518868,
+          "popularity": 0.18050050386036678,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:38.371Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-toolkit"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.5",
+      "description": "(开发中，占个包)原神工具箱！",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 73
+      },
+      "installSize": 4230,
+      "publishSize": 4230
+    },
+    {
+      "name": "koishi-plugin-console-update-tips",
+      "manifest": {
+        "description": {
+          "en": "1"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "console-update-tips",
+      "keywords": [],
+      "createdAt": "2023-01-12T08:39:18.373Z",
+      "updatedAt": "2023-01-18T16:31:23.156Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.44619811919967933,
+        "detail": {
+          "quality": 0.9998859065091574,
+          "popularity": 0.17808086811733023,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:23.156Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-console-update-tips"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.5",
+      "description": "1",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 72
+      },
+      "installSize": 1141,
+      "publishSize": 1141
+    },
+    {
       "name": "koishi-plugin-shadowban",
       "manifest": {
         "description": {
@@ -12878,10 +13275,10 @@
       "publishSize": 24706
     },
     {
-      "name": "koishi-plugin-genshin-toolkit",
+      "name": "koishi-plugin-never-gonna-give-you-up",
       "manifest": {
         "description": {
-          "en": "(开发中，占个包)原神工具箱！"
+          "en": "你没被骗.avi"
         },
         "locales": [],
         "service": {
@@ -12890,23 +13287,23 @@
           "implements": []
         }
       },
-      "shortname": "genshin-toolkit",
+      "shortname": "never-gonna-give-you-up",
       "keywords": [],
-      "createdAt": "2023-01-10T07:25:10.945Z",
-      "updatedAt": "2023-01-10T07:25:10.945Z",
+      "createdAt": "2023-01-12T08:08:38.609Z",
+      "updatedAt": "2023-01-18T16:32:08.175Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.4423343288937284,
+        "final": 0.44327235968947204,
         "detail": {
-          "quality": 0.9999397018180085,
-          "popularity": 0.16838104587081468,
+          "quality": 0.9998290146196667,
+          "popularity": 0.17080913825893015,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-10T07:25:10.945Z",
+      "date": "2023-01-18T16:32:08.175Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-genshin-toolkit"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-never-gonna-give-you-up"
       },
       "publisher": {
         "username": "huanlin",
@@ -12918,16 +13315,21 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.0.0",
-      "description": "(开发中，占个包)原神工具箱！",
+      "version": "19.19.815",
+      "description": "你没被骗.avi",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 68
+        "lastMonth": 69
       },
-      "installSize": 603,
-      "publishSize": 603
+      "installSize": 1710,
+      "publishSize": 1710
     },
     {
       "name": "koishi-plugin-random-number",
@@ -13041,10 +13443,10 @@
       "publishSize": 18795
     },
     {
-      "name": "koishi-plugin-console-update-tips",
+      "name": "koishi-plugin-ip-checker",
       "manifest": {
         "description": {
-          "en": "1"
+          "en": "让我测测你的ip!"
         },
         "locales": [],
         "service": {
@@ -13053,23 +13455,23 @@
           "implements": []
         }
       },
-      "shortname": "console-update-tips",
+      "shortname": "ip-checker",
       "keywords": [],
-      "createdAt": "2023-01-12T08:39:18.373Z",
-      "updatedAt": "2023-01-12T08:39:18.373Z",
+      "createdAt": "2023-01-16T16:48:11.214Z",
+      "updatedAt": "2023-01-18T16:31:59.118Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.4345209852675619,
+        "final": 0.4335229028111375,
         "detail": {
-          "quality": 0.9998899060607825,
-          "popularity": 0.14888503362331798,
+          "quality": 0.9998236155575652,
+          "popularity": 0.14643954535966974,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-12T08:39:18.373Z",
+      "date": "2023-01-18T16:31:59.118Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-console-update-tips"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-ip-checker"
       },
       "publisher": {
         "username": "huanlin",
@@ -13081,16 +13483,78 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.0.0",
-      "description": "1",
+      "version": "1.0.6",
+      "description": "让我测测你的ip!",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 60
+        "lastMonth": 59
       },
-      "installSize": 1101,
-      "publishSize": 1101
+      "installSize": 1764,
+      "publishSize": 1764
+    },
+    {
+      "name": "koishi-plugin-whois",
+      "manifest": {
+        "description": {
+          "en": "查询域名WHOIS信息"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "whois",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:48:06.528Z",
+      "updatedAt": "2023-01-18T16:32:57.861Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4335180437077246,
+        "detail": {
+          "quality": 0.9998074185461893,
+          "popularity": 0.14643954535966974,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:57.861Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-whois"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "查询域名WHOIS信息",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 59
+      },
+      "installSize": 1926,
+      "publishSize": 1926
     },
     {
       "name": "koishi-plugin-thesaurus",
@@ -13154,10 +13618,10 @@
       "publishSize": 23703
     },
     {
-      "name": "koishi-plugin-never-gonna-give-you-up",
+      "name": "koishi-plugin-4k-background",
       "manifest": {
         "description": {
-          "en": "你没被骗.avi"
+          "en": "获取随机4k风景照"
         },
         "locales": [],
         "service": {
@@ -13166,23 +13630,23 @@
           "implements": []
         }
       },
-      "shortname": "never-gonna-give-you-up",
+      "shortname": "4k-background",
       "keywords": [],
-      "createdAt": "2023-01-12T08:08:38.609Z",
-      "updatedAt": "2023-01-12T08:08:38.609Z",
+      "createdAt": "2023-01-16T16:47:41.085Z",
+      "updatedAt": "2023-01-18T16:31:07.854Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.43254681052833205,
+        "final": 0.4325470204933385,
         "detail": {
-          "quality": 0.9998330139437238,
+          "quality": 0.9998337138270785,
           "popularity": 0.14399226586303732,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-12T08:08:38.609Z",
+      "date": "2023-01-18T16:31:07.854Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-never-gonna-give-you-up"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-4k-background"
       },
       "publisher": {
         "username": "huanlin",
@@ -13194,16 +13658,363 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "19.19.810",
-      "description": "你没被骗.avi",
+      "version": "1.0.6",
+      "description": "获取随机4k风景照",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
         "lastMonth": 58
       },
-      "installSize": 1670,
-      "publishSize": 1670
+      "installSize": 1663,
+      "publishSize": 1663
+    },
+    {
+      "name": "koishi-plugin-todaynews",
+      "manifest": {
+        "description": {
+          "en": "速览今日新闻"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "todaynews",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:48:03.885Z",
+      "updatedAt": "2023-01-18T16:32:48.034Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.43157010322689227,
+        "detail": {
+          "quality": 0.9998427123709963,
+          "popularity": 0.14154322378898346,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:48.034Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-todaynews"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "速览今日新闻",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 57
+      },
+      "installSize": 1573,
+      "publishSize": 1573
+    },
+    {
+      "name": "koishi-plugin-idcard-checker",
+      "manifest": {
+        "description": {
+          "en": "让我测测你的身份证！"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "idcard-checker",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:48:43.172Z",
+      "updatedAt": "2023-01-18T16:31:14.099Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4315620645992029,
+        "detail": {
+          "quality": 0.9998159169453651,
+          "popularity": 0.14154322378898346,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:14.099Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-idcard-checker"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "让我测测你的身份证！",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 57
+      },
+      "installSize": 1841,
+      "publishSize": 1841
+    },
+    {
+      "name": "koishi-plugin-random-wallpaper",
+      "manifest": {
+        "description": {
+          "en": "随机获取二刺螈房间壁纸"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "random-wallpaper",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:47:55.462Z",
+      "updatedAt": "2023-01-18T16:32:25.536Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4315609548055882,
+        "detail": {
+          "quality": 0.9998122176333162,
+          "popularity": 0.14154322378898346,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:25.536Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-random-wallpaper"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "随机获取二刺螈房间壁纸",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 57
+      },
+      "installSize": 1878,
+      "publishSize": 1878
+    },
+    {
+      "name": "koishi-plugin-anonymous-email",
+      "manifest": {
+        "description": {
+          "en": "使用代发服务匿名发送邮件"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "anonymous-email",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:47:44.761Z",
+      "updatedAt": "2023-01-18T16:31:09.784Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4315559457882033,
+        "detail": {
+          "quality": 0.9997955209086997,
+          "popularity": 0.14154322378898346,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:09.784Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-anonymous-email"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "使用代发服务匿名发送邮件",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 57
+      },
+      "installSize": 2045,
+      "publishSize": 2045
+    },
+    {
+      "name": "koishi-plugin-spawn-handwrite-img",
+      "manifest": {
+        "description": {
+          "en": "生成手写图片"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "spawn-handwrite-img",
+      "keywords": [],
+      "createdAt": "2023-01-16T16:47:58.211Z",
+      "updatedAt": "2023-01-18T16:32:31.446Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.42960598095070035,
+        "detail": {
+          "quality": 0.9998333138936729,
+          "popularity": 0.1366399669564962,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:31.446Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-spawn-handwrite-img"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "生成手写图片",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 55
+      },
+      "installSize": 1667,
+      "publishSize": 1667
+    },
+    {
+      "name": "koishi-plugin-today-in-history",
+      "manifest": {
+        "description": {
+          "en": "历史上的今天"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "today-in-history",
+      "keywords": [],
+      "createdAt": "2023-01-16T17:15:00.469Z",
+      "updatedAt": "2023-01-18T16:32:44.549Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4285963641036873,
+        "detail": {
+          "quality": 0.9997401337710793,
+          "popularity": 0.13418580993090867,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:44.549Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-today-in-history"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "历史上的今天",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 54
+      },
+      "installSize": 2599,
+      "publishSize": 2599
     },
     {
       "name": "koishi-plugin-auto-reply",
@@ -13256,78 +14067,6 @@
       },
       "installSize": 5238,
       "publishSize": 5238
-    },
-    {
-      "name": "koishi-plugin-paimon",
-      "manifest": {
-        "description": {
-          "zh": "派蒙！最好的<del>应急食品</del>伙伴！（开发中的插件，功能不完整，欢迎issue提出bug）"
-        },
-        "locales": [],
-        "preview": true,
-        "service": {
-          "required": [
-            "database",
-            "puppeteer"
-          ],
-          "optional": [],
-          "implements": [
-            "paimon"
-          ]
-        }
-      },
-      "shortname": "paimon",
-      "keywords": [
-        "mihoyo",
-        "hoyolab",
-        "genshin",
-        "genshin-impact",
-        "genshin-api"
-      ],
-      "createdAt": "2022-08-28T18:02:21.971Z",
-      "updatedAt": "2023-01-14T19:04:44.148Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.42793003927849504,
-        "detail": {
-          "quality": 0.7895001147036529,
-          "popularity": 0.47770001216849795,
-          "maintenance": 0
-        }
-      },
-      "date": "2023-01-14T19:04:44.148Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-paimon",
-        "homepage": "https://github.com/Lipraty/koishi-plugin-paimon#readme",
-        "repository": "https://github.com/Lipraty/koishi-plugin-paimon",
-        "bugs": "https://github.com/Lipraty/koishi-plugin-paimon/issues"
-      },
-      "publisher": {
-        "username": "lipraty",
-        "email": "sis1943@outlook.com"
-      },
-      "maintainers": [
-        {
-          "username": "lipraty",
-          "email": "sis1943@outlook.com"
-        }
-      ],
-      "version": "0.2.2-preview.1",
-      "description": "A koishi plugin for a certain anime game.",
-      "license": "MIT",
-      "contributors": [
-        {
-          "name": "Lipraty",
-          "email": "i@lonay.me"
-        }
-      ],
-      "portable": false,
-      "downloads": {
-        "lastMonth": 208
-      },
-      "installSize": 2363553,
-      "publishSize": 143168
     },
     {
       "name": "koishi-plugin-assets-git",
@@ -13400,10 +14139,10 @@
       "publishSize": 14079
     },
     {
-      "name": "koishi-plugin-human-sign",
+      "name": "koishi-plugin-weibo-hot",
       "manifest": {
         "description": {
-          "en": "生成小人举牌图片, 可自定义文字"
+          "en": "获取微博热搜"
         },
         "locales": [],
         "service": {
@@ -13412,23 +14151,23 @@
           "implements": []
         }
       },
-      "shortname": "human-sign",
+      "shortname": "weibo-hot",
       "keywords": [],
-      "createdAt": "2023-01-16T16:47:53.005Z",
-      "updatedAt": "2023-01-17T12:01:52.432Z",
+      "createdAt": "2023-01-16T17:22:42.172Z",
+      "updatedAt": "2023-01-18T16:32:52.714Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.420749357668869,
+        "final": 0.42566210569376606,
         "detail": {
-          "quality": 0.999836913300082,
-          "popularity": 0.11449570919711113,
+          "quality": 0.9997889222800372,
+          "popularity": 0.12681357252438727,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-17T12:01:52.432Z",
+      "date": "2023-01-18T16:32:52.714Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-human-sign"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-weibo-hot"
       },
       "publisher": {
         "username": "huanlin",
@@ -13440,16 +14179,21 @@
           "email": "linsmc@126.com"
         }
       ],
-      "version": "1.0.2",
-      "description": "生成小人举牌图片, 可自定义文字",
+      "version": "1.0.6",
+      "description": "获取微博热搜",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
       "portable": false,
       "downloads": {
-        "lastMonth": 46
+        "lastMonth": 51
       },
-      "installSize": 1631,
-      "publishSize": 1631
+      "installSize": 2111,
+      "publishSize": 2111
     },
     {
       "name": "koishi-plugin-api",
@@ -13509,6 +14253,348 @@
       },
       "installSize": 9298721,
       "publishSize": 16161
+    },
+    {
+      "name": "koishi-plugin-jiutian-toolkit",
+      "manifest": {
+        "description": {
+          "en": "\u0016九天毕昇工具箱"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "jiutian-toolkit",
+      "keywords": [],
+      "createdAt": "2023-01-17T08:00:01.895Z",
+      "updatedAt": "2023-01-18T16:32:02.461Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.41542802246355864,
+        "detail": {
+          "quality": 0.9985700233922836,
+          "popularity": 0.10214253861468393,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:02.461Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-jiutian-toolkit"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "\u0016九天毕昇工具箱",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 41
+      },
+      "installSize": 14310,
+      "publishSize": 14310
+    },
+    {
+      "name": "koishi-plugin-158-drive-cracker",
+      "manifest": {
+        "description": {
+          "en": "158网盘解析"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "158-drive-cracker",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:50:43.615Z",
+      "updatedAt": "2023-01-18T16:31:04.274Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.41480909347757244,
+        "detail": {
+          "quality": 0.9998063187586338,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:04.274Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-158-drive-cracker"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "158网盘解析",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 1937,
+      "publishSize": 1937
+    },
+    {
+      "name": "koishi-plugin-lanzou-drive-cracker",
+      "manifest": {
+        "description": {
+          "en": "蓝奏网盘解析"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "lanzou-drive-cracker",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:50:49.696Z",
+      "updatedAt": "2023-01-18T16:32:04.467Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4148085835767833,
+        "detail": {
+          "quality": 0.9998046190893366,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:04.467Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-lanzou-drive-cracker"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "蓝奏网盘解析",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 1954,
+      "publishSize": 1954
+    },
+    {
+      "name": "koishi-plugin-tianyi-drive-cracker",
+      "manifest": {
+        "description": {
+          "en": "天翼网盘解析"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "tianyi-drive-cracker",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:50:47.089Z",
+      "updatedAt": "2023-01-18T16:32:37.852Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.41480594410420263,
+        "detail": {
+          "quality": 0.9997958208474009,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:37.852Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-tianyi-drive-cracker"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "天翼网盘解析",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 2042,
+      "publishSize": 2042
+    },
+    {
+      "name": "koishi-plugin-chentong-drive-cracker",
+      "manifest": {
+        "description": {
+          "en": "诚通/皮皮网盘解析"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "chentong-drive-cracker",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:50:52.688Z",
+      "updatedAt": "2023-01-18T16:31:21.037Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4148048043391324,
+        "detail": {
+          "quality": 0.9997920216305003,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:21.037Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-chentong-drive-cracker"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "诚通/皮皮网盘解析",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 2080,
+      "publishSize": 2080
+    },
+    {
+      "name": "koishi-plugin-petpet-plus",
+      "manifest": {
+        "description": {
+          "en": "petpet的可用版本(API)"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "petpet-plus",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:50:58.201Z",
+      "updatedAt": "2023-01-18T16:32:13.765Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.4147664747623352,
+        "detail": {
+          "quality": 0.9996642563745096,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:32:13.765Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-petpet-plus"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.7",
+      "description": "petpet的可用版本(API)",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 3358,
+      "publishSize": 3358
     },
     {
       "name": "koishi-plugin-click-colorful",
@@ -13637,6 +14723,63 @@
       },
       "installSize": 10832155,
       "publishSize": 62719
+    },
+    {
+      "name": "koishi-plugin-huanlin-sleep",
+      "manifest": {
+        "description": {
+          "en": "幻灵早晚安, 支持群友向机器人早晚安并统计睡眠市场!"
+        },
+        "locales": [],
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        }
+      },
+      "shortname": "huanlin-sleep",
+      "keywords": [],
+      "createdAt": "2023-01-17T16:51:03.023Z",
+      "updatedAt": "2023-01-18T16:31:54.755Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.40920514128010876,
+        "detail": {
+          "quality": 0.9811264781004215,
+          "popularity": 0.09966799462495585,
+          "maintenance": 0.25
+        }
+      },
+      "date": "2023-01-18T16:31:54.755Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-huanlin-sleep"
+      },
+      "publisher": {
+        "username": "huanlin",
+        "email": "linsmc@126.com"
+      },
+      "maintainers": [
+        {
+          "username": "huanlin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "version": "1.0.6",
+      "description": "幻灵早晚安, 支持群友向机器人早晚安并统计睡眠市场!",
+      "license": "MIT",
+      "contributors": [
+        {
+          "name": "HuanLin",
+          "email": "linsmc@126.com"
+        }
+      ],
+      "portable": false,
+      "downloads": {
+        "lastMonth": 40
+      },
+      "installSize": 190539,
+      "publishSize": 6059
     },
     {
       "name": "koishi-plugin-sd-switch",
@@ -15296,59 +16439,65 @@
       "publishSize": 28354
     },
     {
-      "name": "koishi-plugin-todaynews",
+      "name": "koishi-plugin-eventbus",
       "manifest": {
         "description": {
-          "en": "速览今日新闻"
+          "en": "grpg based event publishing channel"
         },
         "locales": [],
         "service": {
           "required": [],
           "optional": [],
           "implements": []
-        }
+        },
+        "hidden": true
       },
-      "shortname": "todaynews",
+      "shortname": "eventbus",
       "keywords": [],
-      "createdAt": "2023-01-16T16:48:03.885Z",
-      "updatedAt": "2023-01-16T16:48:03.885Z",
+      "createdAt": "2023-01-19T17:04:09.600Z",
+      "updatedAt": "2023-01-19T17:04:09.600Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.3749540135249534,
+        "final": 0.3749632222545219,
         "detail": {
-          "quality": 0.9998467117498446,
+          "quality": 0.9998774075150729,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-16T16:48:03.885Z",
+      "date": "2023-01-19T17:04:09.600Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-todaynews"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-eventbus"
       },
       "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
+        "username": "lipraty",
+        "email": "sis1943@outlook.com"
       },
       "maintainers": [
         {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
+          "username": "lipraty",
+          "email": "sis1943@outlook.com"
         }
       ],
-      "version": "1.0.1",
-      "description": "速览今日新闻",
+      "version": "0.0.0-placeholder",
+      "description": "grpg based event publishing channel",
       "license": "MIT",
-      "contributors": [],
+      "contributors": [
+        {
+          "name": "Lipraty",
+          "email": "i@lonay.me"
+        }
+      ],
       "portable": false,
-      "installSize": 1533,
-      "publishSize": 1533
+      "installSize": 1226,
+      "publishSize": 1226
     },
     {
-      "name": "koishi-plugin-4k-background",
+      "name": "koishi-plugin-shuijishu",
       "manifest": {
         "description": {
-          "en": "获取随机4k风景照"
+          "en": "这个插件可以生成随机数"
         },
         "locales": [],
         "service": {
@@ -15357,47 +16506,47 @@
           "implements": []
         }
       },
-      "shortname": "4k-background",
+      "shortname": "shuijishu",
       "keywords": [],
-      "createdAt": "2023-01-16T16:47:41.085Z",
-      "updatedAt": "2023-01-16T16:47:41.085Z",
+      "createdAt": "2023-01-18T04:38:02.389Z",
+      "updatedAt": "2023-01-18T04:38:02.389Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.37495131395097975,
+        "final": 0.37495677311457193,
         "detail": {
-          "quality": 0.9998377131699325,
+          "quality": 0.9998559103819064,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-16T16:47:41.085Z",
+      "date": "2023-01-18T04:38:02.389Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-4k-background"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-shuijishu"
       },
       "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
+        "username": "windsing",
+        "email": "oulongchen273@outlook.com"
       },
       "maintainers": [
         {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
+          "username": "windsing",
+          "email": "oulongchen273@outlook.com"
         }
       ],
-      "version": "1.0.1",
-      "description": "获取随机4k风景照",
+      "version": "1.0.0",
+      "description": "这个插件可以生成随机数",
       "license": "MIT",
       "contributors": [],
       "portable": false,
-      "installSize": 1623,
-      "publishSize": 1623
+      "installSize": 1441,
+      "publishSize": 1441
     },
     {
-      "name": "koishi-plugin-spawn-handwrite-img",
+      "name": "koishi-plugin-today-word",
       "manifest": {
         "description": {
-          "en": "生成手写图片"
+          "en": "输入“每日一句”，今天给你写一句鼓励的话，陌生人，加油！"
         },
         "locales": [],
         "service": {
@@ -15406,47 +16555,47 @@
           "implements": []
         }
       },
-      "shortname": "spawn-handwrite-img",
+      "shortname": "today-word",
       "keywords": [],
-      "createdAt": "2023-01-16T16:47:58.211Z",
-      "updatedAt": "2023-01-16T16:47:58.211Z",
+      "createdAt": "2023-01-19T17:39:08.118Z",
+      "updatedAt": "2023-01-19T17:39:08.118Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.37495119397047816,
+        "final": 0.3749552733344558,
         "detail": {
-          "quality": 0.9998373132349272,
+          "quality": 0.9998509111148526,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-16T16:47:58.211Z",
+      "date": "2023-01-19T17:39:08.118Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-spawn-handwrite-img"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-today-word"
       },
       "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
+        "username": "windsing",
+        "email": "oulongchen273@outlook.com"
       },
       "maintainers": [
         {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
+          "username": "windsing",
+          "email": "oulongchen273@outlook.com"
         }
       ],
-      "version": "1.0.1",
-      "description": "生成手写图片",
+      "version": "1.0.0",
+      "description": "输入“每日一句”，今天给你写一句鼓励的话，陌生人，加油！",
       "license": "MIT",
       "contributors": [],
       "portable": false,
-      "installSize": 1627,
-      "publishSize": 1627
+      "installSize": 1491,
+      "publishSize": 1491
     },
     {
-      "name": "koishi-plugin-ip-checker",
+      "name": "koishi-plugin-wangyiyun-word",
       "manifest": {
         "description": {
-          "en": "让我测测你的ip!"
+          "en": "输入“网易云热评”会生成随机评论，令闻者落泪，听者伤心。"
         },
         "locales": [],
         "service": {
@@ -15455,90 +16604,41 @@
           "implements": []
         }
       },
-      "shortname": "ip-checker",
+      "shortname": "wangyiyun-word",
       "keywords": [],
-      "createdAt": "2023-01-16T16:48:11.214Z",
-      "updatedAt": "2023-01-16T16:48:11.214Z",
+      "createdAt": "2023-01-19T17:42:38.397Z",
+      "updatedAt": "2023-01-19T17:42:38.397Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.3749482844580078,
+        "final": 0.37495461343358033,
         "detail": {
-          "quality": 0.999827614860026,
+          "quality": 0.9998487114452678,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-16T16:48:11.214Z",
+      "date": "2023-01-19T17:42:38.397Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-ip-checker"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-wangyiyun-word"
       },
       "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
+        "username": "windsing",
+        "email": "oulongchen273@outlook.com"
       },
       "maintainers": [
         {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
+          "username": "windsing",
+          "email": "oulongchen273@outlook.com"
         }
       ],
-      "version": "1.0.1",
-      "description": "让我测测你的ip!",
+      "version": "1.0.0",
+      "description": "输入“网易云热评”会生成随机评论，令闻者落泪，听者伤心。",
       "license": "MIT",
       "contributors": [],
       "portable": false,
-      "installSize": 1724,
-      "publishSize": 1724
-    },
-    {
-      "name": "koishi-plugin-idcard-checker",
-      "manifest": {
-        "description": {
-          "en": "让我测测你的身份证！"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "idcard-checker",
-      "keywords": [],
-      "createdAt": "2023-01-16T16:48:43.172Z",
-      "updatedAt": "2023-01-16T16:48:43.172Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749459748651094,
-        "detail": {
-          "quality": 0.9998199162170314,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-16T16:48:43.172Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-idcard-checker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "让我测测你的身份证！",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 1801,
-      "publishSize": 1801
+      "installSize": 1513,
+      "publishSize": 1513
     },
     {
       "name": "koishi-plugin-currency-command",
@@ -15590,10 +16690,10 @@
       "publishSize": 1837
     },
     {
-      "name": "koishi-plugin-random-wallpaper",
+      "name": "koishi-plugin-moebgm",
       "manifest": {
         "description": {
-          "en": "随机获取二刺螈房间壁纸"
+          "en": "返回萌番组索引"
         },
         "locales": [],
         "service": {
@@ -15602,433 +16702,41 @@
           "implements": []
         }
       },
-      "shortname": "random-wallpaper",
+      "shortname": "moebgm",
       "keywords": [],
-      "createdAt": "2023-01-16T16:47:55.462Z",
-      "updatedAt": "2023-01-16T16:47:55.462Z",
+      "createdAt": "2023-01-18T09:53:35.392Z",
+      "updatedAt": "2023-01-18T09:53:35.392Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.37494486506705554,
+        "final": 0.3749338872858887,
         "detail": {
-          "quality": 0.9998162168901852,
+          "quality": 0.9997796242862957,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-16T16:47:55.462Z",
+      "date": "2023-01-18T09:53:35.392Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-random-wallpaper"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-moebgm"
       },
       "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
+        "username": "kirazero",
+        "email": "914489374@qq.com"
       },
       "maintainers": [
         {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
+          "username": "kirazero",
+          "email": "914489374@qq.com"
         }
       ],
-      "version": "1.0.1",
-      "description": "随机获取二刺螈房间壁纸",
+      "version": "1.0.0",
+      "description": "返回萌番组索引",
       "license": "MIT",
       "contributors": [],
       "portable": false,
-      "installSize": 1838,
-      "publishSize": 1838
-    },
-    {
-      "name": "koishi-plugin-whois",
-      "manifest": {
-        "description": {
-          "en": "查询域名WHOIS信息"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "whois",
-      "keywords": [],
-      "createdAt": "2023-01-16T16:48:06.528Z",
-      "updatedAt": "2023-01-16T16:48:06.528Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37494342533515856,
-        "detail": {
-          "quality": 0.999811417783862,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-16T16:48:06.528Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-whois"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "查询域名WHOIS信息",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 1886,
-      "publishSize": 1886
-    },
-    {
-      "name": "koishi-plugin-158-drive-cracker",
-      "manifest": {
-        "description": {
-          "en": "158网盘解析"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "158-drive-cracker",
-      "keywords": [],
-      "createdAt": "2023-01-17T16:50:43.615Z",
-      "updatedAt": "2023-01-17T16:50:43.615Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749430953975722,
-        "detail": {
-          "quality": 0.9998103179919073,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T16:50:43.615Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-158-drive-cracker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "158网盘解析",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 1897,
-      "publishSize": 1897
-    },
-    {
-      "name": "koishi-plugin-lanzou-drive-cracker",
-      "manifest": {
-        "description": {
-          "en": "蓝奏网盘解析"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "lanzou-drive-cracker",
-      "keywords": [],
-      "createdAt": "2023-01-17T16:50:49.696Z",
-      "updatedAt": "2023-01-17T16:50:49.696Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37494258549474346,
-        "detail": {
-          "quality": 0.9998086183158115,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T16:50:49.696Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-lanzou-drive-cracker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "蓝奏网盘解析",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 1914,
-      "publishSize": 1914
-    },
-    {
-      "name": "koishi-plugin-tianyi-drive-cracker",
-      "manifest": {
-        "description": {
-          "en": "天翼网盘解析"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "tianyi-drive-cracker",
-      "keywords": [],
-      "createdAt": "2023-01-17T16:50:47.089Z",
-      "updatedAt": "2023-01-17T16:50:47.089Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749399460116048,
-        "detail": {
-          "quality": 0.9997998200386827,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T16:50:47.089Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-tianyi-drive-cracker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "天翼网盘解析",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 2002,
-      "publishSize": 2002
-    },
-    {
-      "name": "koishi-plugin-anonymous-email",
-      "manifest": {
-        "description": {
-          "en": "使用代发服务匿名发送邮件"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "anonymous-email",
-      "keywords": [],
-      "createdAt": "2023-01-16T16:47:44.761Z",
-      "updatedAt": "2023-01-16T16:47:44.761Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37493985602963453,
-        "detail": {
-          "quality": 0.9997995200987817,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-16T16:47:44.761Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-anonymous-email"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "使用代发服务匿名发送邮件",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 2005,
-      "publishSize": 2005
-    },
-    {
-      "name": "koishi-plugin-chentong-drive-cracker",
-      "manifest": {
-        "description": {
-          "en": "诚通/皮皮网盘解析"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "chentong-drive-cracker",
-      "keywords": [],
-      "createdAt": "2023-01-17T16:50:52.688Z",
-      "updatedAt": "2023-01-17T16:50:52.688Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37493880624197556,
-        "detail": {
-          "quality": 0.9997960208065851,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T16:50:52.688Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-chentong-drive-cracker"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "诚通/皮皮网盘解析",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 2040,
-      "publishSize": 2040
-    },
-    {
-      "name": "koishi-plugin-weibo-hot",
-      "manifest": {
-        "description": {
-          "en": "获取微博热搜"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "weibo-hot",
-      "keywords": [],
-      "createdAt": "2023-01-16T17:22:42.172Z",
-      "updatedAt": "2023-01-16T17:22:42.172Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749378764331174,
-        "detail": {
-          "quality": 0.9997929214437247,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-16T17:22:42.172Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-weibo-hot"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "获取微博热搜",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 2071,
-      "publishSize": 2071
-    },
-    {
-      "name": "koishi-plugin-today-in-history",
-      "manifest": {
-        "description": {
-          "en": "历史上的今天"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "today-in-history",
-      "keywords": [],
-      "createdAt": "2023-01-16T17:15:00.469Z",
-      "updatedAt": "2023-01-16T17:15:00.469Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749232398218837,
-        "detail": {
-          "quality": 0.9997441327396123,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-16T17:15:00.469Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-today-in-history"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "历史上的今天",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 2559,
-      "publishSize": 2559
+      "installSize": 2204,
+      "publishSize": 2204
     },
     {
       "name": "koishi-plugin-command-webhook",
@@ -16085,55 +16793,6 @@
       "publishSize": 2981
     },
     {
-      "name": "koishi-plugin-petpet-plus",
-      "manifest": {
-        "description": {
-          "en": "petpet的可用版本(API)"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "petpet-plus",
-      "keywords": [],
-      "createdAt": "2023-01-17T16:50:58.201Z",
-      "updatedAt": "2023-01-17T16:50:58.201Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3749050950147604,
-        "detail": {
-          "quality": 0.9996836500492013,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T16:50:58.201Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-petpet-plus"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "petpet的可用版本(API)",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 3164,
-      "publishSize": 3164
-    },
-    {
       "name": "koishi-plugin-steam-status-subscribe",
       "manifest": {
         "description": {
@@ -16187,153 +16846,6 @@
       "portable": false,
       "installSize": 5641,
       "publishSize": 5641
-    },
-    {
-      "name": "koishi-plugin-hlai-ocr",
-      "manifest": {
-        "description": {
-          "en": "幻灵云OCR服务 免费 开箱即用"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "hlai-ocr",
-      "keywords": [],
-      "createdAt": "2023-01-14T06:32:21.147Z",
-      "updatedAt": "2023-01-14T09:10:52.361Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.3748003564587255,
-        "detail": {
-          "quality": 0.999334521529085,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-14T09:10:52.361Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-ocr"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.3",
-      "description": "幻灵云OCR服务 免费 开箱即用",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 6657,
-      "publishSize": 6657
-    },
-    {
-      "name": "koishi-plugin-hlai-painter",
-      "manifest": {
-        "description": {
-          "en": "幻灵云绘画, 支持多种风格模型, 无需配置, 安装即用"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "hlai-painter",
-      "keywords": [],
-      "createdAt": "2023-01-14T06:32:23.684Z",
-      "updatedAt": "2023-01-14T09:10:54.603Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37470092917141534,
-        "detail": {
-          "quality": 0.9990030972380511,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-14T09:10:54.603Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-hlai-painter"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.2",
-      "description": "幻灵云绘画, 支持多种风格模型, 无需配置, 安装即用",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 9974,
-      "publishSize": 9974
-    },
-    {
-      "name": "koishi-plugin-jiutian-toolkit",
-      "manifest": {
-        "description": {
-          "en": "\u0016九天毕昇工具箱"
-        },
-        "locales": [],
-        "service": {
-          "required": [],
-          "optional": [],
-          "implements": []
-        }
-      },
-      "shortname": "jiutian-toolkit",
-      "keywords": [],
-      "createdAt": "2023-01-17T08:00:01.895Z",
-      "updatedAt": "2023-01-17T08:00:01.895Z",
-      "verified": false,
-      "insecure": false,
-      "score": {
-        "final": 0.37460731722408974,
-        "detail": {
-          "quality": 0.9986910574136324,
-          "popularity": 0,
-          "maintenance": 0.25
-        }
-      },
-      "date": "2023-01-17T08:00:01.895Z",
-      "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-jiutian-toolkit"
-      },
-      "publisher": {
-        "username": "huanlin",
-        "email": "linsmc@126.com"
-      },
-      "maintainers": [
-        {
-          "username": "huanlin",
-          "email": "linsmc@126.com"
-        }
-      ],
-      "version": "1.0.1",
-      "description": "\u0016九天毕昇工具箱",
-      "license": "MIT",
-      "contributors": [],
-      "portable": false,
-      "installSize": 13098,
-      "publishSize": 13098
     },
     {
       "name": "koishi-plugin-messages",
@@ -16633,10 +17145,10 @@
       "publishSize": 14028
     },
     {
-      "name": "koishi-plugin-huanlin-sleep",
+      "name": "koishi-plugin-spring-festival-ui",
       "manifest": {
         "description": {
-          "en": "幻灵早晚安, 支持群友向机器人早晚安并统计睡眠市场!"
+          "en": "给你的控制台上一个新春皮肤吧！"
         },
         "locales": [],
         "service": {
@@ -16645,23 +17157,24 @@
           "implements": []
         }
       },
-      "shortname": "huanlin-sleep",
+      "shortname": "spring-festival-ui",
       "keywords": [],
-      "createdAt": "2023-01-17T16:51:03.023Z",
-      "updatedAt": "2023-01-17T16:51:03.023Z",
+      "createdAt": "2023-01-20T16:05:04.260Z",
+      "updatedAt": "2023-01-20T17:48:34.662Z",
       "verified": false,
       "insecure": false,
       "score": {
-        "final": 0.3693391207842549,
+        "final": 0.36967889578942803,
         "detail": {
-          "quality": 0.9811304026141829,
+          "quality": 0.9822629859647601,
           "popularity": 0,
           "maintenance": 0.25
         }
       },
-      "date": "2023-01-17T16:51:03.023Z",
+      "date": "2023-01-20T17:48:34.662Z",
       "links": {
-        "npm": "https://www.npmjs.com/package/koishi-plugin-huanlin-sleep"
+        "npm": "https://www.npmjs.com/package/koishi-plugin-spring-festival-ui",
+        "size": "https://packagephobia.com/result?p=koishi-plugin-spring-festival-ui"
       },
       "publisher": {
         "username": "huanlin",
@@ -16674,12 +17187,12 @@
         }
       ],
       "version": "1.0.1",
-      "description": "幻灵早晚安, 支持群友向机器人早晚安并统计睡眠市场!",
+      "description": "给你的控制台上一个新春皮肤吧！",
       "license": "MIT",
       "contributors": [],
       "portable": false,
-      "installSize": 190499,
-      "publishSize": 6019
+      "publishSize": 178962,
+      "installSize": 178962
     },
     {
       "name": "koishi-plugin-express",
@@ -17789,7 +18302,7 @@
       },
       "shortname": "adapter-wechaty",
       "keywords": [],
-      "createdAt": "2022-12-19T16:23:28.887Z",
+      "createdAt": "2022-01-31T18:04:33.894Z",
       "updatedAt": "2023-01-09T06:14:09.120Z",
       "verified": false,
       "insecure": true,
@@ -17954,6 +18467,58 @@
       },
       "installSize": 9302526,
       "publishSize": 19966
+    },
+    {
+      "name": "koishi-plugin-yunzai",
+      "manifest": {
+        "description": {
+          "zh": "(开发中)YunzaiBot for koishi"
+        },
+        "locales": [],
+        "market": "hidden",
+        "preview": true,
+        "service": {
+          "required": [],
+          "optional": [],
+          "implements": []
+        },
+        "hidden": true
+      },
+      "shortname": "yunzai",
+      "keywords": [],
+      "createdAt": "2023-01-18T15:01:18.678Z",
+      "updatedAt": "2023-01-18T15:51:57.701Z",
+      "verified": false,
+      "insecure": false,
+      "score": {
+        "final": 0.29987081782137914,
+        "detail": {
+          "quality": 0.9995693927379304,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "date": "2023-01-18T15:51:57.701Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/koishi-plugin-yunzai"
+      },
+      "publisher": {
+        "username": "lipraty",
+        "email": "sis1943@outlook.com"
+      },
+      "maintainers": [
+        {
+          "username": "lipraty",
+          "email": "sis1943@outlook.com"
+        }
+      ],
+      "version": "0.0.3-placeholder",
+      "description": "a yunzai-plugin adapter for koishi",
+      "license": "MIT",
+      "contributors": [],
+      "portable": false,
+      "installSize": 4307,
+      "publishSize": 4307
     },
     {
       "name": "koishi-plugin-bullshit-generator",
@@ -18886,7 +19451,7 @@
       "keywords": [
         "server"
       ],
-      "createdAt": "2022-04-10T07:08:52.771Z",
+      "createdAt": "2021-12-25T17:09:55.100Z",
       "updatedAt": "2022-04-10T07:08:52.771Z",
       "verified": false,
       "insecure": false,

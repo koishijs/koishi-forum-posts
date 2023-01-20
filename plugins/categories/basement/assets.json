@@ -1,0 +1,10 @@
+{
+  "shown": [
+    "assets-git",
+    "assets-local",
+    "assets-remote",
+    "assets-s3",
+    "assets-smms"
+  ],
+  "hidden": []
+}

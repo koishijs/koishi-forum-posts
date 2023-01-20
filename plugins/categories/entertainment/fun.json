@@ -1,0 +1,29 @@
+{
+  "shown": [
+    "5k",
+    "aircon",
+    "alipay-voice",
+    "bullshit-generator",
+    "color",
+    "crazy-thursday",
+    "dice",
+    "dicex",
+    "duplicate-checker",
+    "emojimix",
+    "httpcat",
+    "huanlin-sleep",
+    "human-sign",
+    "meme",
+    "nonsense",
+    "nyan",
+    "@nonebot/person",
+    "petpet-plus",
+    "phlogo",
+    "repeater",
+    "sleep-manage",
+    "thesaurus"
+  ],
+  "hidden": [
+    "petpet"
+  ]
+}

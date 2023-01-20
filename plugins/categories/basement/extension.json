@@ -1,0 +1,19 @@
+{
+  "shown": [
+    "api",
+    "apisend",
+    "blockly",
+    "currency",
+    "currency-command",
+    "eval",
+    "express",
+    "markdown",
+    "nonebot",
+    "spawn",
+    "xff",
+    "xff2"
+  ],
+  "hidden": [
+    "money"
+  ]
+}

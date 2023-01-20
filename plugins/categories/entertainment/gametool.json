@@ -1,0 +1,26 @@
+{
+  "shown": [
+    "@nonebot/acc-calculate",
+    "ffxiv-eorzea",
+    "ffxiv-lodestone",
+    "ffxiv-macrodict",
+    "gameserver",
+    "genshin-resin",
+    "genshin-toolkit",
+    "@nonebot/gscode",
+    "maimai",
+    "maimai-potato",
+    "mcinfo",
+    "mcping",
+    "splatoon",
+    "srvpro-roomlist",
+    "stnb",
+    "tabulate",
+    "@nonebot/warframe",
+    "@nonebot/ygo",
+    "@nonebot/ygo-trade",
+    "ygocard",
+    "ygotournament"
+  ],
+  "hidden": []
+}

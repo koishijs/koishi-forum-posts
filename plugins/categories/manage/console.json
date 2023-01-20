@@ -2,23 +2,23 @@
   "shown": [
     "analytics",
     "auth",
-    "chat",
-    "console",
-    "dataview",
-    "insight",
-    "logger",
-    "market",
-    "sandbox",
-    "status",
     "changelog",
+    "chat",
     "click-colorful",
+    "console",
     "console-update-tips",
+    "dataview",
     "desktop",
     "envinfo",
     "footer",
-    "never-gonna-give-you-up",
+    "insight",
+    "logger",
+    "market",
     "migration",
-    "schema-guide"
+    "never-gonna-give-you-up",
+    "sandbox",
+    "schema-guide",
+    "status"
   ],
   "hidden": []
 }

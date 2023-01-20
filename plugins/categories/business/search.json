@@ -1,0 +1,18 @@
+{
+  "shown": [
+    "baidu",
+    "douban",
+    "ekwing-fucker",
+    "gameinfo",
+    "javbus",
+    "mikan",
+    "oeis",
+    "search-bing",
+    "steaminfo",
+    "weather",
+    "@nonebot/weather-lite"
+  ],
+  "hidden": [
+    "magi"
+  ]
+}
